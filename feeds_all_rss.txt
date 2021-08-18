@@ -5,3 +5,7 @@ https://api.feeddd.org/feeds/6117dcc8a51eff50b3f2a3d9 资源殿
 https://api.feeddd.org/feeds/6117dcc8a51eff50b3f2a3de 安小寻
 https://api.feeddd.org/feeds/6117e2a4a51eff50b3f2a432 工具达人
 https://api.feeddd.org/feeds/6118b7eca51eff50b3f2a543 圆兔
+https://api.feeddd.org/feeds/611ce7048fae751e2363fc8b 笔吧评测室
+https://api.feeddd.org/feeds/611cea888fae751e2363fcd2 冰点周刊
+https://api.feeddd.org/feeds/611d00cc8fae751e2363fd67 王者荣耀
+https://api.feeddd.org/feeds/611d17108fae751e2363fe8f 洞见
