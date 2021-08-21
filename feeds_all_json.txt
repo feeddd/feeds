@@ -75,3 +75,5 @@ https://api.feeddd.org/feeds/611f6de465d23936d94a462d/json 做書
 https://api.feeddd.org/feeds/611f8d8865d23936d94a4889/json Philosophia 哲学社
 https://api.feeddd.org/feeds/611f910c65d23936d94a48cd/json 我不想妨碍你工作报
 https://api.feeddd.org/feeds/611f923865d23936d94a494b/json ELLEDECO家居廊
+https://api.feeddd.org/feeds/61206b044859547f70a8fbb9/json McFun
+https://api.feeddd.org/feeds/6120f9fc4859547f70a9047b/json IrisDaily
