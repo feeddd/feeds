@@ -1,5 +1,7 @@
 # feeddd
 
+免费的公众号 RSS
+
 ![feeddd.org](https://feeddd.org/social.jpg)
 
 ## 订阅源列表
@@ -23,7 +25,9 @@
 5. 提交你想要增加的订阅源，创建 [issue](https://github.com/feeddd/feeds/issues)
 6. 给个星星 ⭐
 
-## 联系我们
+## 链接
 
-![Feeddd 微信讨论群](https://hamibot.com/api/v1/qrcode/feeddd)
+- [Feeddd 官网](https://feeddd.org/)
+- [订阅源](https://feeddd.org/feeds)
+- [交流群](https://feeddd.org/how-to-contribute)
 
