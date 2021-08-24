@@ -121,3 +121,15 @@ https://api.feeddd.org/feeds/6123cf6051e2511a827a3720 人物
 https://api.feeddd.org/feeds/6123cf6051e2511a827a3730 格莱美汇
 https://api.feeddd.org/feeds/6123d08c51e2511a827a377b 电子音乐资讯
 https://api.feeddd.org/feeds/6123d08c51e2511a827a3781 西南交通大学校友会
+https://api.feeddd.org/feeds/612446e851e2511a827a3cc0 warfalcon
+https://api.feeddd.org/feeds/6124724451e2511a827a41c9 槽边往事
+https://api.feeddd.org/feeds/6124956c51e2511a827a460a 智本社
+https://api.feeddd.org/feeds/6124ca28221f954f5e10c5fc 轻芒杂志
+https://api.feeddd.org/feeds/6124f200221f954f5e10ca79 有据核查
+https://api.feeddd.org/feeds/6124f200221f954f5e10ca7f 朱伟老师练恋有词
+https://api.feeddd.org/feeds/6124fdb8221f954f5e10cbce 腿姐考研政治课堂
+https://api.feeddd.org/feeds/61250970221f954f5e10ccfb Aires行记
+https://api.feeddd.org/feeds/61250a9c221f954f5e10cd4a 老钱说钱
+https://api.feeddd.org/feeds/61250a9c221f954f5e10cd51 骑行夜幕统计客
+https://api.feeddd.org/feeds/61250a9c221f954f5e10cd57 WeMobileDev
+https://api.feeddd.org/feeds/61250a9c221f954f5e10cd5d 樱桃大房子
