@@ -133,3 +133,20 @@ https://api.feeddd.org/feeds/61250a9c221f954f5e10cd4a/json 老钱说钱
 https://api.feeddd.org/feeds/61250a9c221f954f5e10cd51/json 骑行夜幕统计客
 https://api.feeddd.org/feeds/61250a9c221f954f5e10cd57/json WeMobileDev
 https://api.feeddd.org/feeds/61250a9c221f954f5e10cd5d/json 樱桃大房子
+https://api.feeddd.org/feeds/61259994221f954f5e10d44c/json 中国光学
+https://api.feeddd.org/feeds/61259ac0221f954f5e10d465/json 原理
+https://api.feeddd.org/feeds/61259d18221f954f5e10d493/json 光波常
+https://api.feeddd.org/feeds/61259d18221f954f5e10d499/json 光电读书
+https://api.feeddd.org/feeds/6125b104221f954f5e10d81b/json Android 开发者
+https://api.feeddd.org/feeds/6125b104221f954f5e10d826/json code小生
+https://api.feeddd.org/feeds/6125b104221f954f5e10d82d/json 旅行雷达
+https://api.feeddd.org/feeds/6125b104221f954f5e10d838/json 新股渔夫
+https://api.feeddd.org/feeds/6125b104221f954f5e10d840/json 泽平宏观
+https://api.feeddd.org/feeds/6125ba64221f954f5e10d9b3/json 量子学派
+https://api.feeddd.org/feeds/6125e494221f954f5e10dd47/json Le Passe复兴西里
+https://api.feeddd.org/feeds/6125eb9c221f954f5e10e00a/json caoz的梦呓
+https://api.feeddd.org/feeds/612614a0221f954f5e10e54f/json 扬华微语
+https://api.feeddd.org/feeds/61262d3c221f954f5e10e7e0/json 上海发布
+https://api.feeddd.org/feeds/61263da4221f954f5e10e95a/json CDEMC
+https://api.feeddd.org/feeds/61263da4221f954f5e10e963/json Mixmag
+https://api.feeddd.org/feeds/61266450221f954f5e10ef5e/json 佯慢
