@@ -133,3 +133,20 @@ https://api.feeddd.org/feeds/61250a9c221f954f5e10cd4a/atom 老钱说钱
 https://api.feeddd.org/feeds/61250a9c221f954f5e10cd51/atom 骑行夜幕统计客
 https://api.feeddd.org/feeds/61250a9c221f954f5e10cd57/atom WeMobileDev
 https://api.feeddd.org/feeds/61250a9c221f954f5e10cd5d/atom 樱桃大房子
+https://api.feeddd.org/feeds/61259994221f954f5e10d44c/atom 中国光学
+https://api.feeddd.org/feeds/61259ac0221f954f5e10d465/atom 原理
+https://api.feeddd.org/feeds/61259d18221f954f5e10d493/atom 光波常
+https://api.feeddd.org/feeds/61259d18221f954f5e10d499/atom 光电读书
+https://api.feeddd.org/feeds/6125b104221f954f5e10d81b/atom Android 开发者
+https://api.feeddd.org/feeds/6125b104221f954f5e10d826/atom code小生
+https://api.feeddd.org/feeds/6125b104221f954f5e10d82d/atom 旅行雷达
+https://api.feeddd.org/feeds/6125b104221f954f5e10d838/atom 新股渔夫
+https://api.feeddd.org/feeds/6125b104221f954f5e10d840/atom 泽平宏观
+https://api.feeddd.org/feeds/6125ba64221f954f5e10d9b3/atom 量子学派
+https://api.feeddd.org/feeds/6125e494221f954f5e10dd47/atom Le Passe复兴西里
+https://api.feeddd.org/feeds/6125eb9c221f954f5e10e00a/atom caoz的梦呓
+https://api.feeddd.org/feeds/612614a0221f954f5e10e54f/atom 扬华微语
+https://api.feeddd.org/feeds/61262d3c221f954f5e10e7e0/atom 上海发布
+https://api.feeddd.org/feeds/61263da4221f954f5e10e95a/atom CDEMC
+https://api.feeddd.org/feeds/61263da4221f954f5e10e963/atom Mixmag
+https://api.feeddd.org/feeds/61266450221f954f5e10ef5e/atom 佯慢
