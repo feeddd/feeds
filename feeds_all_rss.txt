@@ -133,3 +133,20 @@ https://api.feeddd.org/feeds/61250a9c221f954f5e10cd4a 老钱说钱
 https://api.feeddd.org/feeds/61250a9c221f954f5e10cd51 骑行夜幕统计客
 https://api.feeddd.org/feeds/61250a9c221f954f5e10cd57 WeMobileDev
 https://api.feeddd.org/feeds/61250a9c221f954f5e10cd5d 樱桃大房子
+https://api.feeddd.org/feeds/61259994221f954f5e10d44c 中国光学
+https://api.feeddd.org/feeds/61259ac0221f954f5e10d465 原理
+https://api.feeddd.org/feeds/61259d18221f954f5e10d493 光波常
+https://api.feeddd.org/feeds/61259d18221f954f5e10d499 光电读书
+https://api.feeddd.org/feeds/6125b104221f954f5e10d81b Android 开发者
+https://api.feeddd.org/feeds/6125b104221f954f5e10d826 code小生
+https://api.feeddd.org/feeds/6125b104221f954f5e10d82d 旅行雷达
+https://api.feeddd.org/feeds/6125b104221f954f5e10d838 新股渔夫
+https://api.feeddd.org/feeds/6125b104221f954f5e10d840 泽平宏观
+https://api.feeddd.org/feeds/6125ba64221f954f5e10d9b3 量子学派
+https://api.feeddd.org/feeds/6125e494221f954f5e10dd47 Le Passe复兴西里
+https://api.feeddd.org/feeds/6125eb9c221f954f5e10e00a caoz的梦呓
+https://api.feeddd.org/feeds/612614a0221f954f5e10e54f 扬华微语
+https://api.feeddd.org/feeds/61262d3c221f954f5e10e7e0 上海发布
+https://api.feeddd.org/feeds/61263da4221f954f5e10e95a CDEMC
+https://api.feeddd.org/feeds/61263da4221f954f5e10e963 Mixmag
+https://api.feeddd.org/feeds/61266450221f954f5e10ef5e 佯慢
