@@ -190,3 +190,12 @@ https://api.feeddd.org/feeds/61285fbc221f954f5e1117b3 知酒僧
 https://api.feeddd.org/feeds/61285fbc221f954f5e1117b9 呆呆咖啡馆
 https://api.feeddd.org/feeds/6128808c221f954f5e111b03 混知健康
 https://api.feeddd.org/feeds/6128d99c221f954f5e1124b4 天赋一饼
+https://api.feeddd.org/feeds/6129f8b8221f954f5e113562 假杂志
+https://api.feeddd.org/feeds/612a2d74221f954f5e113cd2 医学界
+https://api.feeddd.org/feeds/612a392c221f954f5e113dca 秦小明
+https://api.feeddd.org/feeds/612a3a58221f954f5e113e03 安吉江南天池and长谷洞天
+https://api.feeddd.org/feeds/612a3a58221f954f5e113e09 柏林禅寺
+https://api.feeddd.org/feeds/612a3a58221f954f5e113e0f 北京首都国际机场
+https://api.feeddd.org/feeds/612a3a58221f954f5e113e15 秘鲁旅游局
+https://api.feeddd.org/feeds/612a3b84221f954f5e113e62 财有道
+https://api.feeddd.org/feeds/612a3b84221f954f5e113e68 策斩
