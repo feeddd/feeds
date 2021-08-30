@@ -1,4 +1,4 @@
-# feeddd
+# feeddd <a href="https://github.com/feeddd/feeds/stargazers" ><img src="https://img.shields.io/github/stars/feeddd/feeds?style=flat&labelColor=151515&color=ff6e30" /></a>
 
 免费的公众号 RSS
 
@@ -29,5 +29,5 @@
 
 - [Feeddd 官网](https://feeddd.org/)
 - [订阅源](https://feeddd.org/feeds)
-- [交流群](https://feeddd.org/how-to-contribute)
+- [如何贡献](https://feeddd.org/how-to-contribute)
 
