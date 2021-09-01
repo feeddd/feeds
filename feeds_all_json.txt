@@ -265,3 +265,12 @@ https://api.feeddd.org/feeds/612db7502b6da10dfaec97d8/json 黑马程序员视频
 https://api.feeddd.org/feeds/612db7502b6da10dfaec97e0/json 贺嘉老师
 https://api.feeddd.org/feeds/612db7502b6da10dfaec97e6/json 华米科技
 https://api.feeddd.org/feeds/612e5a342b6da10dfaecacfc/json 动画学术趴
+https://api.feeddd.org/feeds/612f41d12b6da10dfaecba9f/json 互联网安全内参
+https://api.feeddd.org/feeds/612f41d12b6da10dfaecbaa7/json 界面文化
+https://api.feeddd.org/feeds/612f41d12b6da10dfaecbaaf/json 雷科技
+https://api.feeddd.org/feeds/612f41d12b6da10dfaecbab7/json 每日人物
+https://api.feeddd.org/feeds/612f41d12b6da10dfaecbabf/json 知识分子
+https://api.feeddd.org/feeds/612f95702b6da10dfaecc477/json 地球知识局
+https://api.feeddd.org/feeds/612f9da42b6da10dfaecc5ac/json HotelAdvisor
+https://api.feeddd.org/feeds/612fd1341269c358aa0d9220/json 王道在线
+https://api.feeddd.org/feeds/612fd1341269c358aa0d9229/json 武忠祥老师
