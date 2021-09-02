@@ -274,3 +274,6 @@ https://api.feeddd.org/feeds/612f95702b6da10dfaecc477/atom 地球知识局
 https://api.feeddd.org/feeds/612f9da42b6da10dfaecc5ac/atom HotelAdvisor
 https://api.feeddd.org/feeds/612fd1341269c358aa0d9220/atom 王道在线
 https://api.feeddd.org/feeds/612fd1341269c358aa0d9229/atom 武忠祥老师
+https://api.feeddd.org/feeds/6130ce541269c358aa0da615/atom Voicer
+https://api.feeddd.org/feeds/6130ef241269c358aa0dacc4/atom 程序员徐公
+https://api.feeddd.org/feeds/613113691269c358aa0daf7f/atom 2233卡助手
