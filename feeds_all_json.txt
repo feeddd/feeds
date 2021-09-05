@@ -1174,3 +1174,10 @@ https://api.feeddd.org/feeds/613381fb1269c358aa0eb249/json 资源搜集君
 https://api.feeddd.org/feeds/613381fb1269c358aa0eb251/json 3号厅检票员工
 https://api.feeddd.org/feeds/613393501269c358aa0eb865/json 戎评
 https://api.feeddd.org/feeds/613393501269c358aa0eb878/json 一个坏土豆
+https://api.feeddd.org/feeds/6134388c1269c358aa0ed475/json 未闻Code
+https://api.feeddd.org/feeds/61348f441269c358aa0edf03/json 电脑报
+https://api.feeddd.org/feeds/613490701269c358aa0edf35/json 张良计
+https://api.feeddd.org/feeds/613490701269c358aa0edf3b/json 自言稚语
+https://api.feeddd.org/feeds/6134a3301269c358aa0ee521/json 数据派THU
+https://api.feeddd.org/feeds/6134aa381269c358aa0ee5af/json 极下
+https://api.feeddd.org/feeds/6134ac901269c358aa0ee5e7/json 金融时报
