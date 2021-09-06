@@ -1,6 +1,8 @@
 ![feeddd.org](https://feeddd.org/social.jpg)
 
-# Feeddd <a href="https://github.com/feeddd/feeds/stargazers" ><img src="https://img.shields.io/github/stars/feeddd/feeds?style=flat&labelColor=151515&color=ff6e30" /></a>
+# Feeddd
+
+<a href="https://github.com/feeddd/feeds" ><img src="https://img.shields.io/github/stars/feeddd/feeds" /></a> <a href="https://github.com/feeddd/feeds" ><img src="https://img.shields.io/github/last-commit/feeddd/feeds" /></a>
 
 免费的公众号 RSS
 
