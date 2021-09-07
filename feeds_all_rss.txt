@@ -1773,3 +1773,14 @@ https://api.feeddd.org/feeds/6135f5dc1269c358aa0f4483 赤戟的书荒救济所
 https://api.feeddd.org/feeds/613620df1269c358aa0f4dbf CSGO国服
 https://api.feeddd.org/feeds/613620df1269c358aa0f4dcf 一周文案
 https://api.feeddd.org/feeds/61362f481269c358aa0f50aa 中国载人航天
+https://api.feeddd.org/feeds/6136acac1269c358aa0f63b6 微言晓意
+https://api.feeddd.org/feeds/6136d1001269c358aa0f6bb8 吴晓波频道
+https://api.feeddd.org/feeds/6136d1001269c358aa0f6bc1 全球风口
+https://api.feeddd.org/feeds/6136d5b01269c358aa0f6cfb 神秘的热心网友
+https://api.feeddd.org/feeds/613706e81269c358aa0f790f 夕小瑶的卖萌屋
+https://api.feeddd.org/feeds/613706e81269c358aa0f7915 香帅的金融江湖
+https://api.feeddd.org/feeds/613708141269c358aa0f7aed 小闷的水果店
+https://api.feeddd.org/feeds/613716241269c358aa0f8005 老虎助手
+https://api.feeddd.org/feeds/61372fec1269c358aa0f844a 行动派
+https://api.feeddd.org/feeds/6137556c1269c358aa0f95d9 深圳嘉立创
+https://api.feeddd.org/feeds/613772b81269c358aa0f9e03 拆哪儿
