@@ -1784,3 +1784,13 @@ https://api.feeddd.org/feeds/613716241269c358aa0f8005/atom 老虎助手
 https://api.feeddd.org/feeds/61372fec1269c358aa0f844a/atom 行动派
 https://api.feeddd.org/feeds/6137556c1269c358aa0f95d9/atom 深圳嘉立创
 https://api.feeddd.org/feeds/613772b81269c358aa0f9e03/atom 拆哪儿
+https://api.feeddd.org/feeds/613809e41269c358aa0fbf30/atom DeeplearningAI
+https://api.feeddd.org/feeds/61380b101269c358aa0fbfaf/atom 月来客栈
+https://api.feeddd.org/feeds/61380b101269c358aa0fbfb5/atom 机器学习养成记
+https://api.feeddd.org/feeds/6138a1101269c358aa0fdc34/atom V姐来了
+https://api.feeddd.org/feeds/6138a23c1269c358aa0fdc7e/atom 阿里巴巴云原生
+https://api.feeddd.org/feeds/6138b6281269c358aa0fdfcd/atom 阿猫读书
+https://api.feeddd.org/feeds/6138b6281269c358aa0fdfd4/atom 备胎说车
+https://api.feeddd.org/feeds/6138b7541269c358aa0fe018/atom 戴尔技术支持
+https://api.feeddd.org/feeds/6138b7541269c358aa0fe020/atom 翻书先生
+https://api.feeddd.org/feeds/6138d8241269c358aa0fe4ef/atom Flutter社区
