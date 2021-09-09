@@ -1794,3 +1794,6 @@ https://api.feeddd.org/feeds/6138b6281269c358aa0fdfd4 备胎说车
 https://api.feeddd.org/feeds/6138b7541269c358aa0fe018 戴尔技术支持
 https://api.feeddd.org/feeds/6138b7541269c358aa0fe020 翻书先生
 https://api.feeddd.org/feeds/6138d8241269c358aa0fe4ef Flutter社区
+https://api.feeddd.org/feeds/613a0fdc1269c358aa101116 榴花夕拾Online
+https://api.feeddd.org/feeds/613a0fdc1269c358aa101132 我眼中的城市更新
+https://api.feeddd.org/feeds/613a0fdc1269c358aa101139 小韭菜的成长记录
