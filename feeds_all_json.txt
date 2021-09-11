@@ -1802,3 +1802,4 @@ https://api.feeddd.org/feeds/613af2081269c358aa103849/json 技术领导力
 https://api.feeddd.org/feeds/613afb681269c358aa103aef/json 正安中医
 https://api.feeddd.org/feeds/613afb681269c358aa103afc/json 正和岛
 https://api.feeddd.org/feeds/613b7b241269c358aa104ae3/json 城市数据团
+https://api.feeddd.org/feeds/613cd85c1269c358aa1079c9/json 华政青年
