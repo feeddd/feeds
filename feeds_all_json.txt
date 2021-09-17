@@ -2372,3 +2372,4 @@ https://api.feeddd.org/feeds/6143667c1269c358aa11a2a3/json 生信助手
 https://api.feeddd.org/feeds/6143667c1269c358aa11a2a9/json 智能生信
 https://api.feeddd.org/feeds/6143667c1269c358aa11a2af/json 中科生信
 https://api.feeddd.org/feeds/6143667c1269c358aa11a2b5/json 猪猪生信
+https://api.feeddd.org/feeds/6143fda81269c358aa11bccd/json aTalent
