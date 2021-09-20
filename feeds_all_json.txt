@@ -2473,3 +2473,14 @@ https://api.feeddd.org/feeds/6147115f1269c358aa122877/json 中国越调网
 https://api.feeddd.org/feeds/6147115f1269c358aa12287f/json 918郑州文化娱乐广播
 https://api.feeddd.org/feeds/614744b61269c358aa12305c/json 腾讯科技
 https://api.feeddd.org/feeds/614758a41269c358aa123106/json ImportNew
+https://api.feeddd.org/feeds/614839a41269c358aa1258d7/json 老皮联盟
+https://api.feeddd.org/feeds/61487ff41269c358aa125ca2/json Python开发者
+https://api.feeddd.org/feeds/61487ff41269c358aa125ca9/json 算法爱好者
+https://api.feeddd.org/feeds/614881201269c358aa125d05/json Python开发
+https://api.feeddd.org/feeds/614881201269c358aa125d0d/json Python编程时光
+https://api.feeddd.org/feeds/614881201269c358aa125d14/json Python数据之道
+https://api.feeddd.org/feeds/614881201269c358aa125d1b/json HACK之道
+https://api.feeddd.org/feeds/6148824c1269c358aa125d3d/json 机器学习算法那些事
+https://api.feeddd.org/feeds/6148c1941269c358aa1262d1/json 艾思科蓝
+https://api.feeddd.org/feeds/6148c1941269c358aa1262d9/json 白桃星座
+https://api.feeddd.org/feeds/6148c2c01269c358aa126309/json 押沙龙yashl
