@@ -2484,3 +2484,7 @@ https://api.feeddd.org/feeds/6148824c1269c358aa125d3d/atom 机器学习算法那
 https://api.feeddd.org/feeds/6148c1941269c358aa1262d1/atom 艾思科蓝
 https://api.feeddd.org/feeds/6148c1941269c358aa1262d9/atom 白桃星座
 https://api.feeddd.org/feeds/6148c2c01269c358aa126309/atom 押沙龙yashl
+https://api.feeddd.org/feeds/61492d641269c358aa127344/atom 腾腾爸
+https://api.feeddd.org/feeds/61499cb81269c358aa127b0a/atom 生信A计划
+https://api.feeddd.org/feeds/6149e1dc1269c358aa128479/atom 北京本地宝
+https://api.feeddd.org/feeds/6149fba41269c358aa12866c/atom 朱雀基金
