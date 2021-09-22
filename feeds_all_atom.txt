@@ -2488,3 +2488,12 @@ https://api.feeddd.org/feeds/61492d641269c358aa127344/atom 腾腾爸
 https://api.feeddd.org/feeds/61499cb81269c358aa127b0a/atom 生信A计划
 https://api.feeddd.org/feeds/6149e1dc1269c358aa128479/atom 北京本地宝
 https://api.feeddd.org/feeds/6149fba41269c358aa12866c/atom 朱雀基金
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a31/atom 阿甘数量化
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a37/atom A股训练营
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a44/atom airasia
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a4a/atom AirPython
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a53/atom 阿力推推
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a59/atom amkey安智
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a5f/atom 安道全工作室
+https://api.feeddd.org/feeds/614b22f41269c358aa12b060/atom ApacheDoris
+https://api.feeddd.org/feeds/614b22f41269c358aa12b06b/atom 光谷码农
