@@ -2488,3 +2488,12 @@ https://api.feeddd.org/feeds/61492d641269c358aa127344/json 腾腾爸
 https://api.feeddd.org/feeds/61499cb81269c358aa127b0a/json 生信A计划
 https://api.feeddd.org/feeds/6149e1dc1269c358aa128479/json 北京本地宝
 https://api.feeddd.org/feeds/6149fba41269c358aa12866c/json 朱雀基金
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a31/json 阿甘数量化
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a37/json A股训练营
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a44/json airasia
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a4a/json AirPython
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a53/json 阿力推推
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a59/json amkey安智
+https://api.feeddd.org/feeds/614a7ee41269c358aa129a5f/json 安道全工作室
+https://api.feeddd.org/feeds/614b22f41269c358aa12b060/json ApacheDoris
+https://api.feeddd.org/feeds/614b22f41269c358aa12b06b/json 光谷码农
