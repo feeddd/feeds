@@ -2497,3 +2497,14 @@ https://api.feeddd.org/feeds/614a7ee41269c358aa129a59 amkey安智
 https://api.feeddd.org/feeds/614a7ee41269c358aa129a5f 安道全工作室
 https://api.feeddd.org/feeds/614b22f41269c358aa12b060 ApacheDoris
 https://api.feeddd.org/feeds/614b22f41269c358aa12b06b 光谷码农
+https://api.feeddd.org/feeds/614c447d1269c358aa12e4a9 仟寻test
+https://api.feeddd.org/feeds/614c447d1269c358aa12e4b1 图谱平台
+https://api.feeddd.org/feeds/614c447d1269c358aa12e4b9 图谱天下服务平台
+https://api.feeddd.org/feeds/614c447d1269c358aa12e4c1 图谱天下服务中心
+https://api.feeddd.org/feeds/614c447d1269c358aa12e4c9 图谱天下团队助手
+https://api.feeddd.org/feeds/614c447d1269c358aa12e4d1 图谱天下小助手
+https://api.feeddd.org/feeds/614c447d1269c358aa12e4d9 图谱微招聘
+https://api.feeddd.org/feeds/614c447d1269c358aa12e4e1 图谱招聘
+https://api.feeddd.org/feeds/614c76cc1269c358aa12eb84 生物信息应用与算法
+https://api.feeddd.org/feeds/614c87341269c358aa12ecc4 大数据技术与架构
+https://api.feeddd.org/feeds/614c87341269c358aa12ecca TechPaper
