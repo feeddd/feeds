@@ -2508,3 +2508,4 @@ https://api.feeddd.org/feeds/614c447d1269c358aa12e4e1/json 图谱招聘
 https://api.feeddd.org/feeds/614c76cc1269c358aa12eb84/json 生物信息应用与算法
 https://api.feeddd.org/feeds/614c87341269c358aa12ecc4/json 大数据技术与架构
 https://api.feeddd.org/feeds/614c87341269c358aa12ecca/json TechPaper
+https://api.feeddd.org/feeds/614d1adc1269c358aa130613/json 常识
