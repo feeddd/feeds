@@ -2509,3 +2509,11 @@ https://api.feeddd.org/feeds/614c76cc1269c358aa12eb84/json 生物信息应用与
 https://api.feeddd.org/feeds/614c87341269c358aa12ecc4/json 大数据技术与架构
 https://api.feeddd.org/feeds/614c87341269c358aa12ecca/json TechPaper
 https://api.feeddd.org/feeds/614d1adc1269c358aa130613/json 常识
+https://api.feeddd.org/feeds/614f27dc1269c358aa13465e/json 水滴与银弹
+https://api.feeddd.org/feeds/614f4b041269c358aa134e0a/json 卒中视界
+https://api.feeddd.org/feeds/614f4b041269c358aa134e14/json 感控工作间
+https://api.feeddd.org/feeds/614f4b041269c358aa134e1e/json 聚焦神外
+https://api.feeddd.org/feeds/614f4b041269c358aa134e24/json 神外世界
+https://api.feeddd.org/feeds/614f4c301269c358aa134e74/json 神外资讯
+https://api.feeddd.org/feeds/614f4c301269c358aa134e80/json 宣武医院神经外科
+https://api.feeddd.org/feeds/614f5dc41269c358aa134ff2/json 丁香生活研究所
