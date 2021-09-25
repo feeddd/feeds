@@ -2509,3 +2509,11 @@ https://api.feeddd.org/feeds/614c76cc1269c358aa12eb84/atom 生物信息应用与
 https://api.feeddd.org/feeds/614c87341269c358aa12ecc4/atom 大数据技术与架构
 https://api.feeddd.org/feeds/614c87341269c358aa12ecca/atom TechPaper
 https://api.feeddd.org/feeds/614d1adc1269c358aa130613/atom 常识
+https://api.feeddd.org/feeds/614f27dc1269c358aa13465e/atom 水滴与银弹
+https://api.feeddd.org/feeds/614f4b041269c358aa134e0a/atom 卒中视界
+https://api.feeddd.org/feeds/614f4b041269c358aa134e14/atom 感控工作间
+https://api.feeddd.org/feeds/614f4b041269c358aa134e1e/atom 聚焦神外
+https://api.feeddd.org/feeds/614f4b041269c358aa134e24/atom 神外世界
+https://api.feeddd.org/feeds/614f4c301269c358aa134e74/atom 神外资讯
+https://api.feeddd.org/feeds/614f4c301269c358aa134e80/atom 宣武医院神经外科
+https://api.feeddd.org/feeds/614f5dc41269c358aa134ff2/atom 丁香生活研究所
