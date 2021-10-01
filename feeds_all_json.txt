@@ -3999,3 +3999,7 @@ https://api.feeddd.org/feeds/6155f8c81269c358aa14a123/json adidasOriginals
 https://api.feeddd.org/feeds/6155f8c81269c358aa14a12b/json 爱蹦迪的小圣
 https://api.feeddd.org/feeds/6155f8c81269c358aa14a135/json 安德鲁森食品
 https://api.feeddd.org/feeds/6155f8c81269c358aa14a13b/json 澳洲中国留学生俱乐部ACISC
+https://api.feeddd.org/feeds/615656881269c358aa14b76f/json JustThink
+https://api.feeddd.org/feeds/615656881269c358aa14b77c/json 生命时报
+https://api.feeddd.org/feeds/61565d901269c358aa14b852/json 小宇Boi
+https://api.feeddd.org/feeds/6156cf541269c358aa14d139/json 我懂个App
