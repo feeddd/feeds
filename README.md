@@ -32,6 +32,11 @@
 - [订阅源](https://feeddd.org/feeds)
 - [如何贡献](https://feeddd.org/how-to-contribute)
 
+## 📱 脚本
+
+- [公众号文章更新](https://hamibot.com/marketplace/vLSBc)
+- [公众号文章更新-自建版](https://hamibot.com/marketplace/Bh55i) 不想提交到 Feeddd？请使用此版本
+
 ## 🤖 Hamibot 安卓自动化
 
 - [Hamibot](https://hamibot.com/)
