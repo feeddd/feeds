@@ -5886,3 +5886,4 @@ https://api.feeddd.org/feeds/6162e7710197a70ac051e9b2 爱好网
 https://api.feeddd.org/feeds/6164588e0197a70ac0522120 飞客FLYERT
 https://api.feeddd.org/feeds/6164588e0197a70ac0522128 科技灯下黑
 https://api.feeddd.org/feeds/6164588e0197a70ac0522130 中央气象台
+https://api.feeddd.org/feeds/6164c918b9a7e049c384ff93 beebee
