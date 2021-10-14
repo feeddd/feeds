@@ -6076,3 +6076,11 @@ https://api.feeddd.org/feeds/6166d0b1b9a7e049c38569f9/json 自由无二
 https://api.feeddd.org/feeds/6166d0b1b9a7e049c3856a01/json 资源小铺铺
 https://api.feeddd.org/feeds/6166d0b1b9a7e049c3856a09/json 资源小旺铺
 https://api.feeddd.org/feeds/6166d0b1b9a7e049c3856a11/json 949吃货联盟
+https://api.feeddd.org/feeds/61678031b9a7e049c385a5fc/json 商丘市豫东调传承保护中心
+https://api.feeddd.org/feeds/6167f0b7b9a7e049c385b550/json 玖奌杂货店
+https://api.feeddd.org/feeds/616800ccb9a7e049c385b989/json 天下财经
+https://api.feeddd.org/feeds/616806a89fbbf849c258eac3/json Clearplain
+https://api.feeddd.org/feeds/616807d4b9a7e049c385baf5/json Joe Nefelibata
+https://api.feeddd.org/feeds/61680b589fbbf849c258ebbe/json 我们去看展吧
+https://api.feeddd.org/feeds/61680c84b9a7e049c385bd10/json 哲学前沿philontier
+https://api.feeddd.org/feeds/6168264cb9a7e049c385c08e/json 生信补给站
