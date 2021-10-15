@@ -6084,3 +6084,10 @@ https://api.feeddd.org/feeds/616807d4b9a7e049c385baf5/json Joe Nefelibata
 https://api.feeddd.org/feeds/61680b589fbbf849c258ebbe/json 我们去看展吧
 https://api.feeddd.org/feeds/61680c84b9a7e049c385bd10/json 哲学前沿philontier
 https://api.feeddd.org/feeds/6168264cb9a7e049c385c08e/json 生信补给站
+https://api.feeddd.org/feeds/61692114b9a7e049c3862475/json 第一财经
+https://api.feeddd.org/feeds/616939b0b9a7e049c38626ad/json 财经
+https://api.feeddd.org/feeds/61693adcb9a7e049c38626ef/json 贝壳财经
+https://api.feeddd.org/feeds/61693adcb9a7e049c38626f5/json 财经杂志
+https://api.feeddd.org/feeds/61693c089fbbf849c258f337/json 央视财经
+https://api.feeddd.org/feeds/61693c089fbbf849c258f33e/json 中央财经大学
+https://api.feeddd.org/feeds/616977ccb9a7e049c3862d7b/json 生信福利社
