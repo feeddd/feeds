@@ -6091,3 +6091,11 @@ https://api.feeddd.org/feeds/61693adcb9a7e049c38626f5 财经杂志
 https://api.feeddd.org/feeds/61693c089fbbf849c258f337 央视财经
 https://api.feeddd.org/feeds/61693c089fbbf849c258f33e 中央财经大学
 https://api.feeddd.org/feeds/616977ccb9a7e049c3862d7b 生信福利社
+https://api.feeddd.org/feeds/616a21a8b9a7e049c3863ce1 一通文化
+https://api.feeddd.org/feeds/616a415c9fbbf849c2591235 冲刺高中生
+https://api.feeddd.org/feeds/616a42899fbbf849c259127c 高考网
+https://api.feeddd.org/feeds/616a42899fbbf849c2591293 PADI
+https://api.feeddd.org/feeds/616a428a9fbbf849c25912b0 一数儿
+https://api.feeddd.org/feeds/616a428a9fbbf849c25912bb 中国国家地理
+https://api.feeddd.org/feeds/616a43b4b9a7e049c3864200 作文纸条
+https://api.feeddd.org/feeds/616a5ea99fbbf849c259139b 晨哥真有料
