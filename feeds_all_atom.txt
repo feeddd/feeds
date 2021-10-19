@@ -6493,3 +6493,8 @@ https://api.feeddd.org/feeds/616d50e1b9a7e049c387042e/atom 木蹊说
 https://api.feeddd.org/feeds/616d62ecb9a7e049c3870794/atom 浅若清风9527
 https://api.feeddd.org/feeds/616d6ea49fbbf849c2595daf/atom 生信学习手册
 https://api.feeddd.org/feeds/616dcd90b9a7e049c38719cd/atom 战略前沿技术
+https://api.feeddd.org/feeds/616e2a249fbbf849c2597d83/atom 集微网
+https://api.feeddd.org/feeds/616e2b50b9a7e049c38729ea/atom 每日经济新闻
+https://api.feeddd.org/feeds/616e36b0b9a7e049c3872c5a/atom 南方都市报
+https://api.feeddd.org/feeds/616e3984b9a7e049c3872cd9/atom 腾讯NintendoSwitch
+https://api.feeddd.org/feeds/616e984cb9a7e049c387659c/atom 有赞coder
