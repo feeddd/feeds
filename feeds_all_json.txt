@@ -6525,3 +6525,7 @@ https://api.feeddd.org/feeds/616fc44e9fbbf849c259a3d2/json 至美通研究院
 https://api.feeddd.org/feeds/616ffdb89fbbf849c259a5d4/json 他化自在天
 https://api.feeddd.org/feeds/61703615b9a7e049c387a19d/json Android Performance
 https://api.feeddd.org/feeds/61706e8fb9a7e049c387a879/json 聆旧宫
+https://api.feeddd.org/feeds/6170b489b9a7e049c387cf69/json 大海外
+https://api.feeddd.org/feeds/6170b48ab9a7e049c387cf6f/json 国工论坛
+https://api.feeddd.org/feeds/6170b48ab9a7e049c387cf78/json 国际工程与劳务杂志
+https://api.feeddd.org/feeds/617105a0b9a7e049c387dcd5/json 单读
