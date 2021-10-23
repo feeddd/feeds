@@ -6701,3 +6701,6 @@ https://api.feeddd.org/feeds/61725cf9b9a7e049c38844ed/json DHR公会
 https://api.feeddd.org/feeds/61725cf9b9a7e049c38844f5/json DHR智库
 https://api.feeddd.org/feeds/6172b3789fbbf849c259cf91/json BeijingHikers北京爱山
 https://api.feeddd.org/feeds/6172bf309fbbf849c259cfa2/json 东七门
+https://api.feeddd.org/feeds/61739220b9a7e049c388bda5/json 文博圈
+https://api.feeddd.org/feeds/6173efe0b9a7e049c388d1d8/json 北师大新闻传播学院
+https://api.feeddd.org/feeds/6173f364b9a7e049c388d2f1/json CYCAN
