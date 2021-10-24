@@ -6704,3 +6704,6 @@ https://api.feeddd.org/feeds/6172bf309fbbf849c259cfa2 东七门
 https://api.feeddd.org/feeds/61739220b9a7e049c388bda5 文博圈
 https://api.feeddd.org/feeds/6173efe0b9a7e049c388d1d8 北师大新闻传播学院
 https://api.feeddd.org/feeds/6173f364b9a7e049c388d2f1 CYCAN
+https://api.feeddd.org/feeds/6174c8acb9a7e049c388ef58 人民文学出版社
+https://api.feeddd.org/feeds/6174caceb9a7e049c388ef9c 湖南省京剧保护传承中心
+https://api.feeddd.org/feeds/6174caceb9a7e049c388efa4 苏州市苏剧团
