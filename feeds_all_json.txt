@@ -6707,3 +6707,11 @@ https://api.feeddd.org/feeds/6173f364b9a7e049c388d2f1/json CYCAN
 https://api.feeddd.org/feeds/6174c8acb9a7e049c388ef58/json 人民文学出版社
 https://api.feeddd.org/feeds/6174caceb9a7e049c388ef9c/json 湖南省京剧保护传承中心
 https://api.feeddd.org/feeds/6174caceb9a7e049c388efa4/json 苏州市苏剧团
+https://api.feeddd.org/feeds/61760e759fbbf849c25a35f7/json 金融观察家
+https://api.feeddd.org/feeds/617611f9b9a7e049c389467b/json 碳索未来 TL CARBON
+https://api.feeddd.org/feeds/617611f9b9a7e049c3894684/json 行业信息观察
+https://api.feeddd.org/feeds/61761b58b9a7e049c38948e3/json 酷客fans
+https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a79/json 东莞理工学院招生办
+https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a81/json 福大招考
+https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a89/json 福州大学研究生教育
+https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a93/json 星火英语
