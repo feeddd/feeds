@@ -6707,3 +6707,11 @@ https://api.feeddd.org/feeds/6173f364b9a7e049c388d2f1/atom CYCAN
 https://api.feeddd.org/feeds/6174c8acb9a7e049c388ef58/atom 人民文学出版社
 https://api.feeddd.org/feeds/6174caceb9a7e049c388ef9c/atom 湖南省京剧保护传承中心
 https://api.feeddd.org/feeds/6174caceb9a7e049c388efa4/atom 苏州市苏剧团
+https://api.feeddd.org/feeds/61760e759fbbf849c25a35f7/atom 金融观察家
+https://api.feeddd.org/feeds/617611f9b9a7e049c389467b/atom 碳索未来 TL CARBON
+https://api.feeddd.org/feeds/617611f9b9a7e049c3894684/atom 行业信息观察
+https://api.feeddd.org/feeds/61761b58b9a7e049c38948e3/atom 酷客fans
+https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a79/atom 东莞理工学院招生办
+https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a81/atom 福大招考
+https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a89/atom 福州大学研究生教育
+https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a93/atom 星火英语
