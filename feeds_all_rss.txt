@@ -6715,3 +6715,4 @@ https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a79 东莞理工学院招生�
 https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a81 福大招考
 https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a89 福州大学研究生教育
 https://api.feeddd.org/feeds/6176a23bb9a7e049c3895a93 星火英语
+https://api.feeddd.org/feeds/61774c08b9a7e049c3896c37 国际工程
