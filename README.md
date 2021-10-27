@@ -1,14 +1,25 @@
-![feeddd.org](https://feeddd.org/social.jpg)
+<h1 align="center">Feeddd</h1>
 
-# Feeddd
+<p align="center">
+<a href="https://github.com/feeddd/feeds" ><img src="https://img.shields.io/github/stars/feeddd/feeds" /></a>
+<a href="https://github.com/feeddd/feeds" ><img src="https://img.shields.io/github/last-commit/feeddd/feeds" /></a>
+</p>
 
-<a href="https://github.com/feeddd/feeds" ><img src="https://img.shields.io/github/stars/feeddd/feeds" /></a> <a href="https://github.com/feeddd/feeds" ><img src="https://img.shields.io/github/last-commit/feeddd/feeds" /></a>
+<p align="center">
+<strong>
+免费的公众号 RSS，支持扩展任意 APP
+</strong>
+</p>
 
-免费的公众号 RSS
+<p align="center">
+<a href="https://github.com/feeddd/feeds" ><img src="https://reporoster.com/stars/feeddd/feeds" /></a>
+</p>
+
+<a href="https://feeddd.org" ><img src="https://feeddd.org/social.jpg" alt="feeddd" /></a>
 
 ## 📰 订阅源列表
 
-列表每天会自动更新。
+列表会定期更新。
 
 | 文件           | 描述           | 下载                                                                                                                                                  |
 | -------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,8 +33,8 @@
 
 1. 提交订阅更新，详细参见 [如何参与](https://feeddd.org/how-to-contribute)
 2. 分享给更多人
-3. 报告遇到的错误，创建 [issue](https://github.com/feeddd/feeds/issues)
-4. 分享你的想法或建议，创建 [issue](https://github.com/feeddd/feeds/issues)
+3. 报告遇到的错误，[反馈问题](https://hamibot.com/dashboard/issues/create?slug=vLSBc&subject=反馈问题)
+4. 分享你的想法或建议，[分享想法](https://github.com/feeddd/feeds/issues)
 5. 给个星星 ⭐
 
 ## 🔗 链接
@@ -35,7 +46,7 @@
 ## 📱 脚本
 
 - [公众号文章更新](https://hamibot.com/marketplace/vLSBc)
-- [公众号文章更新-自建版](https://hamibot.com/marketplace/Bh55i) 不想提交到 Feeddd？请使用此版本
+- [公众号文章更新-专用版](https://hamibot.com/marketplace/Bh55i) 不想提交到 Feeddd？请使用专用版
 
 ## 🤖 Hamibot 安卓自动化
 
