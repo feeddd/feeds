@@ -6727,3 +6727,17 @@ https://api.feeddd.org/feeds/617964c4b9a7e049c389dbbf/atom 科创新吴
 https://api.feeddd.org/feeds/617965edb9a7e049c389dc46/atom 奇绩创坛
 https://api.feeddd.org/feeds/617965edb9a7e049c389dc56/atom 苏高新科技
 https://api.feeddd.org/feeds/61796719b9a7e049c389dceb/atom 中关村科学城
+https://api.feeddd.org/feeds/617a0b2ab9a7e049c38a0cbe/atom 新天地NewEra
+https://api.feeddd.org/feeds/617a0c54b9a7e049c38a0d39/atom 南京大学秉文书院
+https://api.feeddd.org/feeds/617a0c54b9a7e049c38a0d45/atom 南大青年
+https://api.feeddd.org/feeds/617a7b2bb9a7e049c38a4898/atom 齐谐者
+https://api.feeddd.org/feeds/617a7b2bb9a7e049c38a48a0/atom 云也退
+https://api.feeddd.org/feeds/617a7b2bb9a7e049c38a48a8/atom 张承志新集旧作
+https://api.feeddd.org/feeds/617abc1cb9a7e049c38a50da/atom AMI埃米空间
+https://api.feeddd.org/feeds/617abc1cb9a7e049c38a50e6/atom 北京孵化
+https://api.feeddd.org/feeds/617abc1cb9a7e049c38a50ec/atom 创成汇
+https://api.feeddd.org/feeds/617abd49b9a7e049c38a514c/atom HICOOL全球创业者峰会
+https://api.feeddd.org/feeds/617abd4ab9a7e049c38a515b/atom 联想之星
+https://api.feeddd.org/feeds/617abd4ab9a7e049c38a5161/atom 明势资本
+https://api.feeddd.org/feeds/617abe74b9a7e049c38a51b6/atom 清华校友三创大赛
+https://api.feeddd.org/feeds/617abe74b9a7e049c38a51c4/atom 中国创新创业大赛
