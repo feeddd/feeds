@@ -6741,3 +6741,4 @@ https://api.feeddd.org/feeds/617abd4ab9a7e049c38a515b/atom 联想之星
 https://api.feeddd.org/feeds/617abd4ab9a7e049c38a5161/atom 明势资本
 https://api.feeddd.org/feeds/617abe74b9a7e049c38a51b6/atom 清华校友三创大赛
 https://api.feeddd.org/feeds/617abe74b9a7e049c38a51c4/atom 中国创新创业大赛
+https://api.feeddd.org/feeds/617c4734b9a7e049c38ae82d/atom 呦呦鹿鸣的家
