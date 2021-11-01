@@ -6811,3 +6811,27 @@ https://api.feeddd.org/feeds/617dedc2b9a7e049c38b5a91 中国人寿股份江西�
 https://api.feeddd.org/feeds/617dedc3b9a7e049c38b5a99 中国资产评估协会
 https://api.feeddd.org/feeds/617e76ffb9a7e049c38b6949 苏州人社
 https://api.feeddd.org/feeds/617e947d9fbbf849c25ab4dd 大小姐李跳跳
+https://api.feeddd.org/feeds/617f4ffd9fbbf849c25ab720 证券日报之声
+https://api.feeddd.org/feeds/617f77d49fbbf849c25ab85d 上海普陀
+https://api.feeddd.org/feeds/617f77d49fbbf849c25ab866 上海普陀环保
+https://api.feeddd.org/feeds/617ffd6cb9a7e049c38be0c1 豆瓣读书
+https://api.feeddd.org/feeds/617ffe99b9a7e049c38be130 三辅漫记
+https://api.feeddd.org/feeds/617ffe99b9a7e049c38be139 新华每日电讯
+https://api.feeddd.org/feeds/617ffe99b9a7e049c38be140 中信出版
+https://api.feeddd.org/feeds/617ffe99b9a7e049c38be147 老干部读报
+https://api.feeddd.org/feeds/617fffc4b9a7e049c38be1d4 印客美学
+https://api.feeddd.org/feeds/617fffc4b9a7e049c38be1db 新周刊
+https://api.feeddd.org/feeds/617fffc5b9a7e049c38be1e4 豆瓣电影
+https://api.feeddd.org/feeds/617fffc5b9a7e049c38be1f1 网易上流
+https://api.feeddd.org/feeds/618000f09fbbf849c25ab9b8 胡诌施佬
+https://api.feeddd.org/feeds/618000f19fbbf849c25ab9c6 行政涉法研究
+https://api.feeddd.org/feeds/6180021c9fbbf849c25ab9f0 芬里尔战史研究
+https://api.feeddd.org/feeds/6180021c9fbbf849c25ab9fd 专注行政法
+https://api.feeddd.org/feeds/618003499fbbf849c25aba32 瀚海狼山
+https://api.feeddd.org/feeds/618003499fbbf849c25aba3e 麦读
+https://api.feeddd.org/feeds/618003499fbbf849c25aba4a 国潮博物社
+https://api.feeddd.org/feeds/618003499fbbf849c25aba52 中国国家历史
+https://api.feeddd.org/feeds/61800475b9a7e049c38be329 战史风云
+https://api.feeddd.org/feeds/61800475b9a7e049c38be339 乡土蓝田
+https://api.feeddd.org/feeds/61800475b9a7e049c38be342 科尔松试车场
+https://api.feeddd.org/feeds/61800475b9a7e049c38be351 历史研习社
