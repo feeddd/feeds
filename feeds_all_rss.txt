@@ -6870,3 +6870,6 @@ https://api.feeddd.org/feeds/61829565b9a7e049c38cb9e0 大米评测
 https://api.feeddd.org/feeds/61829565b9a7e049c38cb9f0 科技美学
 https://api.feeddd.org/feeds/61829a89b9a7e049c38cbc85 老道消息精选
 https://api.feeddd.org/feeds/61829a89b9a7e049c38cbc8d 老talk消息
+https://api.feeddd.org/feeds/6183006db9a7e049c38ccbe4 拍照稀烂的焦虑怪
+https://api.feeddd.org/feeds/6183006db9a7e049c38ccbec 现代聊斋余少镭
+https://api.feeddd.org/feeds/61833cffb9a7e049c38cd56b DHR课堂
