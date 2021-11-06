@@ -6873,3 +6873,27 @@ https://api.feeddd.org/feeds/61829a89b9a7e049c38cbc8d 老talk消息
 https://api.feeddd.org/feeds/6183006db9a7e049c38ccbe4 拍照稀烂的焦虑怪
 https://api.feeddd.org/feeds/6183006db9a7e049c38ccbec 现代聊斋余少镭
 https://api.feeddd.org/feeds/61833cffb9a7e049c38cd56b DHR课堂
+https://api.feeddd.org/feeds/6185ed58b9a7e049c38da1aa Amoy大号
+https://api.feeddd.org/feeds/6186b7dfb9a7e049c38dbe6f 菜鸟阵地
+https://api.feeddd.org/feeds/6186b7dfb9a7e049c38dbe77 重庆城市通卡
+https://api.feeddd.org/feeds/6186b7dfb9a7e049c38dbe7f 重庆电信
+https://api.feeddd.org/feeds/6186b7dfb9a7e049c38dbe87 重庆丰都水务集团有限公司
+https://api.feeddd.org/feeds/6186b7dfb9a7e049c38dbe8f 重庆联通
+https://api.feeddd.org/feeds/6186b7dfb9a7e049c38dbe97 重庆人社
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbe9f 重庆有线
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbea7 纯真少年的梦幻书屋
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbeaf 大书荒三十六计
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbeb7 汇博招聘
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbebf 偶得两本好书
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbec7 偶得一本好书
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbecf PCBeta
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbed7 PT邀请码网
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbedf Roam Research 中文社区
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbee7 山东电信
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbeef 神卡申请助手
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbef7 歪卡翼站
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbeff 我的OneNote
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbf07 WxPusher消息推送平台
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbf0f 霞鹜
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbf17 月影梧桐
+https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbf1f 愉客行重庆市公路客运售票网
