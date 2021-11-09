@@ -6898,3 +6898,5 @@ https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbf0f 霞鹜
 https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbf17 月影梧桐
 https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbf1f 愉客行重庆市公路客运售票网
 https://api.feeddd.org/feeds/61886fbab9a7e049c38e588c JustPod
+https://api.feeddd.org/feeds/618a3c17b9a7e049c38ebd96 地产热点观察
+https://api.feeddd.org/feeds/618a6af69fbbf849c25b61ce 幽默gif图
