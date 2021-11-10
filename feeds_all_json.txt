@@ -6900,3 +6900,11 @@ https://api.feeddd.org/feeds/6186b7e0b9a7e049c38dbf1f/json 愉客行重庆市公
 https://api.feeddd.org/feeds/61886fbab9a7e049c38e588c/json JustPod
 https://api.feeddd.org/feeds/618a3c17b9a7e049c38ebd96/json 地产热点观察
 https://api.feeddd.org/feeds/618a6af69fbbf849c25b61ce/json 幽默gif图
+https://api.feeddd.org/feeds/618b8ac1b9a7e049c38f04ce/json 倍思捷
+https://api.feeddd.org/feeds/618b8ac2b9a7e049c38f04d6/json 歌词适配
+https://api.feeddd.org/feeds/618b8ac2b9a7e049c38f04de/json 清风扫书
+https://api.feeddd.org/feeds/618b8ac2b9a7e049c38f04e6/json 小兰儿
+https://api.feeddd.org/feeds/618b8e26b9a7e049c38f0528/json IGN中国
+https://api.feeddd.org/feeds/618b9252b9a7e049c38f056d/json 游戏动力
+https://api.feeddd.org/feeds/618b9253b9a7e049c38f0575/json 游戏篝火营地
+https://api.feeddd.org/feeds/618bd254b9a7e049c38f2b37/json 陆火Media
