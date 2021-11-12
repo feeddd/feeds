@@ -6936,3 +6936,7 @@ https://api.feeddd.org/feeds/618cf508b9a7e049c38f72e9/atom 青城医疗
 https://api.feeddd.org/feeds/618cf508b9a7e049c38f72f1/atom 瓦斯阅读
 https://api.feeddd.org/feeds/618cf508b9a7e049c38f72f9/atom 小白智慧打印
 https://api.feeddd.org/feeds/618cf508b9a7e049c38f7301/atom 小天鹅智能生活
+https://api.feeddd.org/feeds/618e1fa2b9a7e049c38fd72a/atom 看雪学苑
+https://api.feeddd.org/feeds/618e1fa2b9a7e049c38fd732/atom 全民较真-腾讯新闻
+https://api.feeddd.org/feeds/618e1fa2b9a7e049c38fd73a/atom 深圳房客会
+https://api.feeddd.org/feeds/618e8620b9a7e049c38fff5e/atom 炒股拌饭
