@@ -7623,3 +7623,9 @@ https://api.feeddd.org/feeds/6191e619b9a7e049c39119fa/atom 58二手车
 https://api.feeddd.org/feeds/6191e619b9a7e049c3911a05/atom 599环球无线电
 https://api.feeddd.org/feeds/6192155fb9a7e049c3912d0e/atom Meta海外营销官方账号
 https://api.feeddd.org/feeds/61921565b9a7e049c3912e7e/atom 外贸营销俱乐部
+https://api.feeddd.org/feeds/61936884b9a7e049c391a701/atom 格致财经
+https://api.feeddd.org/feeds/61936d349fbbf849c25c0893/atom 手哥有话讲
+https://api.feeddd.org/feeds/61936d349fbbf849c25c0899/atom 梅森午评
+https://api.feeddd.org/feeds/61936d349fbbf849c25c089f/atom 电影Miss
+https://api.feeddd.org/feeds/61936d349fbbf849c25c08a5/atom 股市荀策
+https://api.feeddd.org/feeds/61937d9f9fbbf849c25c09f9/atom 福田扫地僧
