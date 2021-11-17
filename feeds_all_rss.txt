@@ -7629,3 +7629,8 @@ https://api.feeddd.org/feeds/61936d349fbbf849c25c0899 梅森午评
 https://api.feeddd.org/feeds/61936d349fbbf849c25c089f 电影Miss
 https://api.feeddd.org/feeds/61936d349fbbf849c25c08a5 股市荀策
 https://api.feeddd.org/feeds/61937d9f9fbbf849c25c09f9 福田扫地僧
+https://api.feeddd.org/feeds/61946a39b9a7e049c39210e4 深圳本地招聘
+https://api.feeddd.org/feeds/6194c70eb9a7e049c3924358 图谱天下招聘频道
+https://api.feeddd.org/feeds/61952014b9a7e049c39261f9 爱浪客
+https://api.feeddd.org/feeds/61952015b9a7e049c3926205 联盟车神
+https://api.feeddd.org/feeds/61952015b9a7e049c392620d 走马财经
