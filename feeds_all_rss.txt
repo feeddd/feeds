@@ -7634,3 +7634,4 @@ https://api.feeddd.org/feeds/6194c70eb9a7e049c3924358 图谱天下招聘频道
 https://api.feeddd.org/feeds/61952014b9a7e049c39261f9 爱浪客
 https://api.feeddd.org/feeds/61952015b9a7e049c3926205 联盟车神
 https://api.feeddd.org/feeds/61952015b9a7e049c392620d 走马财经
+https://api.feeddd.org/feeds/61959e37b9a7e049c3929f11 兼职猫
