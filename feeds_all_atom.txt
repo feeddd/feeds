@@ -8326,3 +8326,4 @@ https://api.feeddd.org/feeds/619912219fbbf849c25c6fe8/atom 语合中心
 https://api.feeddd.org/feeds/619912219fbbf849c25c6fef/atom 过时俱乐部
 https://api.feeddd.org/feeds/619912219fbbf849c25c6ff5/atom 随机波动StochasticVolatility
 https://api.feeddd.org/feeds/619916d59fbbf849c25c703c/atom 构想几何BOOKS
+https://api.feeddd.org/feeds/619a35ecb9a7e049c3943536/atom 简七读财
