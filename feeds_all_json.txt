@@ -8793,3 +8793,8 @@ https://api.feeddd.org/feeds/619e03c0486e3727fb038e58/json 卫康公社
 https://api.feeddd.org/feeds/619e3049486e3727fb0394fd/json 盗坤
 https://api.feeddd.org/feeds/619e3517486e3727fb0395ca/json 端端占星
 https://api.feeddd.org/feeds/619e3517486e3727fb0395d2/json 空白杂志
+https://api.feeddd.org/feeds/619f2d69f5449d27faa06eb0/json 欣说言语
+https://api.feeddd.org/feeds/619f2d6bf5449d27faa06ebb/json 我爱学逻辑
+https://api.feeddd.org/feeds/619f36c8f5449d27faa06ed4/json 我爱学申论
+https://api.feeddd.org/feeds/619f7bee486e3727fb03fe79/json 大白话秘密
+https://api.feeddd.org/feeds/619f9cbdf5449d27faa0708c/json 英特尔创新加速器
