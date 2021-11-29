@@ -9240,3 +9240,5 @@ https://api.feeddd.org/feeds/61a2fc91486e3727fb05c75f 21世纪经济报道
 https://api.feeddd.org/feeds/61a2fc91486e3727fb05c767 42号实验室
 https://api.feeddd.org/feeds/61a2fc91486e3727fb05c76f 8点房市
 https://api.feeddd.org/feeds/61a30011486e3727fb05c95d 田老板 精选
+https://api.feeddd.org/feeds/61a47b9e486e3727fb063b6e 大佳的投资笔记
+https://api.feeddd.org/feeds/61a4eb14486e3727fb0646c4 无名杀扩展交流
