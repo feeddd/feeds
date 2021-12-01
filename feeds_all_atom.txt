@@ -9287,3 +9287,5 @@ https://api.feeddd.org/feeds/61a59ad7486e3727fb06cc3b/atom 一起去数学吧
 https://api.feeddd.org/feeds/61a59ad7486e3727fb06cc43/atom 乐学派欢迎你
 https://api.feeddd.org/feeds/61a59ad7486e3727fb06cc4b/atom 宇宙酒
 https://api.feeddd.org/feeds/61a5ce4a486e3727fb06d77f/atom 我是超斯基
+https://api.feeddd.org/feeds/61a76a5f486e3727fb077824/atom 1818黄金眼
+https://api.feeddd.org/feeds/61a7913a486e3727fb078061/atom 常识致富
