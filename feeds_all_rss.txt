@@ -9287,3 +9287,5 @@ https://api.feeddd.org/feeds/61a59ad7486e3727fb06cc3b 一起去数学吧
 https://api.feeddd.org/feeds/61a59ad7486e3727fb06cc43 乐学派欢迎你
 https://api.feeddd.org/feeds/61a59ad7486e3727fb06cc4b 宇宙酒
 https://api.feeddd.org/feeds/61a5ce4a486e3727fb06d77f 我是超斯基
+https://api.feeddd.org/feeds/61a76a5f486e3727fb077824 1818黄金眼
+https://api.feeddd.org/feeds/61a7913a486e3727fb078061 常识致富
