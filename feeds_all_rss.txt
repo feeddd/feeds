@@ -9601,3 +9601,11 @@ https://api.feeddd.org/feeds/61aa18e9486e3727fb090b97 微软研究院AI头条
 https://api.feeddd.org/feeds/61aa18e9486e3727fb090ba1 新智元
 https://api.feeddd.org/feeds/61aa18e9486e3727fb090ba9 智源社区
 https://api.feeddd.org/feeds/61aa18e9486e3727fb090bb3 中国人工智能学会
+https://api.feeddd.org/feeds/61aaf6fd486e3727fb0972b9 中文老说唱
+https://api.feeddd.org/feeds/61ab5b5b486e3727fb098237 Real青年
+https://api.feeddd.org/feeds/61ab5b5b486e3727fb09823f 上海交通大学巴黎卓越工程师学院
+https://api.feeddd.org/feeds/61ab5b5b486e3727fb098247 上海交通大学教务处
+https://api.feeddd.org/feeds/61ab5b5b486e3727fb09824f 上海交通大学网络信息中心
+https://api.feeddd.org/feeds/61ab5b5b486e3727fb098257 WhiteApple
+https://api.feeddd.org/feeds/61ab5b5b486e3727fb09825f 溪言嬉语
+https://api.feeddd.org/feeds/61ab8bd3f5449d27faa1253b 每日涨停复盘图
