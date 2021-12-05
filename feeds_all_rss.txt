@@ -9609,3 +9609,28 @@ https://api.feeddd.org/feeds/61ab5b5b486e3727fb09824f 上海交通大学网络�
 https://api.feeddd.org/feeds/61ab5b5b486e3727fb098257 WhiteApple
 https://api.feeddd.org/feeds/61ab5b5b486e3727fb09825f 溪言嬉语
 https://api.feeddd.org/feeds/61ab8bd3f5449d27faa1253b 每日涨停复盘图
+https://api.feeddd.org/feeds/61abf8cc486e3727fb09bf35 健康气象
+https://api.feeddd.org/feeds/61ac0de4486e3727fb09c084 中国天气网
+https://api.feeddd.org/feeds/61ac2428486e3727fb09d94e 无锡市气象局
+https://api.feeddd.org/feeds/61ac2554486e3727fb09d98b 宁波气象
+https://api.feeddd.org/feeds/61ac3cc4486e3727fb09e8e1 海盐气象
+https://api.feeddd.org/feeds/61ac3cc4486e3727fb09e8e7 慈溪气象
+https://api.feeddd.org/feeds/61ac3cc4486e3727fb09e8ed 嘉兴气象
+https://api.feeddd.org/feeds/61ac3df0486e3727fb09e938 浙江天气
+https://api.feeddd.org/feeds/61ac3df0486e3727fb09e93e 苏州气象订阅号
+https://api.feeddd.org/feeds/61ac3e8a486e3727fb09e9a7 大众日报
+https://api.feeddd.org/feeds/61ac3e8a486e3727fb09e9af 墨墨背单词
+https://api.feeddd.org/feeds/61ac3e8a486e3727fb09e9b7 涅槃字幕组
+https://api.feeddd.org/feeds/61ac508e486e3727fb09f11d 机器学习与生成对抗网络
+https://api.feeddd.org/feeds/61ac508e486e3727fb09f126 机器学习与推荐算法
+https://api.feeddd.org/feeds/61ac508e486e3727fb09f134 集智书童
+https://api.feeddd.org/feeds/61ac508e486e3727fb09f13f 深度学习与图网络
+https://api.feeddd.org/feeds/61ac79b4486e3727fb09f6b0 湖州气象
+https://api.feeddd.org/feeds/61ac81e8486e3727fb09f749 南京气象
+https://api.feeddd.org/feeds/61ac8c74486e3727fb09f80e 江苏气象
+https://api.feeddd.org/feeds/61acbed9f5449d27faa156f8 海盐发布
+https://api.feeddd.org/feeds/61acc011486e3727fb09fdd4 杭州天气
+https://api.feeddd.org/feeds/61ace32cdca58a380c28d4b1 GIJN
+https://api.feeddd.org/feeds/61ace32cdca58a380c28d4b7 Midnight Bipolar Club
+https://api.feeddd.org/feeds/61ace32cdca58a380c28d4c0 SayMyName Cyrus
+https://api.feeddd.org/feeds/61ace7dcdca58a380c28d65e 蜜题翻硕MTI
