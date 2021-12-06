@@ -9634,3 +9634,4 @@ https://api.feeddd.org/feeds/61ace32cdca58a380c28d4b1/atom GIJN
 https://api.feeddd.org/feeds/61ace32cdca58a380c28d4b7/atom Midnight Bipolar Club
 https://api.feeddd.org/feeds/61ace32cdca58a380c28d4c0/atom SayMyName Cyrus
 https://api.feeddd.org/feeds/61ace7dcdca58a380c28d65e/atom 蜜题翻硕MTI
+https://api.feeddd.org/feeds/61ae1760dca58a380c296fce/atom 潜江天气
