@@ -9634,3 +9634,4 @@ https://api.feeddd.org/feeds/61ace32cdca58a380c28d4b1/json GIJN
 https://api.feeddd.org/feeds/61ace32cdca58a380c28d4b7/json Midnight Bipolar Club
 https://api.feeddd.org/feeds/61ace32cdca58a380c28d4c0/json SayMyName Cyrus
 https://api.feeddd.org/feeds/61ace7dcdca58a380c28d65e/json 蜜题翻硕MTI
+https://api.feeddd.org/feeds/61ae1760dca58a380c296fce/json 潜江天气
