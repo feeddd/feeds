@@ -9939,3 +9939,5 @@ https://api.feeddd.org/feeds/61b06d56dca58a380c2a6210/json 中文考研路
 https://api.feeddd.org/feeds/61b06d56dca58a380c2a6218/json 中文考研网
 https://api.feeddd.org/feeds/61b06d56dca58a380c2a6220/json 筑梦园考研
 https://api.feeddd.org/feeds/61b06d56dca58a380c2a6228/json 自闭症星球
+https://api.feeddd.org/feeds/61b13ecddca58a380c2ab4ea/json 松璐不是松露
+https://api.feeddd.org/feeds/61b17bbc0cf8ee380b0c46be/json 公考齐麟
