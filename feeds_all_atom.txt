@@ -10376,3 +10376,17 @@ https://api.feeddd.org/feeds/61b2dc58dca58a380c2b6575/atom 37打工网
 https://api.feeddd.org/feeds/61b2dc58dca58a380c2b657d/atom 52MB
 https://api.feeddd.org/feeds/61b3358bdca58a380c2b8112/atom 多多罗故事
 https://api.feeddd.org/feeds/61b37293dca58a380c2b8d13/atom 财经十一人
+https://api.feeddd.org/feeds/61b403c90cf8ee380b0c7e62/atom 财经马红漫
+https://api.feeddd.org/feeds/61b40e93dca58a380c2bf4fc/atom CCTV生活圈
+https://api.feeddd.org/feeds/61b40e93dca58a380c2bf504/atom 成甲
+https://api.feeddd.org/feeds/61b40e93dca58a380c2bf50c/atom 光明佛坛
+https://api.feeddd.org/feeds/61b40e94dca58a380c2bf514/atom 谈谈佛
+https://api.feeddd.org/feeds/61b40e94dca58a380c2bf51c/atom 小桔灯网
+https://api.feeddd.org/feeds/61b40e94dca58a380c2bf524/atom 中国医疗科技网
+https://api.feeddd.org/feeds/61b4ce84dca58a380c2c3462/atom 大白君的奇思妙想
+https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cbe/atom 次元资讯
+https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cc6/atom 动物餐厅喵酱
+https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cce/atom Emeritus
+https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cd6/atom 齐书
+https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cde/atom 齐天大圣来了
+https://api.feeddd.org/feeds/61b4f41edca58a380c2c3ce6/atom SendCloud
