@@ -10376,3 +10376,17 @@ https://api.feeddd.org/feeds/61b2dc58dca58a380c2b6575/json 37打工网
 https://api.feeddd.org/feeds/61b2dc58dca58a380c2b657d/json 52MB
 https://api.feeddd.org/feeds/61b3358bdca58a380c2b8112/json 多多罗故事
 https://api.feeddd.org/feeds/61b37293dca58a380c2b8d13/json 财经十一人
+https://api.feeddd.org/feeds/61b403c90cf8ee380b0c7e62/json 财经马红漫
+https://api.feeddd.org/feeds/61b40e93dca58a380c2bf4fc/json CCTV生活圈
+https://api.feeddd.org/feeds/61b40e93dca58a380c2bf504/json 成甲
+https://api.feeddd.org/feeds/61b40e93dca58a380c2bf50c/json 光明佛坛
+https://api.feeddd.org/feeds/61b40e94dca58a380c2bf514/json 谈谈佛
+https://api.feeddd.org/feeds/61b40e94dca58a380c2bf51c/json 小桔灯网
+https://api.feeddd.org/feeds/61b40e94dca58a380c2bf524/json 中国医疗科技网
+https://api.feeddd.org/feeds/61b4ce84dca58a380c2c3462/json 大白君的奇思妙想
+https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cbe/json 次元资讯
+https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cc6/json 动物餐厅喵酱
+https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cce/json Emeritus
+https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cd6/json 齐书
+https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cde/json 齐天大圣来了
+https://api.feeddd.org/feeds/61b4f41edca58a380c2c3ce6/json SendCloud
