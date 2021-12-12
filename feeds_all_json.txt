@@ -10390,3 +10390,8 @@ https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cce/json Emeritus
 https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cd6/json 齐书
 https://api.feeddd.org/feeds/61b4f41ddca58a380c2c3cde/json 齐天大圣来了
 https://api.feeddd.org/feeds/61b4f41edca58a380c2c3ce6/json SendCloud
+https://api.feeddd.org/feeds/61b5b4350cf8ee380b0cb4a2/json 地产人课堂
+https://api.feeddd.org/feeds/61b5b4350cf8ee380b0cb4b4/json 地产壹线
+https://api.feeddd.org/feeds/61b5c4d5dca58a380c2c9868/json 火星影剧
+https://api.feeddd.org/feeds/61b5c6f70cf8ee380b0cb567/json 国际仿生工程学会
+https://api.feeddd.org/feeds/61b5fa85dca58a380c2ca29b/json 意林
