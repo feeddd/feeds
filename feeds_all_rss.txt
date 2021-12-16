@@ -10484,3 +10484,16 @@ https://api.feeddd.org/feeds/61b9af0edca58a380c2e6089 每晚一卷书
 https://api.feeddd.org/feeds/61b9af0edca58a380c2e6091 秦刚
 https://api.feeddd.org/feeds/61b9af0edca58a380c2e6099 筝小钱
 https://api.feeddd.org/feeds/61b9af0edca58a380c2e60a1 桌子的生活观
+https://api.feeddd.org/feeds/61ba6965dca58a380c2eb70b 美股研习社
+https://api.feeddd.org/feeds/61bae000dca58a380c2ef12d 词达人
+https://api.feeddd.org/feeds/61bae000dca58a380c2ef135 花崎花子
+https://api.feeddd.org/feeds/61bae000dca58a380c2ef13d 会员任我选
+https://api.feeddd.org/feeds/61bae000dca58a380c2ef145 江苏学生资助
+https://api.feeddd.org/feeds/61bae000dca58a380c2ef14d 军事理论答案查询
+https://api.feeddd.org/feeds/61bae000dca58a380c2ef155 Libv
+https://api.feeddd.org/feeds/61bae000dca58a380c2ef15d 蒙牛新的吧
+https://api.feeddd.org/feeds/61bae000dca58a380c2ef165 Rust 生态与实践
+https://api.feeddd.org/feeds/61bae000dca58a380c2ef16d 苏大英语在线
+https://api.feeddd.org/feeds/61bae001dca58a380c2ef175 脱单实验室RIGHT
+https://api.feeddd.org/feeds/61bae001dca58a380c2ef17d YouLinw的ROM日常
+https://api.feeddd.org/feeds/61baefa90cf8ee380b0d0024 仿生工程与生物力学中心
