@@ -10575,3 +10575,4 @@ https://api.feeddd.org/feeds/61bc9cd6dca58a380c2fb389/atom 长沙市湘剧保护
 https://api.feeddd.org/feeds/61bc9cd6dca58a380c2fb391/atom 海南省琼剧院
 https://api.feeddd.org/feeds/61bc9cd6dca58a380c2fb399/atom 涟源市湘剧保护传承中心
 https://api.feeddd.org/feeds/61bc9cd6dca58a380c2fb3a1/atom 周口市戏剧艺术研究院
+https://api.feeddd.org/feeds/61bdc6d1dca58a380c30a791/atom AI财经社
