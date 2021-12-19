@@ -10576,3 +10576,16 @@ https://api.feeddd.org/feeds/61bc9cd6dca58a380c2fb391 海南省琼剧院
 https://api.feeddd.org/feeds/61bc9cd6dca58a380c2fb399 涟源市湘剧保护传承中心
 https://api.feeddd.org/feeds/61bc9cd6dca58a380c2fb3a1 周口市戏剧艺术研究院
 https://api.feeddd.org/feeds/61bdc6d1dca58a380c30a791 AI财经社
+https://api.feeddd.org/feeds/61bef4cedca58a380c317216 爱上科研阅读
+https://api.feeddd.org/feeds/61bef6e9dca58a380c31783e 资源汇社区
+https://api.feeddd.org/feeds/61bef815dca58a380c317c20 二次元吊炸天
+https://api.feeddd.org/feeds/61bef815dca58a380c317c3a 课代表呀
+https://api.feeddd.org/feeds/61bef815dca58a380c317c40 永劫无间
+https://api.feeddd.org/feeds/61bef9410cf8ee380b0d7308 小木盒
+https://api.feeddd.org/feeds/61bef9410cf8ee380b0d7317 海阔视界小棉袄
+https://api.feeddd.org/feeds/61bef9410cf8ee380b0d731d 945KM
+https://api.feeddd.org/feeds/61befa6ddca58a380c317e5b Quicker软件
+https://api.feeddd.org/feeds/61befa6ddca58a380c317e64 同花顺人工智能
+https://api.feeddd.org/feeds/61befa6ddca58a380c317e6a 天天哄睡助眠
+https://api.feeddd.org/feeds/61befb980cf8ee380b0d7358 弹弹play
+https://api.feeddd.org/feeds/61befb980cf8ee380b0d7362 海上程序员
