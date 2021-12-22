@@ -10647,3 +10647,16 @@ https://api.feeddd.org/feeds/61c1c684dca58a380c32ed65 医药代表
 https://api.feeddd.org/feeds/61c1c684dca58a380c32ed6d 医药魔方
 https://api.feeddd.org/feeds/61c1c684dca58a380c32ed77 中国数字医学
 https://api.feeddd.org/feeds/61c1c684dca58a380c32ed7f 中国医疗器械信息网
+https://api.feeddd.org/feeds/61c33b190cf8ee380b0d8a97 河南疾控
+https://api.feeddd.org/feeds/61c33b190cf8ee380b0d8aa3 新乡健康教育
+https://api.feeddd.org/feeds/61c33c440cf8ee380b0d8ac7 中国禁毒
+https://api.feeddd.org/feeds/61c33c440cf8ee380b0d8ad1 中国消费者协会
+https://api.feeddd.org/feeds/61c33c440cf8ee380b0d8ad7 中原盾
+https://api.feeddd.org/feeds/61c3580fdca58a380c33acec 充电头网评测室
+https://api.feeddd.org/feeds/61c3580fdca58a380c33acf4 GL.iNet智能科技
+https://api.feeddd.org/feeds/61c35810dca58a380c33acfc 火绒安全实验室
+https://api.feeddd.org/feeds/61c35810dca58a380c33ad04 蓝点网
+https://api.feeddd.org/feeds/61c35810dca58a380c33ad0c 罗小黑CAT
+https://api.feeddd.org/feeds/61c35810dca58a380c33ad14 山药Gon
+https://api.feeddd.org/feeds/61c35810dca58a380c33ad1c 西柚生活手记
+https://api.feeddd.org/feeds/61c35810dca58a380c33ad24 查查斯
