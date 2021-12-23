@@ -10660,3 +10660,14 @@ https://api.feeddd.org/feeds/61c35810dca58a380c33ad0c/json 罗小黑CAT
 https://api.feeddd.org/feeds/61c35810dca58a380c33ad14/json 山药Gon
 https://api.feeddd.org/feeds/61c35810dca58a380c33ad1c/json 西柚生活手记
 https://api.feeddd.org/feeds/61c35810dca58a380c33ad24/json 查查斯
+https://api.feeddd.org/feeds/61c43388dca58a380c342c17/json PLANTOMIX
+https://api.feeddd.org/feeds/61c441980cf8ee380b0d90e6/json 大城小虫
+https://api.feeddd.org/feeds/61c441980cf8ee380b0d90ec/json 花果山老王
+https://api.feeddd.org/feeds/61c442c50cf8ee380b0d9123/json 巍巍昆虫记
+https://api.feeddd.org/feeds/61c443f0dca58a380c3433c2/json 考研英语外刊君
+https://api.feeddd.org/feeds/61c45377dca58a380c3440ad/json 冬眠期花卉集市
+https://api.feeddd.org/feeds/61c45377dca58a380c3440b5/json 花生十三
+https://api.feeddd.org/feeds/61c45377dca58a380c3440bd/json LearnAndRecord
+https://api.feeddd.org/feeds/61c45377dca58a380c3440c5/json 喵呜不停
+https://api.feeddd.org/feeds/61c45377dca58a380c3440cd/json 申论大本营
+https://api.feeddd.org/feeds/61c45377dca58a380c3440d5/json 小杨生煎
