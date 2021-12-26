@@ -10848,3 +10848,10 @@ https://api.feeddd.org/feeds/61c7359edca58a380c35bd9b/atom 中银保险有限公
 https://api.feeddd.org/feeds/61c7359edca58a380c35bda3/atom 竹间智能科技
 https://api.feeddd.org/feeds/61c7359edca58a380c35bdab/atom 租租车
 https://api.feeddd.org/feeds/61c73b510cf8ee380b0da069/atom 政治学人
+https://api.feeddd.org/feeds/61c875600cf8ee380b0da4e4/atom 梅医生的视光工作室
+https://api.feeddd.org/feeds/61c875600cf8ee380b0da4eb/atom 逆刘而上
+https://api.feeddd.org/feeds/61c875600cf8ee380b0da4f2/atom 牛资料
+https://api.feeddd.org/feeds/61c875610cf8ee380b0da4f8/atom 北京同仁医院图书馆
+https://api.feeddd.org/feeds/61c875610cf8ee380b0da4fe/atom 冬雪川的眼科异想
+https://api.feeddd.org/feeds/61c87a100cf8ee380b0da51b/atom 西湖大学WestlakeUniversity
+https://api.feeddd.org/feeds/61c87b3c0cf8ee380b0da52d/atom 得到
