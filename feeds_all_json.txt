@@ -11288,3 +11288,5 @@ https://api.feeddd.org/feeds/61cfee49dca58a380c3978af/json 如故App
 https://api.feeddd.org/feeds/61cfee49dca58a380c3978b7/json 追书神器官方
 https://api.feeddd.org/feeds/61d09b50dca58a380c39fb20/json 3系飞行员
 https://api.feeddd.org/feeds/61d0a457dca58a380c39fbba/json 过桥土豆的土豆
+https://api.feeddd.org/feeds/61d10431dca58a380c3a1157/json 政法频道
+https://api.feeddd.org/feeds/61d1dc690cf8ee380b0eca26/json 阿法兔研究笔记
