@@ -11556,3 +11556,7 @@ https://api.feeddd.org/feeds/61d44769dca58a380c3b6e1f/json 一个焊点
 https://api.feeddd.org/feeds/61d44769dca58a380c3b6e27/json 一口Linux
 https://api.feeddd.org/feeds/61d44769dca58a380c3b6e2f/json 正点原子
 https://api.feeddd.org/feeds/61d44769dca58a380c3b6e37/json 最后一个bug
+https://api.feeddd.org/feeds/61d50e62dca58a380c3bcc1d/json 演说洞见
+https://api.feeddd.org/feeds/61d5431cdca58a380c3bdef3/json 花爷梦呓换酒钱
+https://api.feeddd.org/feeds/61d5431cdca58a380c3bdeff/json 青山产业评论
+https://api.feeddd.org/feeds/61d5431ddca58a380c3bdf05/json 神总的笔记
