@@ -11560,3 +11560,8 @@ https://api.feeddd.org/feeds/61d50e62dca58a380c3bcc1d/atom 演说洞见
 https://api.feeddd.org/feeds/61d5431cdca58a380c3bdef3/atom 花爷梦呓换酒钱
 https://api.feeddd.org/feeds/61d5431cdca58a380c3bdeff/atom 青山产业评论
 https://api.feeddd.org/feeds/61d5431ddca58a380c3bdf05/atom 神总的笔记
+https://api.feeddd.org/feeds/61d64ad2dca58a380c3c8542/atom 方圆戏曲
+https://api.feeddd.org/feeds/61d6bff9dca58a380c3ca971/atom 中数传媒技术服务
+https://api.feeddd.org/feeds/61d6bff9dca58a380c3ca977/atom 广电猎酷
+https://api.feeddd.org/feeds/61d6bff9dca58a380c3ca982/atom 国家广播电视总局
+https://api.feeddd.org/feeds/61d70237dca58a380c3cc83e/atom 徐彬说投资
