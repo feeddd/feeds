@@ -11691,3 +11691,4 @@ https://api.feeddd.org/feeds/61d8645ddca58a380c3d614a 众佣服务商
 https://api.feeddd.org/feeds/61d8645ddca58a380c3d6152 21考研资料
 https://api.feeddd.org/feeds/61d8645ddca58a380c3d615a 51CTO精品课
 https://api.feeddd.org/feeds/61d8645ddca58a380c3d6162 69号资讯
+https://api.feeddd.org/feeds/61d9bc27dca58a380c3e3200 德州大剧院
