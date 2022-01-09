@@ -11692,3 +11692,8 @@ https://api.feeddd.org/feeds/61d8645ddca58a380c3d6152/atom 21考研资料
 https://api.feeddd.org/feeds/61d8645ddca58a380c3d615a/atom 51CTO精品课
 https://api.feeddd.org/feeds/61d8645ddca58a380c3d6162/atom 69号资讯
 https://api.feeddd.org/feeds/61d9bc27dca58a380c3e3200/atom 德州大剧院
+https://api.feeddd.org/feeds/61da91500cf8ee380b0f9487/atom 煎蛋
+https://api.feeddd.org/feeds/61da94d4dca58a380c3eddd8/atom 渔村日记
+https://api.feeddd.org/feeds/61daa7950cf8ee380b0f94f7/atom SEVEN调研纪要
+https://api.feeddd.org/feeds/61dab0f40cf8ee380b0f955d/atom Chiphell
+https://api.feeddd.org/feeds/61db1b80dca58a380c3f243f/atom 什么值得塞
