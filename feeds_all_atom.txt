@@ -11697,3 +11697,5 @@ https://api.feeddd.org/feeds/61da94d4dca58a380c3eddd8/atom 渔村日记
 https://api.feeddd.org/feeds/61daa7950cf8ee380b0f94f7/atom SEVEN调研纪要
 https://api.feeddd.org/feeds/61dab0f40cf8ee380b0f955d/atom Chiphell
 https://api.feeddd.org/feeds/61db1b80dca58a380c3f243f/atom 什么值得塞
+https://api.feeddd.org/feeds/61dbad7ddca58a380c3f77b0/atom 成都兼达人
+https://api.feeddd.org/feeds/61dc36f2dca58a380c3ff217/atom Steamzx
