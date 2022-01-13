@@ -12312,3 +12312,6 @@ https://api.feeddd.org/feeds/61dec999dca58a380c41b07b 至尊找货助手
 https://api.feeddd.org/feeds/61dec999dca58a380c41b083 忠余有妙招
 https://api.feeddd.org/feeds/61dec999dca58a380c41b08b 3分钟学堂
 https://api.feeddd.org/feeds/61df1bf5dca58a380c41db0e Tiao Share
+https://api.feeddd.org/feeds/61df7cafdca58a380c41f7d9 新项目观察家
+https://api.feeddd.org/feeds/61dfdad40cf8ee380b102252 天上不会掉馅饼
+https://api.feeddd.org/feeds/61dfdad40cf8ee380b102258 陌少年
