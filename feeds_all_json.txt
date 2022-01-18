@@ -12727,3 +12727,64 @@ https://api.feeddd.org/feeds/61e515b4dca58a380c44ea2a/json 小十点
 https://api.feeddd.org/feeds/61e515b4dca58a380c44ea32/json 小羽私厨美食菜谱
 https://api.feeddd.org/feeds/61e515b5dca58a380c44ea3a/json 知乎效果营销服务平台
 https://api.feeddd.org/feeds/61e515b5dca58a380c44ea42/json 58营销学苑
+https://api.feeddd.org/feeds/61e66158dca58a380c45fbe7/json AdColony
+https://api.feeddd.org/feeds/61e66158dca58a380c45fbef/json 阿里智能信息事业群智能营销平台
+https://api.feeddd.org/feeds/61e66158dca58a380c45fbf7/json AppLovin
+https://api.feeddd.org/feeds/61e66158dca58a380c45fbff/json 哔哩哔哩广告服务平台
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc07/json 哔哩哔哩商业动态
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc0f/json Chartboost
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc17/json 扶翼产品营销大课堂
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc1f/json 巨量创意
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc27/json 巨量引擎营销观察
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc2f/json 巨量引擎营销科学
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc37/json Mintegral
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc3f/json 趣头条营销增长平台
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc47/json 睿视慧眼
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc4f/json Snapchat全球营销
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc57/json 搜狐营销实验室
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc5f/json 腾讯广告创意中心
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc67/json TikTok For Business出海营销
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc6f/json Twitter广告助手
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc77/json 小红书商业动态
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc7f/json 小米营销探索
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc87/json 知乎营销
+https://api.feeddd.org/feeds/61e6af7bdca58a380c46275d/json 本地生活设计中心
+https://api.feeddd.org/feeds/61e6af7bdca58a380c462765/json 呆呆有理
+https://api.feeddd.org/feeds/61e6af7bdca58a380c46276d/json 京东设计中心JDC
+https://api.feeddd.org/feeds/61e6af7bdca58a380c462775/json KASAKII
+https://api.feeddd.org/feeds/61e6af7bdca58a380c46277d/json 龙爪槐守望者
+https://api.feeddd.org/feeds/61e6b6b1dca58a380c462a71/json Alibaba Cloud TxD
+https://api.feeddd.org/feeds/61e6b6b1dca58a380c462a79/json AlibabaDesign
+https://api.feeddd.org/feeds/61e6b6b1dca58a380c462a81/json 阿里云设计中心
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462a89/json BDR可视化设计
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462a93/json BranD的好奇心
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462a9b/json BYMD
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462aa3/json 长弓小子
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462aab/json 超人的电话亭
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462ab3/json 池灵Chillin
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462abb/json codesigner
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462ac5/json 负能量补给站
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462acd/json HEMA Design
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462ad5/json 坏打印机
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462adf/json JTD Design Center
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462ae9/json Keep 设计体验与研究中心
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462af1/json KID商业化
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462af9/json 快手 KID
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462b01/json 灵感买家俱乐部
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b09/json Link01
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b11/json 流利说设计团队
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b1b/json Loudly Thinking
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b23/json MFW UED
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b2b/json NielsenNormanGroup
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b36/json 判官老司机
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b3e/json 转行人的设计笔记
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d08/json 李寻一
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d14/json MediaTea
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d22/json 青爵
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d2a/json TCD设计中心
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d32/json TDC体验设计中心
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d3a/json 腾讯PPdesign
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d42/json 腾讯设计
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d4a/json 腾讯游戏TGideas
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d52/json 体验主义
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d5a/json 途家UED
