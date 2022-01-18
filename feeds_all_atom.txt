@@ -12727,3 +12727,64 @@ https://api.feeddd.org/feeds/61e515b4dca58a380c44ea2a/atom 小十点
 https://api.feeddd.org/feeds/61e515b4dca58a380c44ea32/atom 小羽私厨美食菜谱
 https://api.feeddd.org/feeds/61e515b5dca58a380c44ea3a/atom 知乎效果营销服务平台
 https://api.feeddd.org/feeds/61e515b5dca58a380c44ea42/atom 58营销学苑
+https://api.feeddd.org/feeds/61e66158dca58a380c45fbe7/atom AdColony
+https://api.feeddd.org/feeds/61e66158dca58a380c45fbef/atom 阿里智能信息事业群智能营销平台
+https://api.feeddd.org/feeds/61e66158dca58a380c45fbf7/atom AppLovin
+https://api.feeddd.org/feeds/61e66158dca58a380c45fbff/atom 哔哩哔哩广告服务平台
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc07/atom 哔哩哔哩商业动态
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc0f/atom Chartboost
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc17/atom 扶翼产品营销大课堂
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc1f/atom 巨量创意
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc27/atom 巨量引擎营销观察
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc2f/atom 巨量引擎营销科学
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc37/atom Mintegral
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc3f/atom 趣头条营销增长平台
+https://api.feeddd.org/feeds/61e66158dca58a380c45fc47/atom 睿视慧眼
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc4f/atom Snapchat全球营销
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc57/atom 搜狐营销实验室
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc5f/atom 腾讯广告创意中心
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc67/atom TikTok For Business出海营销
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc6f/atom Twitter广告助手
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc77/atom 小红书商业动态
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc7f/atom 小米营销探索
+https://api.feeddd.org/feeds/61e66159dca58a380c45fc87/atom 知乎营销
+https://api.feeddd.org/feeds/61e6af7bdca58a380c46275d/atom 本地生活设计中心
+https://api.feeddd.org/feeds/61e6af7bdca58a380c462765/atom 呆呆有理
+https://api.feeddd.org/feeds/61e6af7bdca58a380c46276d/atom 京东设计中心JDC
+https://api.feeddd.org/feeds/61e6af7bdca58a380c462775/atom KASAKII
+https://api.feeddd.org/feeds/61e6af7bdca58a380c46277d/atom 龙爪槐守望者
+https://api.feeddd.org/feeds/61e6b6b1dca58a380c462a71/atom Alibaba Cloud TxD
+https://api.feeddd.org/feeds/61e6b6b1dca58a380c462a79/atom AlibabaDesign
+https://api.feeddd.org/feeds/61e6b6b1dca58a380c462a81/atom 阿里云设计中心
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462a89/atom BDR可视化设计
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462a93/atom BranD的好奇心
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462a9b/atom BYMD
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462aa3/atom 长弓小子
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462aab/atom 超人的电话亭
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462ab3/atom 池灵Chillin
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462abb/atom codesigner
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462ac5/atom 负能量补给站
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462acd/atom HEMA Design
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462ad5/atom 坏打印机
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462adf/atom JTD Design Center
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462ae9/atom Keep 设计体验与研究中心
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462af1/atom KID商业化
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462af9/atom 快手 KID
+https://api.feeddd.org/feeds/61e6b6b2dca58a380c462b01/atom 灵感买家俱乐部
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b09/atom Link01
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b11/atom 流利说设计团队
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b1b/atom Loudly Thinking
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b23/atom MFW UED
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b2b/atom NielsenNormanGroup
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b36/atom 判官老司机
+https://api.feeddd.org/feeds/61e6b6b3dca58a380c462b3e/atom 转行人的设计笔记
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d08/atom 李寻一
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d14/atom MediaTea
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d22/atom 青爵
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d2a/atom TCD设计中心
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d32/atom TDC体验设计中心
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d3a/atom 腾讯PPdesign
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d42/atom 腾讯设计
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d4a/atom 腾讯游戏TGideas
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d52/atom 体验主义
+https://api.feeddd.org/feeds/61e6bbd5dca58a380c462d5a/atom 途家UED
