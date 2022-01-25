@@ -12861,3 +12861,8 @@ https://api.feeddd.org/feeds/61eecd5ddca58a380c4bde43/atom 上海戏曲广播
 https://api.feeddd.org/feeds/61eecd5ddca58a380c4bde4b/atom 上海天蟾逸夫舞台
 https://api.feeddd.org/feeds/61eecd5ddca58a380c4bde53/atom 武汉戏码
 https://api.feeddd.org/feeds/61eecd5ddca58a380c4bde5b/atom 夜话秦腔
+https://api.feeddd.org/feeds/61ef3ff5dca58a380c4c5d9c/atom Andrew的设计笔记
+https://api.feeddd.org/feeds/61ef4eb7dca58a380c4c6717/atom NFT藏品空投
+https://api.feeddd.org/feeds/61ef561ddca58a380c4c7040/atom 体外诊断网
+https://api.feeddd.org/feeds/61ef574a0cf8ee380b11959e/atom IVD资讯
+https://api.feeddd.org/feeds/61f0279adca58a380c4cf2c7/atom FlipRadio
