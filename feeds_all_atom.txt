@@ -12866,3 +12866,5 @@ https://api.feeddd.org/feeds/61ef4eb7dca58a380c4c6717/atom NFT藏品空投
 https://api.feeddd.org/feeds/61ef561ddca58a380c4c7040/atom 体外诊断网
 https://api.feeddd.org/feeds/61ef574a0cf8ee380b11959e/atom IVD资讯
 https://api.feeddd.org/feeds/61f0279adca58a380c4cf2c7/atom FlipRadio
+https://api.feeddd.org/feeds/61f15d40dca58a380c4ded69/atom 天健招聘
+https://api.feeddd.org/feeds/61f173850cf8ee380b11a1ff/atom 事务所实习就这么简单
