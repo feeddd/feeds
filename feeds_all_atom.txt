@@ -12868,3 +12868,5 @@ https://api.feeddd.org/feeds/61ef574a0cf8ee380b11959e/atom IVD资讯
 https://api.feeddd.org/feeds/61f0279adca58a380c4cf2c7/atom FlipRadio
 https://api.feeddd.org/feeds/61f15d40dca58a380c4ded69/atom 天健招聘
 https://api.feeddd.org/feeds/61f173850cf8ee380b11a1ff/atom 事务所实习就这么简单
+https://api.feeddd.org/feeds/61f29e9edca58a380c4efb3f/atom 顺德地铁
+https://api.feeddd.org/feeds/61f2c3d90cf8ee380b11acc1/atom 波士顿圆脸
