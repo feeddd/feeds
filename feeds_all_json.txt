@@ -13216,3 +13216,5 @@ https://api.feeddd.org/feeds/61f529e80cf8ee380b11f5ff/json 最爱历史
 https://api.feeddd.org/feeds/61f52e9b0cf8ee380b11f6cd/json 家事法苑
 https://api.feeddd.org/feeds/61f55b22dca58a380c510624/json vivo互联网技术
 https://api.feeddd.org/feeds/61f55b22dca58a380c510633/json eBay技术荟
+https://api.feeddd.org/feeds/61f654bddca58a380c51e170/json 上海预警发布
+https://api.feeddd.org/feeds/61f6be01dca58a380c521dda/json 蓝洞新消费
