@@ -13257,3 +13257,4 @@ https://api.feeddd.org/feeds/61f7c29adca58a380c5305e9 天下足球官方公众�
 https://api.feeddd.org/feeds/61f7c29adca58a380c5305f1 WPapps
 https://api.feeddd.org/feeds/61f7c29adca58a380c5305fb 悦食Epicure
 https://api.feeddd.org/feeds/61f7c29adca58a380c530603 章鱼读书
+https://api.feeddd.org/feeds/61f95d37dca58a380c543bc8 过桥土豆Pro
