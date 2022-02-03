@@ -13258,3 +13258,5 @@ https://api.feeddd.org/feeds/61f7c29adca58a380c5305f1/json WPapps
 https://api.feeddd.org/feeds/61f7c29adca58a380c5305fb/json 悦食Epicure
 https://api.feeddd.org/feeds/61f7c29adca58a380c530603/json 章鱼读书
 https://api.feeddd.org/feeds/61f95d37dca58a380c543bc8/json 过桥土豆Pro
+https://api.feeddd.org/feeds/61fbccd6dca58a380c56299f/json 保守主义评论
+https://api.feeddd.org/feeds/61fbebb4dca58a380c563fc1/json 君晟研究社区订阅号
