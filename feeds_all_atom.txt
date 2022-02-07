@@ -13318,3 +13318,13 @@ https://api.feeddd.org/feeds/61ff80a7dca58a380c58a27b/atom 钟立风走进黑猫
 https://api.feeddd.org/feeds/61ff80a7dca58a380c58a283/atom 中青评论
 https://api.feeddd.org/feeds/61ff80a8dca58a380c58a28b/atom 紫头挺无奈的
 https://api.feeddd.org/feeds/61ffe722dca58a380c58e6cd/atom 地产广告八卦
+https://api.feeddd.org/feeds/6201409bdca58a380c59c319/atom 首席商业评论
+https://api.feeddd.org/feeds/62014453dca58a380c59c48c/atom 巴比特资讯
+https://api.feeddd.org/feeds/62014453dca58a380c59c494/atom 边际实验室
+https://api.feeddd.org/feeds/62014453dca58a380c59c49c/atom 铲史官
+https://api.feeddd.org/feeds/62014453dca58a380c59c4a4/atom 朵尔日记
+https://api.feeddd.org/feeds/62014453dca58a380c59c4ac/atom 福卡智库
+https://api.feeddd.org/feeds/62014453dca58a380c59c4b6/atom 新哲学思想
+https://api.feeddd.org/feeds/62014453dca58a380c59c4be/atom 西西弗评论
+https://api.feeddd.org/feeds/62014453dca58a380c59c4c6/atom 中国科学院哲学研究所
+https://api.feeddd.org/feeds/62014453dca58a380c59c4ce/atom 自由评论
