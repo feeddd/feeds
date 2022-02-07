@@ -13318,3 +13318,13 @@ https://api.feeddd.org/feeds/61ff80a7dca58a380c58a27b 钟立风走进黑猫咖�
 https://api.feeddd.org/feeds/61ff80a7dca58a380c58a283 中青评论
 https://api.feeddd.org/feeds/61ff80a8dca58a380c58a28b 紫头挺无奈的
 https://api.feeddd.org/feeds/61ffe722dca58a380c58e6cd 地产广告八卦
+https://api.feeddd.org/feeds/6201409bdca58a380c59c319 首席商业评论
+https://api.feeddd.org/feeds/62014453dca58a380c59c48c 巴比特资讯
+https://api.feeddd.org/feeds/62014453dca58a380c59c494 边际实验室
+https://api.feeddd.org/feeds/62014453dca58a380c59c49c 铲史官
+https://api.feeddd.org/feeds/62014453dca58a380c59c4a4 朵尔日记
+https://api.feeddd.org/feeds/62014453dca58a380c59c4ac 福卡智库
+https://api.feeddd.org/feeds/62014453dca58a380c59c4b6 新哲学思想
+https://api.feeddd.org/feeds/62014453dca58a380c59c4be 西西弗评论
+https://api.feeddd.org/feeds/62014453dca58a380c59c4c6 中国科学院哲学研究所
+https://api.feeddd.org/feeds/62014453dca58a380c59c4ce 自由评论
