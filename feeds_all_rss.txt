@@ -13518,3 +13518,8 @@ https://api.feeddd.org/feeds/6203b0b4dca58a380c5bd157 燃烧的优惠日记
 https://api.feeddd.org/feeds/6204e17adca58a380c5c925f 大飞机
 https://api.feeddd.org/feeds/6204e17adca58a380c5c9267 国务院公报
 https://api.feeddd.org/feeds/62050c90dca58a380c5cae01 塑料新视界
+https://api.feeddd.org/feeds/6206ef220cf8ee380b1393fe 科技心
+https://api.feeddd.org/feeds/6206ef220cf8ee380b13940d 汤热了
+https://api.feeddd.org/feeds/6206fb00dca58a380c5e3545 CED设计团队
+https://api.feeddd.org/feeds/6207aac7dca58a380c5ea8dd 杨不过YoungBut
+https://api.feeddd.org/feeds/6207e478dca58a380c5ed31e 新现代聊斋
