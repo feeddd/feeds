@@ -13523,3 +13523,8 @@ https://api.feeddd.org/feeds/6206ef220cf8ee380b13940d/atom 汤热了
 https://api.feeddd.org/feeds/6206fb00dca58a380c5e3545/atom CED设计团队
 https://api.feeddd.org/feeds/6207aac7dca58a380c5ea8dd/atom 杨不过YoungBut
 https://api.feeddd.org/feeds/6207e478dca58a380c5ed31e/atom 新现代聊斋
+https://api.feeddd.org/feeds/62090b1adca58a380c5f8cd9/atom 陈果A股策略
+https://api.feeddd.org/feeds/62090b1adca58a380c5f8ce1/atom 分析师徐彪
+https://api.feeddd.org/feeds/62090b1bdca58a380c5f8ce9/atom 核网
+https://api.feeddd.org/feeds/62090b1bdca58a380c5f8cf1/atom MiniLED产业网
+https://api.feeddd.org/feeds/62090b1bdca58a380c5f8cf9/atom 申万宏源策略
