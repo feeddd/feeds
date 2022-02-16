@@ -13875,3 +13875,7 @@ https://api.feeddd.org/feeds/620b5f47dca58a380c614ff0/json 安联世合
 https://api.feeddd.org/feeds/620bc5cc0cf8ee380b13fa8a/json 蓝小喝
 https://api.feeddd.org/feeds/620c0914dca58a380c61d047/json 波托马克和春天
 https://api.feeddd.org/feeds/620c0914dca58a380c61d04f/json 疾风忍法帖
+https://api.feeddd.org/feeds/620c53b4dca58a380c622993/json 社会主义羊毛
+https://api.feeddd.org/feeds/620c53b4dca58a380c62299b/json 玉刚说
+https://api.feeddd.org/feeds/620c53b4dca58a380c6229a3/json 涨乐门
+https://api.feeddd.org/feeds/620c66f0dca58a380c622eaf/json 顺宋时祺
