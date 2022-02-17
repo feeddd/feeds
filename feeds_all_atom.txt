@@ -13879,3 +13879,12 @@ https://api.feeddd.org/feeds/620c53b4dca58a380c622993/atom 社会主义羊毛
 https://api.feeddd.org/feeds/620c53b4dca58a380c62299b/atom 玉刚说
 https://api.feeddd.org/feeds/620c53b4dca58a380c6229a3/atom 涨乐门
 https://api.feeddd.org/feeds/620c66f0dca58a380c622eaf/atom 顺宋时祺
+https://api.feeddd.org/feeds/620e2e41dca58a380c636d80/atom 阿撒兹勒
+https://api.feeddd.org/feeds/620e2e41dca58a380c636d88/atom 利兄日志
+https://api.feeddd.org/feeds/620e2e41dca58a380c636d90/atom 吴真说
+https://api.feeddd.org/feeds/620e5e400cf8ee380b141008/atom 低风险ETF可转债
+https://api.feeddd.org/feeds/620e5f6d0cf8ee380b141024/atom 可转债策略研究
+https://api.feeddd.org/feeds/620e5f6d0cf8ee380b14102b/atom 蒙阴发布
+https://api.feeddd.org/feeds/620e5f6d0cf8ee380b141037/atom 知知知知知
+https://api.feeddd.org/feeds/620e5f6d0cf8ee380b14103d/atom 子煊投资笔记
+https://api.feeddd.org/feeds/620e8746dca58a380c639fcf/atom 春天情书Haru
