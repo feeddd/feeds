@@ -14124,3 +14124,10 @@ https://api.feeddd.org/feeds/62115125dca58a380c658072 青春Super
 https://api.feeddd.org/feeds/62115125dca58a380c65807a 青橘音乐
 https://api.feeddd.org/feeds/62115125dca58a380c658082 青年黑科技
 https://api.feeddd.org/feeds/62115126dca58a380c65808a 全球技能达人
+https://api.feeddd.org/feeds/6211bcc6dca58a380c65b3c9 红鹤笔记
+https://api.feeddd.org/feeds/6211bcc7dca58a380c65b3d1 花甲健康
+https://api.feeddd.org/feeds/6211bcc7dca58a380c65b3d9 荐见美学
+https://api.feeddd.org/feeds/6211bcc7dca58a380c65b3e1 看电影杂志
+https://api.feeddd.org/feeds/6211e637dca58a380c65c66f 连线Insight
+https://api.feeddd.org/feeds/6211e637dca58a380c65c677 文艺批评
+https://api.feeddd.org/feeds/6211e637dca58a380c65c67f 张佳玮写字的地方
