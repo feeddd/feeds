@@ -14523,3 +14523,7 @@ https://api.feeddd.org/feeds/62168fc4dca58a380c68cfed 中外能源经济观察
 https://api.feeddd.org/feeds/62168fc5dca58a380c68cff5 走姨Zozoey
 https://api.feeddd.org/feeds/62168fc5dca58a380c68cffd 2C能者无疆EnerarXiv
 https://api.feeddd.org/feeds/62168fc5dca58a380c68d005 3E论文速递
+https://api.feeddd.org/feeds/6216e0c70cf8ee380b150f24 八度空间LIVEHOUSE
+https://api.feeddd.org/feeds/62172c87dca58a380c692107 牛客企业服务
+https://api.feeddd.org/feeds/6217bf6d0cf8ee380b1518a4 东方看化工
+https://api.feeddd.org/feeds/6217bf6d0cf8ee380b1518aa 老魏一凡
