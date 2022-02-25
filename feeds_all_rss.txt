@@ -14527,3 +14527,5 @@ https://api.feeddd.org/feeds/6216e0c70cf8ee380b150f24 八度空间LIVEHOUSE
 https://api.feeddd.org/feeds/62172c87dca58a380c692107 牛客企业服务
 https://api.feeddd.org/feeds/6217bf6d0cf8ee380b1518a4 东方看化工
 https://api.feeddd.org/feeds/6217bf6d0cf8ee380b1518aa 老魏一凡
+https://api.feeddd.org/feeds/62185062dca58a380c6a0355 M01N Team
+https://api.feeddd.org/feeds/6218bc00dca58a380c6a2c07 微信客户端技术团队
