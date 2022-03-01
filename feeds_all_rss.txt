@@ -14576,3 +14576,8 @@ https://api.feeddd.org/feeds/621cb260dca58a380c6caa02 结绳志
 https://api.feeddd.org/feeds/621cb260dca58a380c6caa0e 小雨厨房
 https://api.feeddd.org/feeds/621cb260dca58a380c6caa16 云游君
 https://api.feeddd.org/feeds/621cb260dca58a380c6caa1e 浙江大学CC98论坛
+https://api.feeddd.org/feeds/621d8539dca58a380c6d69de 牛客app
+https://api.feeddd.org/feeds/621d8c63dca58a380c6d6e9e 有数DataVision
+https://api.feeddd.org/feeds/621da14adca58a380c6d763e 王摸鱼
+https://api.feeddd.org/feeds/621e048adca58a380c6d9302 科幻世界SFW
+https://api.feeddd.org/feeds/621e0d74dca58a380c6d98dc Counterpoint Research
