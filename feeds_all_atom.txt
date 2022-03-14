@@ -16696,3 +16696,4 @@ https://api.feeddd.org/feeds/622cb7bb701766717143abd5/atom 5G通信
 https://api.feeddd.org/feeds/622ce10d701766717143bd72/atom 华泰固收强债论坛
 https://api.feeddd.org/feeds/622ce10d701766717143bd7a/atom 王涵论宏观
 https://api.feeddd.org/feeds/622de2c1701766717144c235/atom 倾林钱币
+https://api.feeddd.org/feeds/622f43bd701766717145cf90/atom 付大米先生
