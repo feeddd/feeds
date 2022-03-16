@@ -16703,3 +16703,10 @@ https://api.feeddd.org/feeds/62308f26701766717146f267/json 天眼透视
 https://api.feeddd.org/feeds/62309c0b7017667171470114/json 晓书童频道
 https://api.feeddd.org/feeds/62309c0b701766717147011c/json 一个人一本书Cl1
 https://api.feeddd.org/feeds/62309c0b7017667171470124/json 萤灯读书
+https://api.feeddd.org/feeds/62316801701766717147a1b8/json 看图姐
+https://api.feeddd.org/feeds/62316801701766717147a1c0/json 来自大马士革的钢
+https://api.feeddd.org/feeds/6231712a701766717147a6ef/json 第十二只兔
+https://api.feeddd.org/feeds/6231df5794c323716b8b13ac/json 纪念币爱好者
+https://api.feeddd.org/feeds/62321828701766717147ead5/json 林中路中鹿
+https://api.feeddd.org/feeds/62321828701766717147eadd/json 通识经典导读
+https://api.feeddd.org/feeds/62321829701766717147eae5/json 想象力与批判性思维
