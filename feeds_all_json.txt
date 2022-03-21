@@ -17795,3 +17795,13 @@ https://api.feeddd.org/feeds/6236e49c70176671714bdb02/json 5G亿通
 https://api.feeddd.org/feeds/62372fe594c323716b8bdc94/json NE电气
 https://api.feeddd.org/feeds/62373ded94c323716b8bdcf8/json 考研竞赛数学
 https://api.feeddd.org/feeds/6237543270176671714c1730/json 插画CG窝
+https://api.feeddd.org/feeds/6237a02c70176671714c38f7/json 轨道规划
+https://api.feeddd.org/feeds/6237b22670176671714c497e/json 读库
+https://api.feeddd.org/feeds/6237b22670176671714c4986/json 经观书评
+https://api.feeddd.org/feeds/6237daf894c323716b8c2e77/json 崩坏3通讯中心
+https://api.feeddd.org/feeds/623830b670176671714cbd1b/json Hozin
+https://api.feeddd.org/feeds/623830b670176671714cbd23/json 应谋鬼计
+https://api.feeddd.org/feeds/62385e3570176671714cd84b/json 仿真学习与应用
+https://api.feeddd.org/feeds/62385e3570176671714cd851/json CFD之道
+https://api.feeddd.org/feeds/6238a83b70176671714d09ae/json CG大师
+https://api.feeddd.org/feeds/6238a83b70176671714d09b6/json CG模型网
