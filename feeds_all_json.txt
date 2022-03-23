@@ -17809,3 +17809,9 @@ https://api.feeddd.org/feeds/62391e6670176671714d6413/json 大河报
 https://api.feeddd.org/feeds/62394a9670176671714d88f4/json 一周财八经卦
 https://api.feeddd.org/feeds/6239caae94c323716b8c8c31/json aardio
 https://api.feeddd.org/feeds/623a02dd70176671714ded26/json 一个小房子
+https://api.feeddd.org/feeds/623a7f5c70176671714e3ede/json 优设UISDC
+https://api.feeddd.org/feeds/623aa95070176671714e652b/json 陈晖说财税
+https://api.feeddd.org/feeds/623aaa7e70176671714e6748/json 雾满拦江
+https://api.feeddd.org/feeds/623aaa7e70176671714e6750/json 化工平头哥
+https://api.feeddd.org/feeds/623afee470176671714e983f/json 设计癖
+https://api.feeddd.org/feeds/623b03c970176671714e9a72/json 大舟学习部
