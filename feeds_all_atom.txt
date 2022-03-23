@@ -17809,3 +17809,9 @@ https://api.feeddd.org/feeds/62391e6670176671714d6413/atom 大河报
 https://api.feeddd.org/feeds/62394a9670176671714d88f4/atom 一周财八经卦
 https://api.feeddd.org/feeds/6239caae94c323716b8c8c31/atom aardio
 https://api.feeddd.org/feeds/623a02dd70176671714ded26/atom 一个小房子
+https://api.feeddd.org/feeds/623a7f5c70176671714e3ede/atom 优设UISDC
+https://api.feeddd.org/feeds/623aa95070176671714e652b/atom 陈晖说财税
+https://api.feeddd.org/feeds/623aaa7e70176671714e6748/atom 雾满拦江
+https://api.feeddd.org/feeds/623aaa7e70176671714e6750/atom 化工平头哥
+https://api.feeddd.org/feeds/623afee470176671714e983f/atom 设计癖
+https://api.feeddd.org/feeds/623b03c970176671714e9a72/atom 大舟学习部
