@@ -17815,3 +17815,7 @@ https://api.feeddd.org/feeds/623aaa7e70176671714e6748/atom 雾满拦江
 https://api.feeddd.org/feeds/623aaa7e70176671714e6750/atom 化工平头哥
 https://api.feeddd.org/feeds/623afee470176671714e983f/atom 设计癖
 https://api.feeddd.org/feeds/623b03c970176671714e9a72/atom 大舟学习部
+https://api.feeddd.org/feeds/623baea594c323716b8cec42/atom 林孤小姐
+https://api.feeddd.org/feeds/623bafd194c323716b8cec5e/atom DoubleRay
+https://api.feeddd.org/feeds/623c5d7c70176671714fc831/atom 熊老板联播文字版分享
+https://api.feeddd.org/feeds/623c9db694c323716b8cf37b/atom 每日时评
