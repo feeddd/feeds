@@ -18785,3 +18785,12 @@ https://api.feeddd.org/feeds/62469d5910973307520e2bfc/json 5G随身WiFi推荐办
 https://api.feeddd.org/feeds/6246ad817b3bcc075198d706/json 考研政治徐涛每日一题
 https://api.feeddd.org/feeds/6246ad817b3bcc075198d70e/json 朱伟恋练有词
 https://api.feeddd.org/feeds/6246fc0510973307520e6c0e/json 考研糖
+https://api.feeddd.org/feeds/62481d2b10973307520f6555/json BOOX专注阅读
+https://api.feeddd.org/feeds/6248492410973307520f7bce/json 老杜在印尼
+https://api.feeddd.org/feeds/6248492410973307520f7bd6/json 冷眼局中人
+https://api.feeddd.org/feeds/6248492410973307520f7bde/json 橡树资本Oaktree Capital
+https://api.feeddd.org/feeds/6248492410973307520f7be6/json 新消费Daily
+https://api.feeddd.org/feeds/6248492410973307520f7bee/json 游戏陀螺
+https://api.feeddd.org/feeds/6248492410973307520f7bf6/json 游戏新知
+https://api.feeddd.org/feeds/6248730310973307520f8efb/json CG加油站
+https://api.feeddd.org/feeds/6248730310973307520f8f03/json Krenz绘画教室
