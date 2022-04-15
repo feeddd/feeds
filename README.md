@@ -31,6 +31,8 @@
 
 任何方式的贡献都对项目大有裨益。
 
+> 项目运作离不开大家的支持，如果项目对你有所帮助，欢迎[打赏](https://hamibot.com/marketplace/vLSBc)，帮助项目继续运作下去。
+
 1. 提交订阅更新，详细参见 [如何参与](https://feeddd.org/how-to-contribute)
 2. 分享给更多人
 3. 报告遇到的错误，[反馈问题](https://hamibot.com/dashboard/issues/create?slug=vLSBc&subject=反馈问题)
