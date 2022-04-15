@@ -20125,3 +20125,5 @@ https://api.feeddd.org/feeds/62580d0aa4ca6e10e367c985/json 维客笔记
 https://api.feeddd.org/feeds/62580d0aa4ca6e10e367c98d/json 朽木新枝
 https://api.feeddd.org/feeds/62584524a4ca6e10e367da29/json 万能搜吧
 https://api.feeddd.org/feeds/625849ffa4ca6e10e367dcc0/json 清晖随笔
+https://api.feeddd.org/feeds/6258d780a4ca6e10e3688d82/json 深圳市工业互联网行业协会
+https://api.feeddd.org/feeds/62596724a4ca6e10e3690f7d/json 衣型
