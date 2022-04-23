@@ -20935,3 +20935,15 @@ https://api.feeddd.org/feeds/62629c61a4ca6e10e370f0f0/atom 职前第一站
 https://api.feeddd.org/feeds/62629c61a4ca6e10e370f0f8/atom 周恩俊
 https://api.feeddd.org/feeds/62629c61a4ca6e10e370f100/atom 做课
 https://api.feeddd.org/feeds/62629c61a4ca6e10e370f108/atom 祖小来
+https://api.feeddd.org/feeds/62635ff4a4ca6e10e3718f26/atom 统筹姬
+https://api.feeddd.org/feeds/62639890a4ca6e10e372378a/atom 任易叨叨
+https://api.feeddd.org/feeds/6263cbf5a4ca6e10e3724f6e/atom 成都短期工
+https://api.feeddd.org/feeds/6263d4e9a4ca6e10e3725169/atom 叨科学
+https://api.feeddd.org/feeds/6263d4e9a4ca6e10e3725171/atom 海上世界文化艺术中心
+https://api.feeddd.org/feeds/6263d4e9a4ca6e10e3725179/atom 南山博物馆
+https://api.feeddd.org/feeds/6263f155a4ca6e10e3725892/atom 哈喽怪谈
+https://api.feeddd.org/feeds/6263f155a4ca6e10e372589a/atom 黑水公园
+https://api.feeddd.org/feeds/6263f155a4ca6e10e37258a2/atom 巨浪视线
+https://api.feeddd.org/feeds/6263f155a4ca6e10e37258aa/atom 老鸭选房
+https://api.feeddd.org/feeds/6263f155a4ca6e10e37258b4/atom 史里芬
+https://api.feeddd.org/feeds/62642212a4ca6e10e3726943/atom LOTM
