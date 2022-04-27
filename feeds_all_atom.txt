@@ -21238,3 +21238,5 @@ https://api.feeddd.org/feeds/6267bd8ca4ca6e10e3763b1d/atom 情绪猿
 https://api.feeddd.org/feeds/6267bd8ca4ca6e10e3763b25/atom 易观分析服务号
 https://api.feeddd.org/feeds/6267bd8ca4ca6e10e3763b2d/atom 猿某某
 https://api.feeddd.org/feeds/6267dd2ba4ca6e10e37643b3/atom 利宝保险
+https://api.feeddd.org/feeds/6268a148d2743d10dddfe81d/atom 阿柴居家团
+https://api.feeddd.org/feeds/6268dabca4ca6e10e3777747/atom 潇湘晨报
