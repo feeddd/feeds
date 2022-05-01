@@ -21337,3 +21337,10 @@ https://api.feeddd.org/feeds/626cfeaea4ca6e10e37b3ec5 SEA早知道
 https://api.feeddd.org/feeds/626cfeaea4ca6e10e37b3ecd 西雅图IT圈
 https://api.feeddd.org/feeds/626cfeaea4ca6e10e37b3ed5 西雅图消费指南
 https://api.feeddd.org/feeds/626d2525a4ca6e10e37b4a0a ShareStuff
+https://api.feeddd.org/feeds/626df9a7a4ca6e10e37bf38a 老黄的前端私房菜
+https://api.feeddd.org/feeds/626df9a7a4ca6e10e37bf392 普象工业设计小站
+https://api.feeddd.org/feeds/626df9a7a4ca6e10e37bf39a 张宏杰讲历史
+https://api.feeddd.org/feeds/626e223da4ca6e10e37c4c7c 孤独思想家河小西
+https://api.feeddd.org/feeds/626ea8efa4ca6e10e37cccd5 AMiner科技
+https://api.feeddd.org/feeds/626ea8efa4ca6e10e37cccdf 想壹出是壹出
+https://api.feeddd.org/feeds/626ea8efa4ca6e10e37ccce7 学术头条
