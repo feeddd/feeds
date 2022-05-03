@@ -21366,3 +21366,7 @@ https://api.feeddd.org/feeds/626fd128a4ca6e10e37dcde3/atom 深度之眼
 https://api.feeddd.org/feeds/626fd128a4ca6e10e37dcdec/atom 深度之眼资料库
 https://api.feeddd.org/feeds/626fd128a4ca6e10e37dcdfe/atom VALSE
 https://api.feeddd.org/feeds/626fd128a4ca6e10e37dce1d/atom 中国图象图形学报
+https://api.feeddd.org/feeds/6270d564a4ca6e10e37f06bf/atom 北大国发院
+https://api.feeddd.org/feeds/6270d564a4ca6e10e37f06c7/atom 高校国贸学科协作组国际商务论坛
+https://api.feeddd.org/feeds/6270d564a4ca6e10e37f06cf/atom 张军说
+https://api.feeddd.org/feeds/6270ede6d2743d10dde167ac/atom 深度学习技术前沿
