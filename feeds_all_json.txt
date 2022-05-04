@@ -21370,3 +21370,10 @@ https://api.feeddd.org/feeds/6270d564a4ca6e10e37f06bf/json 北大国发院
 https://api.feeddd.org/feeds/6270d564a4ca6e10e37f06c7/json 高校国贸学科协作组国际商务论坛
 https://api.feeddd.org/feeds/6270d564a4ca6e10e37f06cf/json 张军说
 https://api.feeddd.org/feeds/6270ede6d2743d10dde167ac/json 深度学习技术前沿
+https://api.feeddd.org/feeds/6271d4f0a4ca6e10e37f7905/json K线之外
+https://api.feeddd.org/feeds/6271d4f0a4ca6e10e37f790d/json 刘备我祖
+https://api.feeddd.org/feeds/6271d4f0a4ca6e10e37f7915/json 盛京剑客
+https://api.feeddd.org/feeds/6271d4f0a4ca6e10e37f791d/json 乌龙山剿韭记
+https://api.feeddd.org/feeds/6271fa0ea4ca6e10e37f8ef0/json 方遒聊史
+https://api.feeddd.org/feeds/6271fa0ea4ca6e10e37f8ef8/json 金二
+https://api.feeddd.org/feeds/62720e64a4ca6e10e37fa3a4/json EInk电子纸
