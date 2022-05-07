@@ -21451,3 +21451,13 @@ https://api.feeddd.org/feeds/627544d7a4ca6e10e3830595/atom 行业研究报告
 https://api.feeddd.org/feeds/62754ac0a4ca6e10e3830880/atom 青枫博研社
 https://api.feeddd.org/feeds/62754ac0a4ca6e10e383088a/atom 上海财经大学图书馆
 https://api.feeddd.org/feeds/62754afea4ca6e10e38308b1/atom 勇叔六世
+https://api.feeddd.org/feeds/6275d14da4ca6e10e383930c/atom 远大住工集团
+https://api.feeddd.org/feeds/6275d2e1a4ca6e10e38393e5/atom 勇者回归
+https://api.feeddd.org/feeds/6275de7fa4ca6e10e3839a5f/atom 地铁规划建设观察
+https://api.feeddd.org/feeds/62760b3aa4ca6e10e383bdf1/atom 南开大学经济学院国际经济贸易系
+https://api.feeddd.org/feeds/62760b3aa4ca6e10e383bdf9/atom 中国欧盟商会European Chamber
+https://api.feeddd.org/feeds/627633e8a4ca6e10e3843ea7/atom 宣城播报
+https://api.feeddd.org/feeds/62765a54a4ca6e10e3846052/atom 魔术师卡颂
+https://api.feeddd.org/feeds/627664cea4ca6e10e38467e1/atom Steam社区
+https://api.feeddd.org/feeds/627678a5a4ca6e10e38471ff/atom 城市进化论
+https://api.feeddd.org/feeds/627678a6a4ca6e10e3847209/atom 万能的冲叔
