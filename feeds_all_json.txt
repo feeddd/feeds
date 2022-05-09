@@ -21496,3 +21496,14 @@ https://api.feeddd.org/feeds/6277e4a7a4ca6e10e3858b68/json Word技巧达人
 https://api.feeddd.org/feeds/6277e4a7a4ca6e10e3858b70/json 影视小熊
 https://api.feeddd.org/feeds/6277e4a7a4ca6e10e3858b78/json 这是Morty
 https://api.feeddd.org/feeds/6277e4a7a4ca6e10e3858b80/json 中国电信视频彩铃
+https://api.feeddd.org/feeds/62789902a4ca6e10e385c823/json 多伦多吃喝玩乐TorontoDiary
+https://api.feeddd.org/feeds/62789902a4ca6e10e385c82b/json hooli芝加哥
+https://api.feeddd.org/feeds/62789902a4ca6e10e385c833/json inChicago
+https://api.feeddd.org/feeds/62789902a4ca6e10e385c83b/json 芝城第一时间
+https://api.feeddd.org/feeds/62789902a4ca6e10e385c843/json 芝加哥侨学网
+https://api.feeddd.org/feeds/6278a6dda4ca6e10e385d069/json 知云问题回答专号
+https://api.feeddd.org/feeds/627902a6a4ca6e10e386870d/json 思维盒子MinderBox
+https://api.feeddd.org/feeds/6279050ca4ca6e10e3868819/json 小绿鲸文献阅读
+https://api.feeddd.org/feeds/6279050ca4ca6e10e3868821/json 杏仁表白墙
+https://api.feeddd.org/feeds/6279301ba4ca6e10e386a139/json K哥爬虫
+https://api.feeddd.org/feeds/6279301ba4ca6e10e386a141/json 前端技术砖家
