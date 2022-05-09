@@ -21496,3 +21496,14 @@ https://api.feeddd.org/feeds/6277e4a7a4ca6e10e3858b68/atom Word技巧达人
 https://api.feeddd.org/feeds/6277e4a7a4ca6e10e3858b70/atom 影视小熊
 https://api.feeddd.org/feeds/6277e4a7a4ca6e10e3858b78/atom 这是Morty
 https://api.feeddd.org/feeds/6277e4a7a4ca6e10e3858b80/atom 中国电信视频彩铃
+https://api.feeddd.org/feeds/62789902a4ca6e10e385c823/atom 多伦多吃喝玩乐TorontoDiary
+https://api.feeddd.org/feeds/62789902a4ca6e10e385c82b/atom hooli芝加哥
+https://api.feeddd.org/feeds/62789902a4ca6e10e385c833/atom inChicago
+https://api.feeddd.org/feeds/62789902a4ca6e10e385c83b/atom 芝城第一时间
+https://api.feeddd.org/feeds/62789902a4ca6e10e385c843/atom 芝加哥侨学网
+https://api.feeddd.org/feeds/6278a6dda4ca6e10e385d069/atom 知云问题回答专号
+https://api.feeddd.org/feeds/627902a6a4ca6e10e386870d/atom 思维盒子MinderBox
+https://api.feeddd.org/feeds/6279050ca4ca6e10e3868819/atom 小绿鲸文献阅读
+https://api.feeddd.org/feeds/6279050ca4ca6e10e3868821/atom 杏仁表白墙
+https://api.feeddd.org/feeds/6279301ba4ca6e10e386a139/atom K哥爬虫
+https://api.feeddd.org/feeds/6279301ba4ca6e10e386a141/atom 前端技术砖家
