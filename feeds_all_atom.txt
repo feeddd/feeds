@@ -21693,3 +21693,14 @@ https://api.feeddd.org/feeds/627a04c7a4ca6e10e386ffb8/atom 智校园平台
 https://api.feeddd.org/feeds/627a04c7a4ca6e10e386ffc0/atom 中学地理课
 https://api.feeddd.org/feeds/627a4b91d2743d10dde3c4f9/atom 汐颜微谈
 https://api.feeddd.org/feeds/627a539aa4ca6e10e387a43d/atom 哈特瑞姆心脏之声
+https://api.feeddd.org/feeds/627afccaa4ca6e10e3883a49/atom 建筑时报
+https://api.feeddd.org/feeds/627afccaa4ca6e10e3883a51/atom WPR
+https://api.feeddd.org/feeds/627b3178a4ca6e10e3885634/atom Datayes投研
+https://api.feeddd.org/feeds/627b3178a4ca6e10e388563c/atom 未来智库
+https://api.feeddd.org/feeds/627b3178a4ca6e10e3885644/atom 招商食品饮料
+https://api.feeddd.org/feeds/627b48f6a4ca6e10e38863a6/atom Python视界
+https://api.feeddd.org/feeds/627b48f6a4ca6e10e38863ae/atom 啥都会一点的研究生
+https://api.feeddd.org/feeds/627b511ba4ca6e10e388696c/atom 默安玄甲实验室
+https://api.feeddd.org/feeds/627b511ba4ca6e10e3886974/atom 云影实验室
+https://api.feeddd.org/feeds/627b589ba4ca6e10e388710a/atom xinklings
+https://api.feeddd.org/feeds/627bc13aa4ca6e10e3892833/atom ETF进化论
