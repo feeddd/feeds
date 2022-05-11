@@ -21693,3 +21693,14 @@ https://api.feeddd.org/feeds/627a04c7a4ca6e10e386ffb8 智校园平台
 https://api.feeddd.org/feeds/627a04c7a4ca6e10e386ffc0 中学地理课
 https://api.feeddd.org/feeds/627a4b91d2743d10dde3c4f9 汐颜微谈
 https://api.feeddd.org/feeds/627a539aa4ca6e10e387a43d 哈特瑞姆心脏之声
+https://api.feeddd.org/feeds/627afccaa4ca6e10e3883a49 建筑时报
+https://api.feeddd.org/feeds/627afccaa4ca6e10e3883a51 WPR
+https://api.feeddd.org/feeds/627b3178a4ca6e10e3885634 Datayes投研
+https://api.feeddd.org/feeds/627b3178a4ca6e10e388563c 未来智库
+https://api.feeddd.org/feeds/627b3178a4ca6e10e3885644 招商食品饮料
+https://api.feeddd.org/feeds/627b48f6a4ca6e10e38863a6 Python视界
+https://api.feeddd.org/feeds/627b48f6a4ca6e10e38863ae 啥都会一点的研究生
+https://api.feeddd.org/feeds/627b511ba4ca6e10e388696c 默安玄甲实验室
+https://api.feeddd.org/feeds/627b511ba4ca6e10e3886974 云影实验室
+https://api.feeddd.org/feeds/627b589ba4ca6e10e388710a xinklings
+https://api.feeddd.org/feeds/627bc13aa4ca6e10e3892833 ETF进化论
