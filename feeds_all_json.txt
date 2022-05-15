@@ -22173,3 +22173,14 @@ https://api.feeddd.org/feeds/627f4302a4ca6e10e38c13ba/json 先生制造
 https://api.feeddd.org/feeds/627f4302a4ca6e10e38c13c2/json 智慧青大
 https://api.feeddd.org/feeds/627fa0e0a4ca6e10e38cbbc4/json eScience期刊
 https://api.feeddd.org/feeds/627fa0e0a4ca6e10e38cbbcc/json 邃瞳科学云
+https://api.feeddd.org/feeds/628034c9a4ca6e10e38cedb5/json 东哥解读电商
+https://api.feeddd.org/feeds/628034c9a4ca6e10e38cedbd/json 六里投资报
+https://api.feeddd.org/feeds/628034c9a4ca6e10e38cedc5/json 晚点AUTO
+https://api.feeddd.org/feeds/628034c9a4ca6e10e38cedcd/json 尧望后势
+https://api.feeddd.org/feeds/628086aba4ca6e10e38d1432/json WE进步
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbcf1/json MorningRocks
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbcf9/json 木遥
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbd01/json 庆山
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbd09/json 思维改变生活
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbd11/json 史秀雄Steve
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbd19/json 赵丹赵丹喵
