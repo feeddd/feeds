@@ -22173,3 +22173,14 @@ https://api.feeddd.org/feeds/627f4302a4ca6e10e38c13ba/atom 先生制造
 https://api.feeddd.org/feeds/627f4302a4ca6e10e38c13c2/atom 智慧青大
 https://api.feeddd.org/feeds/627fa0e0a4ca6e10e38cbbc4/atom eScience期刊
 https://api.feeddd.org/feeds/627fa0e0a4ca6e10e38cbbcc/atom 邃瞳科学云
+https://api.feeddd.org/feeds/628034c9a4ca6e10e38cedb5/atom 东哥解读电商
+https://api.feeddd.org/feeds/628034c9a4ca6e10e38cedbd/atom 六里投资报
+https://api.feeddd.org/feeds/628034c9a4ca6e10e38cedc5/atom 晚点AUTO
+https://api.feeddd.org/feeds/628034c9a4ca6e10e38cedcd/atom 尧望后势
+https://api.feeddd.org/feeds/628086aba4ca6e10e38d1432/atom WE进步
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbcf1/atom MorningRocks
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbcf9/atom 木遥
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbd01/atom 庆山
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbd09/atom 思维改变生活
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbd11/atom 史秀雄Steve
+https://api.feeddd.org/feeds/6280e9bca4ca6e10e38dbd19/atom 赵丹赵丹喵
