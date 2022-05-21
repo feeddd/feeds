@@ -22523,3 +22523,39 @@ https://api.feeddd.org/feeds/6287d2d4a4ca6e10e39470af 天津理工大学图书�
 https://api.feeddd.org/feeds/6287d2d4a4ca6e10e39470b7 天理就业
 https://api.feeddd.org/feeds/6287d2d4a4ca6e10e39470bf 万方学信
 https://api.feeddd.org/feeds/6287d2d4a4ca6e10e39470c7 羊驼舍
+https://api.feeddd.org/feeds/6288bfb6a4ca6e10e394f2a7 BIM改变未来
+https://api.feeddd.org/feeds/6288bfb6a4ca6e10e394f2af BIM建筑网
+https://api.feeddd.org/feeds/6288bfb6a4ca6e10e394f2b7 BIM联盟
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f2bf BIM应用与智慧建造
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f2c7 BIM与装配式装修资讯第1号
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f2cf 城市建筑
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f2d7 房地产导刊
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f2df 工程建设标准化
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f2e7 工程智库
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f2ef 广东建设发布
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f2f9 广东省城市建筑学会
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f301 广东省建筑安全协会
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f309 广联达智慧工地平台
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f311 河北省装配式建筑
+https://api.feeddd.org/feeds/6288bfb7a4ca6e10e394f319 建工智囊汇
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f321 江西建材杂志社
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f329 建造工信息平台
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f331 建筑工程信息公布平台
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f339 建筑工程信息互通平台
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f341 建筑工业化装配式建筑网
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f349 绿色装配式建筑网
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f351 Oracle 建筑与工程
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f359 品茗智慧工地
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f361 铯镨平台
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f369 腾讯云智慧地产
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f371 土木吧
+https://api.feeddd.org/feeds/6288bfb8a4ca6e10e394f379 土木智库
+https://api.feeddd.org/feeds/6288bfb9a4ca6e10e394f381 新鲁班
+https://api.feeddd.org/feeds/6288bfb9a4ca6e10e394f389 智慧工地智慧建造
+https://api.feeddd.org/feeds/6288bfb9a4ca6e10e394f391 中华建设杂志社
+https://api.feeddd.org/feeds/6288bfb9a4ca6e10e394f399 中装协绿色智慧建造分会
+https://api.feeddd.org/feeds/6288bfb9a4ca6e10e394f3a1 装配式建筑网
+https://api.feeddd.org/feeds/6288bfb9a4ca6e10e394f3a9 装配式建筑信息平台
+https://api.feeddd.org/feeds/6288bfb9a4ca6e10e394f3b1 装配式装修
+https://api.feeddd.org/feeds/6288bfb9a4ca6e10e394f3b9 住房城乡建设部科技与产业化中心
+https://api.feeddd.org/feeds/6288bfb9a4ca6e10e394f3c1 筑龙BIM
