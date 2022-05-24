@@ -22649,3 +22649,12 @@ https://api.feeddd.org/feeds/6289a959a4ca6e10e3961a48/json 资金流龙哥实战
 https://api.feeddd.org/feeds/6289a959a4ca6e10e3961a50/json 93奶爸
 https://api.feeddd.org/feeds/628a0566a4ca6e10e3965b39/json 写代码的海怪
 https://api.feeddd.org/feeds/628a575ca4ca6e10e396fafc/json 赛博攻防悟道
+https://api.feeddd.org/feeds/628c2faca4ca6e10e398a80d/json 提升之路
+https://api.feeddd.org/feeds/628c2faca4ca6e10e398a815/json 杜可君的理性投资
+https://api.feeddd.org/feeds/628c2faca4ca6e10e398a81d/json 咸蛋说
+https://api.feeddd.org/feeds/628c3816a4ca6e10e398addb/json 商务微新闻
+https://api.feeddd.org/feeds/628cf6b9a4ca6e10e39986b1/json 楚门边境
+https://api.feeddd.org/feeds/628cf6b9a4ca6e10e39986b9/json 楚门不是门
+https://api.feeddd.org/feeds/628d1294d2743d10dde87159/json 八点软件
+https://api.feeddd.org/feeds/628d13c1a4ca6e10e399a74b/json 扩列叭
+https://api.feeddd.org/feeds/628d14eca4ca6e10e399a7a4/json 些谐写榭
