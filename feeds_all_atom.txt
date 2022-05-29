@@ -22808,3 +22808,13 @@ https://api.feeddd.org/feeds/629242d8a4ca6e10e39ed5ed/atom SpringForAll
 https://api.feeddd.org/feeds/629242d8a4ca6e10e39ed5f5/atom 小鱼量化
 https://api.feeddd.org/feeds/629242d9a4ca6e10e39ed5fd/atom 余杭规划和自然资源
 https://api.feeddd.org/feeds/629242d9a4ca6e10e39ed607/atom 余杭住建
+https://api.feeddd.org/feeds/6292b7faa4ca6e10e39f0b06/atom 爱迪fans
+https://api.feeddd.org/feeds/6292f129a4ca6e10e39f2226/atom 中华环保联合会VOCs防治专委会
+https://api.feeddd.org/feeds/62935a70a4ca6e10e39f61c9/atom 百晓生道破盘界
+https://api.feeddd.org/feeds/62935a70a4ca6e10e39f61d1/atom 公考常识自习室
+https://api.feeddd.org/feeds/62935a71a4ca6e10e39f61d9/atom 火行
+https://api.feeddd.org/feeds/62935a71a4ca6e10e39f61e1/atom 三晋教师考试
+https://api.feeddd.org/feeds/62935a71a4ca6e10e39f61e9/atom 拾柴院
+https://api.feeddd.org/feeds/62935a71a4ca6e10e39f61f1/atom 帅帅的Python
+https://api.feeddd.org/feeds/62935a71a4ca6e10e39f61f9/atom 萜心话
+https://api.feeddd.org/feeds/62938118a4ca6e10e39fbe6e/atom 动物世界
