@@ -22818,3 +22818,8 @@ https://api.feeddd.org/feeds/62935a71a4ca6e10e39f61e9/atom 拾柴院
 https://api.feeddd.org/feeds/62935a71a4ca6e10e39f61f1/atom 帅帅的Python
 https://api.feeddd.org/feeds/62935a71a4ca6e10e39f61f9/atom 萜心话
 https://api.feeddd.org/feeds/62938118a4ca6e10e39fbe6e/atom 动物世界
+https://api.feeddd.org/feeds/62945086a4ca6e10e3a03d55/atom 丁香叶
+https://api.feeddd.org/feeds/629451b2a4ca6e10e3a03e30/atom 药用植物图鉴
+https://api.feeddd.org/feeds/629451b2a4ca6e10e3a03e3d/atom 小晖有感
+https://api.feeddd.org/feeds/62946ac9a4ca6e10e3a049ac/atom SeenVision见所未见
+https://api.feeddd.org/feeds/6294eda2a4ca6e10e3a101de/atom nanomicroletters
