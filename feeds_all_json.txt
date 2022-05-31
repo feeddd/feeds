@@ -22823,3 +22823,26 @@ https://api.feeddd.org/feeds/629451b2a4ca6e10e3a03e30/json 药用植物图鉴
 https://api.feeddd.org/feeds/629451b2a4ca6e10e3a03e3d/json 小晖有感
 https://api.feeddd.org/feeds/62946ac9a4ca6e10e3a049ac/json SeenVision见所未见
 https://api.feeddd.org/feeds/6294eda2a4ca6e10e3a101de/json nanomicroletters
+https://api.feeddd.org/feeds/62955828a4ca6e10e3a19846/json 富贵门
+https://api.feeddd.org/feeds/62957af7a4ca6e10e3a1ad42/json 本硕博工程师俱乐部
+https://api.feeddd.org/feeds/62957af7a4ca6e10e3a1ad4a/json 插件扩展
+https://api.feeddd.org/feeds/62957af7a4ca6e10e3a1ad52/json 从医行
+https://api.feeddd.org/feeds/62957af7a4ca6e10e3a1ad5a/json Dictionaryphile
+https://api.feeddd.org/feeds/62957af7a4ca6e10e3a1ad62/json 丁香科研
+https://api.feeddd.org/feeds/62957af7a4ca6e10e3a1ad6a/json 丁香妈妈学园
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1ad72/json 丁香人才
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1ad7a/json 丁香医考
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1ad82/json 丁香医学生
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1ad8a/json 丁香诊所
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1ad92/json 果壳里的星辰
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1ad9a/json 人民网教育频道
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1ada2/json R语言ggplot2科研绘图
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1adaa/json 首都医科大学学生处
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1adb2/json 首医的小精卫们
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1adba/json Word教程自学平台
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1adc2/json 小白盘
+https://api.feeddd.org/feeds/62957af8a4ca6e10e3a1adca/json 医学和生信笔记
+https://api.feeddd.org/feeds/62957af9a4ca6e10e3a1add2/json 越考保研
+https://api.feeddd.org/feeds/62957af9a4ca6e10e3a1adda/json 2020级五年制临床六班
+https://api.feeddd.org/feeds/62957f81a4ca6e10e3a1b0e0/json 仕道
+https://api.feeddd.org/feeds/6295a634a4ca6e10e3a1c52c/json Commodity Trading Advisors
