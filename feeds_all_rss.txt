@@ -23028,3 +23028,5 @@ https://api.feeddd.org/feeds/6298387fa4ca6e10e3a41193 学术拓荒者
 https://api.feeddd.org/feeds/62983880a4ca6e10e3a411a1 远程教育云平台
 https://api.feeddd.org/feeds/62983880a4ca6e10e3a411a9 智能观
 https://api.feeddd.org/feeds/62983880a4ca6e10e3a411b1 中国知识产权远程教育
+https://api.feeddd.org/feeds/6299f7f6a4ca6e10e3a560b5 江江安卓
+https://api.feeddd.org/feeds/6299f7f6a4ca6e10e3a560bd 朱涛的自习室
