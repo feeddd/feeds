@@ -23030,3 +23030,6 @@ https://api.feeddd.org/feeds/62983880a4ca6e10e3a411a9/json 智能观
 https://api.feeddd.org/feeds/62983880a4ca6e10e3a411b1/json 中国知识产权远程教育
 https://api.feeddd.org/feeds/6299f7f6a4ca6e10e3a560b5/json 江江安卓
 https://api.feeddd.org/feeds/6299f7f6a4ca6e10e3a560bd/json 朱涛的自习室
+https://api.feeddd.org/feeds/629aaed9a4ca6e10e3a631dd/json 茅20俱乐部
+https://api.feeddd.org/feeds/629aaed9a4ca6e10e3a631e5/json 涨停板挖掘机
+https://api.feeddd.org/feeds/629aafc2a4ca6e10e3a63295/json 盘面逻辑汇
