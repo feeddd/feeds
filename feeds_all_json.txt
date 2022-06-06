@@ -23116,3 +23116,4 @@ https://api.feeddd.org/feeds/629bf7eba4ca6e10e3a7a281/json 做梦想开学
 https://api.feeddd.org/feeds/629bf7eba4ca6e10e3a7a289/json 佐伊ZY 23
 https://api.feeddd.org/feeds/629bf7eba4ca6e10e3a7a291/json 1000个TED学习计划
 https://api.feeddd.org/feeds/629bf7eba4ca6e10e3a7a299/json 1900影剧室
+https://api.feeddd.org/feeds/629e26e3d2743d10ddeca2b7/json SocialBeta
