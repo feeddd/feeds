@@ -23117,3 +23117,5 @@ https://api.feeddd.org/feeds/629bf7eba4ca6e10e3a7a289/atom 佐伊ZY 23
 https://api.feeddd.org/feeds/629bf7eba4ca6e10e3a7a291/atom 1000个TED学习计划
 https://api.feeddd.org/feeds/629bf7eba4ca6e10e3a7a299/atom 1900影剧室
 https://api.feeddd.org/feeds/629e26e3d2743d10ddeca2b7/atom SocialBeta
+https://api.feeddd.org/feeds/629ee9a3a4ca6e10e3aac8e5/atom 云科攻防实验室
+https://api.feeddd.org/feeds/629f5a28a4ca6e10e3ab07bf/atom 众智维安
