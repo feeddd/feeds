@@ -23117,3 +23117,5 @@ https://api.feeddd.org/feeds/629bf7eba4ca6e10e3a7a289/json 佐伊ZY 23
 https://api.feeddd.org/feeds/629bf7eba4ca6e10e3a7a291/json 1000个TED学习计划
 https://api.feeddd.org/feeds/629bf7eba4ca6e10e3a7a299/json 1900影剧室
 https://api.feeddd.org/feeds/629e26e3d2743d10ddeca2b7/json SocialBeta
+https://api.feeddd.org/feeds/629ee9a3a4ca6e10e3aac8e5/json 云科攻防实验室
+https://api.feeddd.org/feeds/629f5a28a4ca6e10e3ab07bf/json 众智维安
