@@ -23184,3 +23184,6 @@ https://api.feeddd.org/feeds/62a0b4b9a4ca6e10e3ac2335/json Founder Park
 https://api.feeddd.org/feeds/62a0b4b9a4ca6e10e3ac233d/json 邱处机
 https://api.feeddd.org/feeds/62a0b4b9a4ca6e10e3ac2345/json 张小珺
 https://api.feeddd.org/feeds/62a0b4b9a4ca6e10e3ac234d/json 资识
+https://api.feeddd.org/feeds/62a14d4ea4ca6e10e3ad4509/json 江苏省国画院
+https://api.feeddd.org/feeds/62a17057a4ca6e10e3ad5a97/json 任博宏观论道
+https://api.feeddd.org/feeds/62a20fafa4ca6e10e3adbbfa/json 山中木白
