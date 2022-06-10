@@ -23187,3 +23187,7 @@ https://api.feeddd.org/feeds/62a0b4b9a4ca6e10e3ac234d/atom 资识
 https://api.feeddd.org/feeds/62a14d4ea4ca6e10e3ad4509/atom 江苏省国画院
 https://api.feeddd.org/feeds/62a17057a4ca6e10e3ad5a97/atom 任博宏观论道
 https://api.feeddd.org/feeds/62a20fafa4ca6e10e3adbbfa/atom 山中木白
+https://api.feeddd.org/feeds/62a31dd7a4ca6e10e3aea721/atom 吃很重要
+https://api.feeddd.org/feeds/62a31dd7a4ca6e10e3aea729/atom 丁香妈咪
+https://api.feeddd.org/feeds/62a31dd7a4ca6e10e3aea731/atom 健身先健脑
+https://api.feeddd.org/feeds/62a31dd7a4ca6e10e3aea739/atom 太医来了
