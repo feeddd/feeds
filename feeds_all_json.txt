@@ -23284,3 +23284,9 @@ https://api.feeddd.org/feeds/62a7df3ea4ca6e10e3b32e70/json 月伴飞鱼
 https://api.feeddd.org/feeds/62a7df3ea4ca6e10e3b32e78/json 值得买App
 https://api.feeddd.org/feeds/62a7df3ea4ca6e10e3b32e80/json 智立成教育
 https://api.feeddd.org/feeds/62a7f487a4ca6e10e3b3473b/json 陈达飞全球宏观策略
+https://api.feeddd.org/feeds/62a99c0da4ca6e10e3b4dd9e/json 宏观分析笔记
+https://api.feeddd.org/feeds/62aa3bd9a4ca6e10e3b55b45/json CPP开发前沿
+https://api.feeddd.org/feeds/62aa3bdaa4ca6e10e3b55b4d/json 逛逛GitHub
+https://api.feeddd.org/feeds/62aa3bdaa4ca6e10e3b55b55/json 开源指北
+https://api.feeddd.org/feeds/62aa3bdaa4ca6e10e3b55b5d/json Neugeist
+https://api.feeddd.org/feeds/62aa3bdaa4ca6e10e3b55b65/json 牛study
