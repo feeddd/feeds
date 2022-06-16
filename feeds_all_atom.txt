@@ -23290,3 +23290,5 @@ https://api.feeddd.org/feeds/62aa3bdaa4ca6e10e3b55b4d/atom 逛逛GitHub
 https://api.feeddd.org/feeds/62aa3bdaa4ca6e10e3b55b55/atom 开源指北
 https://api.feeddd.org/feeds/62aa3bdaa4ca6e10e3b55b5d/atom Neugeist
 https://api.feeddd.org/feeds/62aa3bdaa4ca6e10e3b55b65/atom 牛study
+https://api.feeddd.org/feeds/62aaba08d2743d10ddefd8ce/atom 流浪的橡树
+https://api.feeddd.org/feeds/62ab4947a4ca6e10e3b68bca/atom 万能君的软件库
