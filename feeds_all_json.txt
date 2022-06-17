@@ -23292,3 +23292,5 @@ https://api.feeddd.org/feeds/62aa3bdaa4ca6e10e3b55b5d/json Neugeist
 https://api.feeddd.org/feeds/62aa3bdaa4ca6e10e3b55b65/json 牛study
 https://api.feeddd.org/feeds/62aaba08d2743d10ddefd8ce/json 流浪的橡树
 https://api.feeddd.org/feeds/62ab4947a4ca6e10e3b68bca/json 万能君的软件库
+https://api.feeddd.org/feeds/62ac065ea4ca6e10e3b7bc0e/json 火神服务
+https://api.feeddd.org/feeds/62ac7f10a4ca6e10e3b7f24d/json 外刊每日精读
