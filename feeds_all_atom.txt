@@ -23304,3 +23304,5 @@ https://api.feeddd.org/feeds/62ad2ad3a4ca6e10e3b8aded/atom 群英传
 https://api.feeddd.org/feeds/62adae32a4ca6e10e3b90693/atom 河南省网防安全服务中心
 https://api.feeddd.org/feeds/62add2c8a4ca6e10e3b91907/atom E药经理人
 https://api.feeddd.org/feeds/62add2c8a4ca6e10e3b9190f/atom 蒲公英Ouryao
+https://api.feeddd.org/feeds/62ae857aa4ca6e10e3ba32ac/atom 青春全烩
+https://api.feeddd.org/feeds/62ae87d1d2743d10ddf07ef3/atom 华师生环
