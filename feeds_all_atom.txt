@@ -23306,3 +23306,8 @@ https://api.feeddd.org/feeds/62add2c8a4ca6e10e3b91907/atom E药经理人
 https://api.feeddd.org/feeds/62add2c8a4ca6e10e3b9190f/atom 蒲公英Ouryao
 https://api.feeddd.org/feeds/62ae857aa4ca6e10e3ba32ac/atom 青春全烩
 https://api.feeddd.org/feeds/62ae87d1d2743d10ddf07ef3/atom 华师生环
+https://api.feeddd.org/feeds/62afc0bcd2743d10ddf0f0d3/atom 学习大国
+https://api.feeddd.org/feeds/62b04527a4ca6e10e3bb81d1/atom 创源新城
+https://api.feeddd.org/feeds/62b04655d2743d10ddf0fb9f/atom 东土科技
+https://api.feeddd.org/feeds/62b04655d2743d10ddf0fba6/atom 谊和
+https://api.feeddd.org/feeds/62b04655d2743d10ddf0fbac/atom 月语教育
