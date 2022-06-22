@@ -23360,3 +23360,6 @@ https://api.feeddd.org/feeds/62b12132a4ca6e10e3bcad97/atom 投资嘉定Invest Ji
 https://api.feeddd.org/feeds/62b12133a4ca6e10e3bcad9f/atom 文明嘉定
 https://api.feeddd.org/feeds/62b12133a4ca6e10e3bcada7/atom 西格玛尔
 https://api.feeddd.org/feeds/62b1a049a4ca6e10e3bd06cc/atom Twitter出海营销
+https://api.feeddd.org/feeds/62b255b6a4ca6e10e3be10e3/atom 信德海事
+https://api.feeddd.org/feeds/62b2b038a4ca6e10e3be702e/atom CAPPVD漏洞库
+https://api.feeddd.org/feeds/62b3169da4ca6e10e3bea8ec/atom 淘金六爷
