@@ -23363,3 +23363,5 @@ https://api.feeddd.org/feeds/62b1a049a4ca6e10e3bd06cc/atom Twitter出海营销
 https://api.feeddd.org/feeds/62b255b6a4ca6e10e3be10e3/atom 信德海事
 https://api.feeddd.org/feeds/62b2b038a4ca6e10e3be702e/atom CAPPVD漏洞库
 https://api.feeddd.org/feeds/62b3169da4ca6e10e3bea8ec/atom 淘金六爷
+https://api.feeddd.org/feeds/62b3e674a4ca6e10e3bf776b/atom 象数易学与应用
+https://api.feeddd.org/feeds/62b43bfaa4ca6e10e3bfae91/atom 关注米柚更新
