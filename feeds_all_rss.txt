@@ -23365,3 +23365,6 @@ https://api.feeddd.org/feeds/62b2b038a4ca6e10e3be702e CAPPVD漏洞库
 https://api.feeddd.org/feeds/62b3169da4ca6e10e3bea8ec 淘金六爷
 https://api.feeddd.org/feeds/62b3e674a4ca6e10e3bf776b 象数易学与应用
 https://api.feeddd.org/feeds/62b43bfaa4ca6e10e3bfae91 关注米柚更新
+https://api.feeddd.org/feeds/62b4f8b7a4ca6e10e3c032aa 华创证券研究
+https://api.feeddd.org/feeds/62b51c8ca4ca6e10e3c0792a 刘涛多元成长
+https://api.feeddd.org/feeds/62b53925d2743d10ddf21d8e 经方临床
