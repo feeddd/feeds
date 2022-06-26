@@ -23395,3 +23395,9 @@ https://api.feeddd.org/feeds/62b6fbf2a4ca6e10e3c2b146/atom 掌中电白
 https://api.feeddd.org/feeds/62b735b7a4ca6e10e3c2cc70/atom 有晖即写
 https://api.feeddd.org/feeds/62b735b7a4ca6e10e3c2cc7d/atom 远见所望
 https://api.feeddd.org/feeds/62b735b7a4ca6e10e3c2cc83/atom 紫藤花开讲故事
+https://api.feeddd.org/feeds/62b83ae0a4ca6e10e3c413c7/atom 菜鸟设计
+https://api.feeddd.org/feeds/62b83ae0a4ca6e10e3c413cf/atom DEX Group
+https://api.feeddd.org/feeds/62b83ae0a4ca6e10e3c413d7/atom Eason张UED
+https://api.feeddd.org/feeds/62b83ae0a4ca6e10e3c413df/atom 三分设
+https://api.feeddd.org/feeds/62b83ae1a4ca6e10e3c413e7/atom UXD笔记
+https://api.feeddd.org/feeds/62b83ae1a4ca6e10e3c413ef/atom 72PX
