@@ -23395,3 +23395,9 @@ https://api.feeddd.org/feeds/62b6fbf2a4ca6e10e3c2b146/json 掌中电白
 https://api.feeddd.org/feeds/62b735b7a4ca6e10e3c2cc70/json 有晖即写
 https://api.feeddd.org/feeds/62b735b7a4ca6e10e3c2cc7d/json 远见所望
 https://api.feeddd.org/feeds/62b735b7a4ca6e10e3c2cc83/json 紫藤花开讲故事
+https://api.feeddd.org/feeds/62b83ae0a4ca6e10e3c413c7/json 菜鸟设计
+https://api.feeddd.org/feeds/62b83ae0a4ca6e10e3c413cf/json DEX Group
+https://api.feeddd.org/feeds/62b83ae0a4ca6e10e3c413d7/json Eason张UED
+https://api.feeddd.org/feeds/62b83ae0a4ca6e10e3c413df/json 三分设
+https://api.feeddd.org/feeds/62b83ae1a4ca6e10e3c413e7/json UXD笔记
+https://api.feeddd.org/feeds/62b83ae1a4ca6e10e3c413ef/json 72PX
