@@ -23726,3 +23726,5 @@ https://api.feeddd.org/feeds/62bc62bba4ca6e10e3c82986/json 优设私房课塔塔
 https://api.feeddd.org/feeds/62bd4d96a4ca6e10e3c9e56d/json 武汉大学研究生院
 https://api.feeddd.org/feeds/62bda8efa4ca6e10e3cadd84/json 庐山烟雨任平生
 https://api.feeddd.org/feeds/62bdaa1dd2743d10ddf3dc87/json 知云学术
+https://api.feeddd.org/feeds/62be7ea9a4ca6e10e3cbdf03/json 定向选调生之家
+https://api.feeddd.org/feeds/62be7eaaa4ca6e10e3cbdf0b/json 中国卫星导航定位协会-北斗应用
