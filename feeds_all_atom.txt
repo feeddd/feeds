@@ -23836,3 +23836,6 @@ https://api.feeddd.org/feeds/62c4f057a4ca6e10e3d2ee8b/atom 医药BD的自我修�
 https://api.feeddd.org/feeds/62c4f057a4ca6e10e3d2ee93/atom 医药人俱乐部
 https://api.feeddd.org/feeds/62c4f058a4ca6e10e3d2ee9b/atom 中国医药报
 https://api.feeddd.org/feeds/62c59bc5a4ca6e10e3d3fbac/atom 湖北珞珈实验室
+https://api.feeddd.org/feeds/62c68344d2743d10ddf5f4e6/atom 蟠桃结子
+https://api.feeddd.org/feeds/62c6d3b4a4ca6e10e3d60821/atom 梁惠王的云梦之泽
+https://api.feeddd.org/feeds/62c6e607a4ca6e10e3d61f98/atom 恶魔奶爸
