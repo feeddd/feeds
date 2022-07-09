@@ -23903,3 +23903,7 @@ https://api.feeddd.org/feeds/62c80668a4ca6e10e3d7bff6 星火英语考研
 https://api.feeddd.org/feeds/62c80668a4ca6e10e3d7bffe 星火英语四六级
 https://api.feeddd.org/feeds/62c80668a4ca6e10e3d7c006 夜华云
 https://api.feeddd.org/feeds/62c80668a4ca6e10e3d7c00e 走出去服务港
+https://api.feeddd.org/feeds/62c8e52aa4ca6e10e3d9178a 滨江发布
+https://api.feeddd.org/feeds/62c92d5fa4ca6e10e3d98851 西湖发布
+https://api.feeddd.org/feeds/62c92d5fa4ca6e10e3d98859 西湖民政
+https://api.feeddd.org/feeds/62c92d5fa4ca6e10e3d98861 西湖人社发布
