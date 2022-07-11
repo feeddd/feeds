@@ -23907,3 +23907,13 @@ https://api.feeddd.org/feeds/62c8e52aa4ca6e10e3d9178a 滨江发布
 https://api.feeddd.org/feeds/62c92d5fa4ca6e10e3d98851 西湖发布
 https://api.feeddd.org/feeds/62c92d5fa4ca6e10e3d98859 西湖民政
 https://api.feeddd.org/feeds/62c92d5fa4ca6e10e3d98861 西湖人社发布
+https://api.feeddd.org/feeds/62cbbebda4ca6e10e3dcb498 北京LOOK
+https://api.feeddd.org/feeds/62cbeec6d2743d10ddf69d62 清风谈国际
+https://api.feeddd.org/feeds/62cbf538a4ca6e10e3dcf970 量化金融学习
+https://api.feeddd.org/feeds/62cbf538a4ca6e10e3dcf978 量化抓板人
+https://api.feeddd.org/feeds/62cbf538a4ca6e10e3dcf980 伦哥玩量化
+https://api.feeddd.org/feeds/62cbf538a4ca6e10e3dcf98a 中金量化
+https://api.feeddd.org/feeds/62cc01ada4ca6e10e3dd07aa 米宅北京
+https://api.feeddd.org/feeds/62cc1f24a4ca6e10e3dd2250 应莹
+https://api.feeddd.org/feeds/62cc32c2d2743d10ddf6a2b1 千千X橙雨伞
+https://api.feeddd.org/feeds/62cc3faea4ca6e10e3dd3fd8 笔墨余意
