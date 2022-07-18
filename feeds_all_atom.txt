@@ -24146,3 +24146,15 @@ https://api.feeddd.org/feeds/62d41f3aa4ca6e10e3e544fe/atom 哲学王
 https://api.feeddd.org/feeds/62d41f3aa4ca6e10e3e54506/atom 指人儿乐队
 https://api.feeddd.org/feeds/62d41f3aa4ca6e10e3e5450e/atom 中国移动和包
 https://api.feeddd.org/feeds/62d41f3aa4ca6e10e3e54516/atom 宗城的小黑屋
+https://api.feeddd.org/feeds/62d4b989a4ca6e10e3e6056a/atom 快鸭工具最新入口
+https://api.feeddd.org/feeds/62d4bc4fd2743d10ddf85bd6/atom 旗扬
+https://api.feeddd.org/feeds/62d4bc4fd2743d10ddf85bdd/atom 旗扬网
+https://api.feeddd.org/feeds/62d4cb26a4ca6e10e3e60f9b/atom 盐财经
+https://api.feeddd.org/feeds/62d5122ba4ca6e10e3e65072/atom 北京路劲科技有限公司
+https://api.feeddd.org/feeds/62d5122ba4ca6e10e3e6507a/atom 提笔杂货铺
+https://api.feeddd.org/feeds/62d5122ba4ca6e10e3e65082/atom Hacking黑白红
+https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e6508a/atom HAWOO安全
+https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e65094/atom 飓风网络安全
+https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e6509c/atom 小白嘿课
+https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e650a4/atom 雁行安全团队
+https://api.feeddd.org/feeds/62d5456ed2743d10ddf86137/atom 科融通V-Next
