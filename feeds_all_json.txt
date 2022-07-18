@@ -24146,3 +24146,15 @@ https://api.feeddd.org/feeds/62d41f3aa4ca6e10e3e544fe/json 哲学王
 https://api.feeddd.org/feeds/62d41f3aa4ca6e10e3e54506/json 指人儿乐队
 https://api.feeddd.org/feeds/62d41f3aa4ca6e10e3e5450e/json 中国移动和包
 https://api.feeddd.org/feeds/62d41f3aa4ca6e10e3e54516/json 宗城的小黑屋
+https://api.feeddd.org/feeds/62d4b989a4ca6e10e3e6056a/json 快鸭工具最新入口
+https://api.feeddd.org/feeds/62d4bc4fd2743d10ddf85bd6/json 旗扬
+https://api.feeddd.org/feeds/62d4bc4fd2743d10ddf85bdd/json 旗扬网
+https://api.feeddd.org/feeds/62d4cb26a4ca6e10e3e60f9b/json 盐财经
+https://api.feeddd.org/feeds/62d5122ba4ca6e10e3e65072/json 北京路劲科技有限公司
+https://api.feeddd.org/feeds/62d5122ba4ca6e10e3e6507a/json 提笔杂货铺
+https://api.feeddd.org/feeds/62d5122ba4ca6e10e3e65082/json Hacking黑白红
+https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e6508a/json HAWOO安全
+https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e65094/json 飓风网络安全
+https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e6509c/json 小白嘿课
+https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e650a4/json 雁行安全团队
+https://api.feeddd.org/feeds/62d5456ed2743d10ddf86137/json 科融通V-Next
