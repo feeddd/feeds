@@ -24158,3 +24158,8 @@ https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e65094/json 飓风网络安全
 https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e6509c/json 小白嘿课
 https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e650a4/json 雁行安全团队
 https://api.feeddd.org/feeds/62d5456ed2743d10ddf86137/json 科融通V-Next
+https://api.feeddd.org/feeds/62d61d1ba4ca6e10e3e71f41/json 夜晚与混沌世界
+https://api.feeddd.org/feeds/62d711f4a4ca6e10e3e81010/json 思辰超短逻辑
+https://api.feeddd.org/feeds/62d711f4a4ca6e10e3e81016/json 不一样的皓麟
+https://api.feeddd.org/feeds/62d711f4a4ca6e10e3e8101c/json 来杯冰美
+https://api.feeddd.org/feeds/62d7131da4ca6e10e3e810a3/json 沧海潮生
