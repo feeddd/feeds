@@ -24158,3 +24158,8 @@ https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e65094/atom 飓风网络安全
 https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e6509c/atom 小白嘿课
 https://api.feeddd.org/feeds/62d5122ca4ca6e10e3e650a4/atom 雁行安全团队
 https://api.feeddd.org/feeds/62d5456ed2743d10ddf86137/atom 科融通V-Next
+https://api.feeddd.org/feeds/62d61d1ba4ca6e10e3e71f41/atom 夜晚与混沌世界
+https://api.feeddd.org/feeds/62d711f4a4ca6e10e3e81010/atom 思辰超短逻辑
+https://api.feeddd.org/feeds/62d711f4a4ca6e10e3e81016/atom 不一样的皓麟
+https://api.feeddd.org/feeds/62d711f4a4ca6e10e3e8101c/atom 来杯冰美
+https://api.feeddd.org/feeds/62d7131da4ca6e10e3e810a3/atom 沧海潮生
