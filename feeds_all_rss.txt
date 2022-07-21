@@ -24298,3 +24298,22 @@ https://api.feeddd.org/feeds/62d80abda4ca6e10e3e91402 自编自导网
 https://api.feeddd.org/feeds/62d80abda4ca6e10e3e9140a 子皮学社
 https://api.feeddd.org/feeds/62d80abda4ca6e10e3e91412 租赁杂谈
 https://api.feeddd.org/feeds/62d80abda4ca6e10e3e9141a 5G号卡平台
+https://api.feeddd.org/feeds/62d8d069a4ca6e10e3e9e45c 最近使用的小程序
+https://api.feeddd.org/feeds/62d8d069a4ca6e10e3e9e464 昌通码公众端
+https://api.feeddd.org/feeds/62d8d069a4ca6e10e3e9e46c 赣通码
+https://api.feeddd.org/feeds/62d8d069a4ca6e10e3e9e474 拼多多福利券
+https://api.feeddd.org/feeds/62d8d069a4ca6e10e3e9e47c 抽奖
+https://api.feeddd.org/feeds/62d8d069a4ca6e10e3e9e484 科颜氏会员俱乐部
+https://api.feeddd.org/feeds/62d8d069a4ca6e10e3e9e48c 碧欧泉会员中心
+https://api.feeddd.org/feeds/62d8d069a4ca6e10e3e9e494 美团点餐
+https://api.feeddd.org/feeds/62d8d069a4ca6e10e3e9e49c 我的小程序
+https://api.feeddd.org/feeds/62d8d069a4ca6e10e3e9e4a4 一龙点单
+https://api.feeddd.org/feeds/62d8d069a4ca6e10e3e9e4ac 国家法律法规数据库
+https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4b4 校园电子通行证
+https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4bc 瑞幸咖啡
+https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4c4 ACCA第1课
+https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4cc 卡博士
+https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4d4 达派云印
+https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4dc 刚刚看过 (最近1小时)
+https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4e4 员工垫资买办公用品报销被查！税务局：立刻整改！
+https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4ec 新的朋友
