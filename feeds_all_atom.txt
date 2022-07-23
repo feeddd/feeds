@@ -24318,3 +24318,6 @@ https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4dc/atom 刚刚看过 (最近1
 https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4e4/atom 员工垫资买办公用品报销被查！税务局：立刻整改！
 https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4ec/atom 新的朋友
 https://api.feeddd.org/feeds/62da9989a4ca6e10e3ecf518/atom 国际象棋万花筒
+https://api.feeddd.org/feeds/62db6667a4ca6e10e3edfffe/atom 电影工厂
+https://api.feeddd.org/feeds/62db91f5d2743d10ddf9f5a4/atom 21世纪英文报
+https://api.feeddd.org/feeds/62db91f6d2743d10ddf9f5b6/atom 新课标大语文
