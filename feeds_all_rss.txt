@@ -24318,3 +24318,6 @@ https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4dc 刚刚看过 (最近1小�
 https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4e4 员工垫资买办公用品报销被查！税务局：立刻整改！
 https://api.feeddd.org/feeds/62d8d06aa4ca6e10e3e9e4ec 新的朋友
 https://api.feeddd.org/feeds/62da9989a4ca6e10e3ecf518 国际象棋万花筒
+https://api.feeddd.org/feeds/62db6667a4ca6e10e3edfffe 电影工厂
+https://api.feeddd.org/feeds/62db91f5d2743d10ddf9f5a4 21世纪英文报
+https://api.feeddd.org/feeds/62db91f6d2743d10ddf9f5b6 新课标大语文
