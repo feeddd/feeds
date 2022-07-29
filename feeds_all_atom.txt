@@ -24653,3 +24653,12 @@ https://api.feeddd.org/feeds/62e0c32da4ca6e10e3f3814e/atom 云石
 https://api.feeddd.org/feeds/62e0c32da4ca6e10e3f38156/atom 1小时22分
 https://api.feeddd.org/feeds/62e0cb0aa4ca6e10e3f38595/atom 蒙逼时刻
 https://api.feeddd.org/feeds/62e14bffd2743d10ddfb1a9d/atom 品数学
+https://api.feeddd.org/feeds/62e33374a4ca6e10e3f5f1f7/atom 大树乡谈
+https://api.feeddd.org/feeds/62e33b9fd2743d10ddfb9fa6/atom 翼ME
+https://api.feeddd.org/feeds/62e354c4a4ca6e10e3f60402/atom 微软开发者MSDN
+https://api.feeddd.org/feeds/62e35bafa4ca6e10e3f607b9/atom 中国家博会CIFF
+https://api.feeddd.org/feeds/62e38caea4ca6e10e3f641e0/atom 北美留学生观察
+https://api.feeddd.org/feeds/62e39837a4ca6e10e3f649b5/atom 持续力
+https://api.feeddd.org/feeds/62e39837a4ca6e10e3f649bd/atom 电影的后花园
+https://api.feeddd.org/feeds/62e39837a4ca6e10e3f649c5/atom 二冬
+https://api.feeddd.org/feeds/62e39837a4ca6e10e3f649cd/atom 廖信忠
