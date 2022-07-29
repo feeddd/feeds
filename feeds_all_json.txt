@@ -24653,3 +24653,12 @@ https://api.feeddd.org/feeds/62e0c32da4ca6e10e3f3814e/json 云石
 https://api.feeddd.org/feeds/62e0c32da4ca6e10e3f38156/json 1小时22分
 https://api.feeddd.org/feeds/62e0cb0aa4ca6e10e3f38595/json 蒙逼时刻
 https://api.feeddd.org/feeds/62e14bffd2743d10ddfb1a9d/json 品数学
+https://api.feeddd.org/feeds/62e33374a4ca6e10e3f5f1f7/json 大树乡谈
+https://api.feeddd.org/feeds/62e33b9fd2743d10ddfb9fa6/json 翼ME
+https://api.feeddd.org/feeds/62e354c4a4ca6e10e3f60402/json 微软开发者MSDN
+https://api.feeddd.org/feeds/62e35bafa4ca6e10e3f607b9/json 中国家博会CIFF
+https://api.feeddd.org/feeds/62e38caea4ca6e10e3f641e0/json 北美留学生观察
+https://api.feeddd.org/feeds/62e39837a4ca6e10e3f649b5/json 持续力
+https://api.feeddd.org/feeds/62e39837a4ca6e10e3f649bd/json 电影的后花园
+https://api.feeddd.org/feeds/62e39837a4ca6e10e3f649c5/json 二冬
+https://api.feeddd.org/feeds/62e39837a4ca6e10e3f649cd/json 廖信忠
