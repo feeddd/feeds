@@ -24764,3 +24764,10 @@ https://api.feeddd.org/feeds/62e50451a4ca6e10e3f7732b/json 找文小助手
 https://api.feeddd.org/feeds/62e50451a4ca6e10e3f77333/json 浙江卫视
 https://api.feeddd.org/feeds/62e50451a4ca6e10e3f7733b/json 中国移动沈阳分公司
 https://api.feeddd.org/feeds/62e50451a4ca6e10e3f77343/json 追剧天团
+https://api.feeddd.org/feeds/62e68ca9a4ca6e10e3f8c6b8/json 楼市团长
+https://api.feeddd.org/feeds/62e68ca9a4ca6e10e3f8c6c0/json 上海房地产观察
+https://api.feeddd.org/feeds/62e68ca9a4ca6e10e3f8c6c8/json 上海买房必备
+https://api.feeddd.org/feeds/62e68caaa4ca6e10e3f8c6d0/json 上海买房人
+https://api.feeddd.org/feeds/62e68caaa4ca6e10e3f8c6d8/json 上海新房火箭哥
+https://api.feeddd.org/feeds/62e68caaa4ca6e10e3f8c6e0/json 上海新房指南
+https://api.feeddd.org/feeds/62e68caaa4ca6e10e3f8c6e8/json 真叫卢俊
