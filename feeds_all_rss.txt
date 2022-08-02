@@ -24771,3 +24771,6 @@ https://api.feeddd.org/feeds/62e68caaa4ca6e10e3f8c6d0 上海买房人
 https://api.feeddd.org/feeds/62e68caaa4ca6e10e3f8c6d8 上海新房火箭哥
 https://api.feeddd.org/feeds/62e68caaa4ca6e10e3f8c6e0 上海新房指南
 https://api.feeddd.org/feeds/62e68caaa4ca6e10e3f8c6e8 真叫卢俊
+https://api.feeddd.org/feeds/62e8ce53e1190840778d1b1f EchoSec
+https://api.feeddd.org/feeds/62e8ce53e1190840778d1b27 华云安漏洞情报平台
+https://api.feeddd.org/feeds/62e90e2ae1190840778d4a33 贫民窟Slum
