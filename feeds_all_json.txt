@@ -24807,3 +24807,7 @@ https://api.feeddd.org/feeds/62ea7367e1190840778ee381/json 阜阳市教育局
 https://api.feeddd.org/feeds/62ea7367e1190840778ee389/json 高考直通车
 https://api.feeddd.org/feeds/62ea7367e1190840778ee391/json 高中语文学习站
 https://api.feeddd.org/feeds/62ebeae3e119084077900e92/json KnowYourself月食冥想
+https://api.feeddd.org/feeds/62ecc02ae119084077913be5/json 武大通识教育
+https://api.feeddd.org/feeds/62ecc02ae119084077913bed/json 掌上武大
+https://api.feeddd.org/feeds/62ed23cfe119084077917c4e/json 脱氧核甜
+https://api.feeddd.org/feeds/62ed2af7e1190840779181d6/json 住在上海
