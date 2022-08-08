@@ -24927,3 +24927,6 @@ https://api.feeddd.org/feeds/62f027f3e11908407794189f/atom VR陀螺
 https://api.feeddd.org/feeds/62f027f3e1190840779418a9/atom 无罪网
 https://api.feeddd.org/feeds/62f027f3e1190840779418b1/atom 刑事读库
 https://api.feeddd.org/feeds/62f027f3e1190840779418bb/atom 新联文博
+https://api.feeddd.org/feeds/62f07defe11908407794683b/atom 来来外卖
+https://api.feeddd.org/feeds/62f0bf8ce119084077949361/atom 防脱发药水
+https://api.feeddd.org/feeds/62f0ea6371b6fc407168cb15/atom 药事纵横
