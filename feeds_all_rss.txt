@@ -24957,3 +24957,10 @@ https://api.feeddd.org/feeds/62f1e3c2e11908407795a8df 一望书房
 https://api.feeddd.org/feeds/62f1e3c2e11908407795a8e9 字母研究所
 https://api.feeddd.org/feeds/62f1e3c2e11908407795a8f1 6pen
 https://api.feeddd.org/feeds/62f1fccae11908407795b7bd 暴走大事件
+https://api.feeddd.org/feeds/62f2e166e11908407797091f 忍者营地
+https://api.feeddd.org/feeds/62f2e166e119084077970927 西安大略 Easy London
+https://api.feeddd.org/feeds/62f323eae1190840779757f7 调峰调频公司
+https://api.feeddd.org/feeds/62f32515e119084077975f4c 云贵川渝项目库
+https://api.feeddd.org/feeds/62f36c8fe1190840779800df 无性恋之声
+https://api.feeddd.org/feeds/62f374c5e119084077980ceb 药渡
+https://api.feeddd.org/feeds/62f39a40e1190840779856cd 全球创业周
