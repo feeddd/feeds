@@ -24957,3 +24957,10 @@ https://api.feeddd.org/feeds/62f1e3c2e11908407795a8df/atom 一望书房
 https://api.feeddd.org/feeds/62f1e3c2e11908407795a8e9/atom 字母研究所
 https://api.feeddd.org/feeds/62f1e3c2e11908407795a8f1/atom 6pen
 https://api.feeddd.org/feeds/62f1fccae11908407795b7bd/atom 暴走大事件
+https://api.feeddd.org/feeds/62f2e166e11908407797091f/atom 忍者营地
+https://api.feeddd.org/feeds/62f2e166e119084077970927/atom 西安大略 Easy London
+https://api.feeddd.org/feeds/62f323eae1190840779757f7/atom 调峰调频公司
+https://api.feeddd.org/feeds/62f32515e119084077975f4c/atom 云贵川渝项目库
+https://api.feeddd.org/feeds/62f36c8fe1190840779800df/atom 无性恋之声
+https://api.feeddd.org/feeds/62f374c5e119084077980ceb/atom 药渡
+https://api.feeddd.org/feeds/62f39a40e1190840779856cd/atom 全球创业周
