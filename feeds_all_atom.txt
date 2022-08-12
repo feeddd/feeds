@@ -25008,3 +25008,5 @@ https://api.feeddd.org/feeds/62f4d6e4e119084077997298/atom 应急管理出版社
 https://api.feeddd.org/feeds/62f4d6e4e1190840779972a0/atom 影视剪辑宝典
 https://api.feeddd.org/feeds/62f4d6e5e1190840779972a8/atom 雨果网跨境服务
 https://api.feeddd.org/feeds/62f4d6e5e1190840779972b0/atom 在行
+https://api.feeddd.org/feeds/62f66af771b6fc407169f299/atom uth又识
+https://api.feeddd.org/feeds/62f66c2271b6fc407169f2d7/atom TechXAcademy
