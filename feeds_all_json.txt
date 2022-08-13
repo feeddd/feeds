@@ -25010,3 +25010,4 @@ https://api.feeddd.org/feeds/62f4d6e5e1190840779972a8/json 雨果网跨境服务
 https://api.feeddd.org/feeds/62f4d6e5e1190840779972b0/json 在行
 https://api.feeddd.org/feeds/62f66af771b6fc407169f299/json uth又识
 https://api.feeddd.org/feeds/62f66c2271b6fc407169f2d7/json TechXAcademy
+https://api.feeddd.org/feeds/62f79bede1190840779c9bbd/json 明日方舟Arknights
