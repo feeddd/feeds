@@ -25011,3 +25011,16 @@ https://api.feeddd.org/feeds/62f4d6e5e1190840779972b0/json 在行
 https://api.feeddd.org/feeds/62f66af771b6fc407169f299/json uth又识
 https://api.feeddd.org/feeds/62f66c2271b6fc407169f2d7/json TechXAcademy
 https://api.feeddd.org/feeds/62f79bede1190840779c9bbd/json 明日方舟Arknights
+https://api.feeddd.org/feeds/62f85e2f71b6fc40716a7604/json 鹤鸣亭
+https://api.feeddd.org/feeds/62f85f6171b6fc40716a7630/json 盐城广播
+https://api.feeddd.org/feeds/62f85f6171b6fc40716a7640/json 盐城发布
+https://api.feeddd.org/feeds/62f86411e1190840779d4cdc/json Deribit德瑞的交易课
+https://api.feeddd.org/feeds/62f86411e1190840779d4ce4/json PureDelta
+https://api.feeddd.org/feeds/62f8ac6de1190840779d8128/json 策略晓说
+https://api.feeddd.org/feeds/62f8ac6ee1190840779d8130/json 长江策略
+https://api.feeddd.org/feeds/62f8ac6ee1190840779d8138/json 科大烽火
+https://api.feeddd.org/feeds/62f8f221e1190840779db341/json 策略李立峰与行业配置笔记
+https://api.feeddd.org/feeds/62f8f221e1190840779db34d/json 达策略知行
+https://api.feeddd.org/feeds/62f8f221e1190840779db355/json 樊继拓投资策略
+https://api.feeddd.org/feeds/62f8f221e1190840779db35d/json 国信研究
+https://api.feeddd.org/feeds/62f8f221e1190840779db367/json 招商策略研究
