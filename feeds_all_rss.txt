@@ -25028,3 +25028,4 @@ https://api.feeddd.org/feeds/62f9a949e1190840779e61b9 Moka官方
 https://api.feeddd.org/feeds/62fa4335e1190840779ed6ea GWG小姐姐玩链游
 https://api.feeddd.org/feeds/62fa43a7e1190840779ed740 能源首席分析师
 https://api.feeddd.org/feeds/62fa43a8e1190840779ed748 王德伦策略与投资
+https://api.feeddd.org/feeds/62fb0f85e1190840779ff6b1 兴证资产管理
