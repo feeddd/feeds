@@ -25416,3 +25416,8 @@ https://api.feeddd.org/feeds/62fd1a22e119084077a26ea0/atom 左岸读书
 https://api.feeddd.org/feeds/62fd1a22e119084077a26eab/atom 作业帮招聘
 https://api.feeddd.org/feeds/62fd1a22e119084077a26eb4/atom 5G高清视界
 https://api.feeddd.org/feeds/62fd1a23e119084077a26ebf/atom 706青年空间
+https://api.feeddd.org/feeds/62fddc72e119084077a39585/atom 症状网络 Symptoms Network
+https://api.feeddd.org/feeds/62fe06c6e119084077a3bb0d/atom 久喜生活
+https://api.feeddd.org/feeds/62fe125471b6fc40716b2a0f/atom 小警之家
+https://api.feeddd.org/feeds/62fe125571b6fc40716b2a18/atom 直击盐城楼市
+https://api.feeddd.org/feeds/62fe137e71b6fc40716b2a31/atom 盐城市图书馆
