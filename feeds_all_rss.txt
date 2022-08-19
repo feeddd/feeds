@@ -25421,3 +25421,6 @@ https://api.feeddd.org/feeds/62fe06c6e119084077a3bb0d 久喜生活
 https://api.feeddd.org/feeds/62fe125471b6fc40716b2a0f 小警之家
 https://api.feeddd.org/feeds/62fe125571b6fc40716b2a18 直击盐城楼市
 https://api.feeddd.org/feeds/62fe137e71b6fc40716b2a31 盐城市图书馆
+https://api.feeddd.org/feeds/62febd6fe119084077a439c5 瓢城网
+https://api.feeddd.org/feeds/62febd6fe119084077a439ce 盐城住建
+https://api.feeddd.org/feeds/62fefc37e119084077a48565 信风TradeWind
