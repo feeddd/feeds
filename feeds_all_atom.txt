@@ -25444,3 +25444,10 @@ https://api.feeddd.org/feeds/6300f67ae119084077a6b31f/atom 文案与美术
 https://api.feeddd.org/feeds/6300f67be119084077a6b327/atom 嬉游
 https://api.feeddd.org/feeds/6300f67be119084077a6b32f/atom 有蛋案例
 https://api.feeddd.org/feeds/6300f67be119084077a6b337/atom 优设
+https://api.feeddd.org/feeds/6301a8a7e119084077a7bee0/atom Github爱好者
+https://api.feeddd.org/feeds/63025a6ce119084077a85c2d/atom 杭事静观
+https://api.feeddd.org/feeds/63025a6ce119084077a85c35/atom 控盘猫频道
+https://api.feeddd.org/feeds/63025a6ce119084077a85c3d/atom 皮皮鱼的理科思维
+https://api.feeddd.org/feeds/63025a6ce119084077a85c45/atom 书香影蕴
+https://api.feeddd.org/feeds/63025a6ce119084077a85c4d/atom 西门吹雪实盘
+https://api.feeddd.org/feeds/63025a6de119084077a85c55/atom yes的练级攻略
