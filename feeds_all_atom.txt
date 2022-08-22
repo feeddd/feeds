@@ -25451,3 +25451,5 @@ https://api.feeddd.org/feeds/63025a6ce119084077a85c3d/atom 皮皮鱼的理科思
 https://api.feeddd.org/feeds/63025a6ce119084077a85c45/atom 书香影蕴
 https://api.feeddd.org/feeds/63025a6ce119084077a85c4d/atom 西门吹雪实盘
 https://api.feeddd.org/feeds/63025a6de119084077a85c55/atom yes的练级攻略
+https://api.feeddd.org/feeds/6302e6b6e119084077a8d4f7/atom 算法与数据结构
+https://api.feeddd.org/feeds/63030e88e119084077a905e6/atom 文小昭的文
