@@ -25463,3 +25463,20 @@ https://api.feeddd.org/feeds/6304f3a8e119084077aaa6dd/json QUICK龟壳影像社�
 https://api.feeddd.org/feeds/6304f3a8e119084077aaa6e3/json 三蝶纪
 https://api.feeddd.org/feeds/6304f3a8e119084077aaa6e9/json 亦趣自然
 https://api.feeddd.org/feeds/6304f3a8e119084077aaa6ef/json 周口日报
+https://api.feeddd.org/feeds/6305630271b6fc40716cd6ea/json 乡土自然
+https://api.feeddd.org/feeds/63057945e119084077ab7b3c/json 林苑资讯捞
+https://api.feeddd.org/feeds/63058c0ae119084077ab925b/json 天敌小世界
+https://api.feeddd.org/feeds/63058f8ae119084077ab9723/json 十三言
+https://api.feeddd.org/feeds/6305c44071b6fc40716cdfd2/json ALL IN 摄影比赛
+https://api.feeddd.org/feeds/6305f7cf71b6fc40716ce1c7/json CNU视觉联盟
+https://api.feeddd.org/feeds/6305f7cf71b6fc40716ce1ce/json 服装云教育
+https://api.feeddd.org/feeds/63061e7e71b6fc40716ce3ad/json 此间自然
+https://api.feeddd.org/feeds/63061e7e71b6fc40716ce3b6/json 木格堂
+https://api.feeddd.org/feeds/63061e7e71b6fc40716ce3bd/json 苔藓之恋
+https://api.feeddd.org/feeds/63061e7e71b6fc40716ce3c5/json 西岸艺术与设计博览会
+https://api.feeddd.org/feeds/63061fa971b6fc40716ce3f0/json 西双版纳热带植物园
+https://api.feeddd.org/feeds/63061fa971b6fc40716ce3f8/json 影艺家
+https://api.feeddd.org/feeds/63062a3b71b6fc40716ce5d7/json 师傅停一下车
+https://api.feeddd.org/feeds/63062a3b71b6fc40716ce5e9/json 植物上瘾者
+https://api.feeddd.org/feeds/6306327c71b6fc40716ce791/json 天象爱好者
+https://api.feeddd.org/feeds/6306327c71b6fc40716ce797/json 一只豆虫
