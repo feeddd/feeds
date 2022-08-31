@@ -25769,3 +25769,17 @@ https://api.feeddd.org/feeds/630ccad6e119084077b3136d 社會學會社
 https://api.feeddd.org/feeds/630ccad6e119084077b31375 社会学理论大缸
 https://api.feeddd.org/feeds/630ccad6e119084077b3137d 政眼
 https://api.feeddd.org/feeds/630ccad6e119084077b31385 中国社会学会
+https://api.feeddd.org/feeds/630eb700e119084077b5467d 我们的设计日记
+https://api.feeddd.org/feeds/630ec7d4e119084077b565a2 上海中医药博物馆
+https://api.feeddd.org/feeds/630ec7d4e119084077b565aa 上海中医药大学附属曙光医院
+https://api.feeddd.org/feeds/630ec7d4e119084077b565b2 上海中医药大学附属岳阳医院
+https://api.feeddd.org/feeds/630ec7d4e119084077b565c0 上海中医药大学后勤服务大厅
+https://api.feeddd.org/feeds/630ec7d4e119084077b565c8 上海中医药大学教务处
+https://api.feeddd.org/feeds/630ec7d4e119084077b565d0 上海中医药大学图书馆
+https://api.feeddd.org/feeds/630ec7d4e119084077b565d8 上海中医药大学信息化办公室
+https://api.feeddd.org/feeds/630ec7d4e119084077b565e0 上中医就业指导中心
+https://api.feeddd.org/feeds/630ec7d4e119084077b565e8 曙光医院
+https://api.feeddd.org/feeds/630ec7d4e119084077b565f0 中医青年
+https://api.feeddd.org/feeds/630f760be119084077b69284 Linux News搬运工
+https://api.feeddd.org/feeds/630f79d1e119084077b69831 致极学院
+https://api.feeddd.org/feeds/630f8041e119084077b6a0a6 硬科技合规官
