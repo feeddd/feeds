@@ -25783,3 +25783,4 @@ https://api.feeddd.org/feeds/630ec7d4e119084077b565f0 中医青年
 https://api.feeddd.org/feeds/630f760be119084077b69284 Linux News搬运工
 https://api.feeddd.org/feeds/630f79d1e119084077b69831 致极学院
 https://api.feeddd.org/feeds/630f8041e119084077b6a0a6 硬科技合规官
+https://api.feeddd.org/feeds/63100319e119084077b76eca 黄河清说商业
