@@ -25784,3 +25784,6 @@ https://api.feeddd.org/feeds/630f760be119084077b69284/atom Linux News搬运工
 https://api.feeddd.org/feeds/630f79d1e119084077b69831/atom 致极学院
 https://api.feeddd.org/feeds/630f8041e119084077b6a0a6/atom 硬科技合规官
 https://api.feeddd.org/feeds/63100319e119084077b76eca/atom 黄河清说商业
+https://api.feeddd.org/feeds/6311ac4e71b6fc4071702db1/atom 杭郡招才
+https://api.feeddd.org/feeds/63121aafe119084077bb158e/atom 美团UED
+https://api.feeddd.org/feeds/63121aafe119084077bb1596/atom 最设计
