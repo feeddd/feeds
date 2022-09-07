@@ -26368,3 +26368,22 @@ https://api.feeddd.org/feeds/6317744ee119084077c48c33 WeChat Team
 https://api.feeddd.org/feeds/6317744ee119084077c48c3b 严日辉 回国
 https://api.feeddd.org/feeds/6317744fe119084077c48c43 0577
 https://api.feeddd.org/feeds/6317744fe119084077c48c4d 777
+https://api.feeddd.org/feeds/631808dce119084077c5e235 广东人工智能与先进计算研究院
+https://api.feeddd.org/feeds/631808dce119084077c5e23d 广东智能无人系统研究院
+https://api.feeddd.org/feeds/631808dde119084077c5e245 国家重点研发计划智能机器人专项
+https://api.feeddd.org/feeds/631808dde119084077c5e24d ICT先进计算机系统研究中心
+https://api.feeddd.org/feeds/631808dde119084077c5e255 机器人ROBOT
+https://api.feeddd.org/feeds/631808dde119084077c5e25d 计算机体系结构国重
+https://api.feeddd.org/feeds/631808dde119084077c5e265 模式识别国家重点实验室
+https://api.feeddd.org/feeds/631808dde119084077c5e26d 深海所
+https://api.feeddd.org/feeds/631808dde119084077c5e275 信息与控制
+https://api.feeddd.org/feeds/631808dde119084077c5e27d 智能感知与计算研究中心
+https://api.feeddd.org/feeds/631808dde119084077c5e285 中国科大计算机学院
+https://api.feeddd.org/feeds/631808dde119084077c5e28d 中国科学院沈阳自动化研究所
+https://api.feeddd.org/feeds/631808dee119084077c5e295 中国自动化学会机器人专委会
+https://api.feeddd.org/feeds/631808dee119084077c5e29d 中科院计算所
+https://api.feeddd.org/feeds/631808dee119084077c5e2a5 中科院智能系统与工程研究中心
+https://api.feeddd.org/feeds/631808dee119084077c5e2ad 中科院自动化所智能交互团队
+https://api.feeddd.org/feeds/631808dee119084077c5e2b5 自动化学报
+https://api.feeddd.org/feeds/631817b1e119084077c5fc0c 友粉生活
+https://api.feeddd.org/feeds/6318577fe119084077c6710d 安富莱电子
