@@ -26674,3 +26674,10 @@ https://api.feeddd.org/feeds/6319b62ae119084077c89190/atom 云谦和他的朋友
 https://api.feeddd.org/feeds/6319e831e119084077c8d2ba/atom 汽车电子设计
 https://api.feeddd.org/feeds/6319e831e119084077c8d2c2/atom 碳化硅芯观察
 https://api.feeddd.org/feeds/6319e831e119084077c8d2ce/atom 芯TIP
+https://api.feeddd.org/feeds/631a9d0871b6fc40717219b6/atom 新西兰漫游记
+https://api.feeddd.org/feeds/631a9d0971b6fc40717219c6/atom laoduo
+https://api.feeddd.org/feeds/631a9e3f71b6fc4071721a5c/atom 犇牛调研逻辑
+https://api.feeddd.org/feeds/631a9e3f71b6fc4071721a73/atom 价投前沿
+https://api.feeddd.org/feeds/631a9f66e119084077ca5ce8/atom 纪要投研
+https://api.feeddd.org/feeds/631ad9c3e119084077cac025/atom 宝藏姬
+https://api.feeddd.org/feeds/631ad9c3e119084077cac02d/atom 大众软件库
