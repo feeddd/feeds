@@ -26681,3 +26681,8 @@ https://api.feeddd.org/feeds/631a9e3f71b6fc4071721a73/json 价投前沿
 https://api.feeddd.org/feeds/631a9f66e119084077ca5ce8/json 纪要投研
 https://api.feeddd.org/feeds/631ad9c3e119084077cac025/json 宝藏姬
 https://api.feeddd.org/feeds/631ad9c3e119084077cac02d/json 大众软件库
+https://api.feeddd.org/feeds/631c0bf2e119084077ccb329/json 恩智浦MCU加油站
+https://api.feeddd.org/feeds/631c0bf3e119084077ccb331/json MCU开发加油站
+https://api.feeddd.org/feeds/631c0bf3e119084077ccb339/json NXP客栈
+https://api.feeddd.org/feeds/631c0bf3e119084077ccb341/json 嵌入式IoT
+https://api.feeddd.org/feeds/631cb4cae119084077cde09f/json 广州女娲生命科技有限公司
