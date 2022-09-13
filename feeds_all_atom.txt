@@ -26798,3 +26798,16 @@ https://api.feeddd.org/feeds/631eaf3ce119084077d11039/atom 山西博物院
 https://api.feeddd.org/feeds/631eaf3ce119084077d11041/atom 山西交警
 https://api.feeddd.org/feeds/631eaf3ce119084077d11049/atom 天津市免费避孕服务
 https://api.feeddd.org/feeds/631eaf3ce119084077d11051/atom 中科幻彩
+https://api.feeddd.org/feeds/631fe1cc71b6fc4071743a73/atom 星空财富
+https://api.feeddd.org/feeds/631fee2be119084077d3312b/atom 河南粉笔
+https://api.feeddd.org/feeds/631ff0d6e119084077d3357b/atom CSDN程序人生
+https://api.feeddd.org/feeds/632018a6e119084077d37c08/atom 北京中医药大学深圳医院
+https://api.feeddd.org/feeds/632018a6e119084077d37c10/atom 假张
+https://api.feeddd.org/feeds/632018a6e119084077d37c18/atom 鲁大师官方
+https://api.feeddd.org/feeds/632018a6e119084077d37c20/atom 深圳市龙岗区人民医院
+https://api.feeddd.org/feeds/632018a6e119084077d37c28/atom 深圳市龙岗中心医院
+https://api.feeddd.org/feeds/632030b0e119084077d39b12/atom ponffentalk
+https://api.feeddd.org/feeds/632095e4e119084077d450a9/atom 嘉兴市图书馆
+https://api.feeddd.org/feeds/632095e5e119084077d450b1/atom 苏州图书馆
+https://api.feeddd.org/feeds/632095e5e119084077d450b9/atom 无锡市图书馆
+https://api.feeddd.org/feeds/6320dac5e119084077d4bd8e/atom 水系储能
