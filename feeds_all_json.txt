@@ -27023,3 +27023,18 @@ https://api.feeddd.org/feeds/63240d0be119084077da4875/json 中国中医
 https://api.feeddd.org/feeds/63240d0be119084077da487d/json 中国中医药报官方号
 https://api.feeddd.org/feeds/63240d0be119084077da4885/json 1688运营研究社
 https://api.feeddd.org/feeds/63247cb771b6fc40717572a3/json 配置者说
+https://api.feeddd.org/feeds/63252a60e119084077dc4d5c/json IXDC
+https://api.feeddd.org/feeds/63255d3de119084077dca42b/json 重庆师范大学
+https://api.feeddd.org/feeds/63255d3de119084077dca433/json 高层次人才圈
+https://api.feeddd.org/feeds/63255d3de119084077dca43b/json GISer last
+https://api.feeddd.org/feeds/63255d3de119084077dca443/json 华西医生
+https://api.feeddd.org/feeds/63255d3ee119084077dca44b/json 立方数据学社
+https://api.feeddd.org/feeds/63255d3ee119084077dca453/json Pubpeer
+https://api.feeddd.org/feeds/63255d3ee119084077dca45d/json 牲产队
+https://api.feeddd.org/feeds/63255d3ee119084077dca468/json 时代冲浪指南
+https://api.feeddd.org/feeds/63255d3ee119084077dca470/json 数读城事
+https://api.feeddd.org/feeds/63255d3ee119084077dca478/json 乡知乡见
+https://api.feeddd.org/feeds/63255d3ee119084077dca480/json YES青年经济学家联谊会
+https://api.feeddd.org/feeds/63255d3ee119084077dca488/json 浙江省发展规划研究院
+https://api.feeddd.org/feeds/63255d3fe119084077dca490/json 浙江引才
+https://api.feeddd.org/feeds/6325e130e119084077dd891c/json 浙文眼镜官微
