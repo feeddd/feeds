@@ -27038,3 +27038,11 @@ https://api.feeddd.org/feeds/63255d3ee119084077dca480/json YES青年经济学家
 https://api.feeddd.org/feeds/63255d3ee119084077dca488/json 浙江省发展规划研究院
 https://api.feeddd.org/feeds/63255d3fe119084077dca490/json 浙江引才
 https://api.feeddd.org/feeds/6325e130e119084077dd891c/json 浙文眼镜官微
+https://api.feeddd.org/feeds/632652fbe119084077de2d4d/json 国科环宇
+https://api.feeddd.org/feeds/632652fbe119084077de2d55/json 计算机 牛骨挖掘机
+https://api.feeddd.org/feeds/632652fbe119084077de2d60/json 科技伊甸园
+https://api.feeddd.org/feeds/632652fbe119084077de2d68/json 平凡的策略分析师
+https://api.feeddd.org/feeds/632652fbe119084077de2d70/json 招商电子
+https://api.feeddd.org/feeds/632652fbe119084077de2d78/json 中金科技硬件
+https://api.feeddd.org/feeds/6326fab5e119084077df2d4f/json 数字营销观
+https://api.feeddd.org/feeds/63272ca5e119084077df72a1/json 智慧笑联
