@@ -27083,3 +27083,23 @@ https://api.feeddd.org/feeds/63280d64e119084077e0ef95 智慧的树知到免费�
 https://api.feeddd.org/feeds/63280d64e119084077e0ef9d 智友邦科技
 https://api.feeddd.org/feeds/63280d65e119084077e0efa5 主题爱好者大联盟
 https://api.feeddd.org/feeds/63280d65e119084077e0efad 子木黑科技
+https://api.feeddd.org/feeds/632a63ace119084077e5129b Digital Data数字情报局
+https://api.feeddd.org/feeds/632a63ade119084077e512a3 魔镜市场情报
+https://api.feeddd.org/feeds/632a63ade119084077e512ab 唯恒农小蜂
+https://api.feeddd.org/feeds/632a63ade119084077e512b3 中经传媒智库
+https://api.feeddd.org/feeds/632a63ade119084077e512bb 36氪研究院
+https://api.feeddd.org/feeds/632a6c31e119084077e5224b 浙江去哪玩
+https://api.feeddd.org/feeds/632a70bce119084077e528b9 骑行圈
+https://api.feeddd.org/feeds/632a91efe119084077e55ada 硕博生活圈
+https://api.feeddd.org/feeds/632a96d2e119084077e56050 核电那些事
+https://api.feeddd.org/feeds/632a96d2e119084077e56057 中核智库
+https://api.feeddd.org/feeds/632a9b9071b6fc407177c229 核讯天下
+https://api.feeddd.org/feeds/632ac239e119084077e58f67 核电观察
+https://api.feeddd.org/feeds/632ac239e119084077e58f6d 核电纵横
+https://api.feeddd.org/feeds/632ac48771b6fc407177c4bf 核能号
+https://api.feeddd.org/feeds/632ae0b8e119084077e5b8ae 浑水调研
+https://api.feeddd.org/feeds/632ae0b8e119084077e5b8b6 计算机ABC
+https://api.feeddd.org/feeds/632ae0b8e119084077e5b8be 新能源汽车技术院
+https://api.feeddd.org/feeds/632ae0b8e119084077e5b8c6 佐思汽车研究
+https://api.feeddd.org/feeds/632affdfe119084077e5f3c3 资料分享大师
+https://api.feeddd.org/feeds/632b3fd3e119084077e66f07 百家研究院
