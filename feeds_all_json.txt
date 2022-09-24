@@ -27160,3 +27160,9 @@ https://api.feeddd.org/feeds/632dcb48e119084077ea7571/json 观察者的技术
 https://api.feeddd.org/feeds/632dcc6c71b6fc407178ed9e/json 欧陆思想联萌
 https://api.feeddd.org/feeds/632dcd88e119084077ea7a36/json 院外
 https://api.feeddd.org/feeds/632dd8fae119084077ea8e6d/json Aging
+https://api.feeddd.org/feeds/632f048be119084077ec6e63/json 阮光锋营养师
+https://api.feeddd.org/feeds/632f048ce119084077ec6e6e/json 外卖红包神器
+https://api.feeddd.org/feeds/632f048ce119084077ec6e76/json 威能家园
+https://api.feeddd.org/feeds/632f0d69e119084077ec800a/json 私享史
+https://api.feeddd.org/feeds/632f6c5c71b6fc407179b6ed/json 华南翻译市场
+https://api.feeddd.org/feeds/632f6eac71b6fc407179ccfc/json 艺见集
