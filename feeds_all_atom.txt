@@ -27166,3 +27166,16 @@ https://api.feeddd.org/feeds/632f048ce119084077ec6e76/atom 威能家园
 https://api.feeddd.org/feeds/632f0d69e119084077ec800a/atom 私享史
 https://api.feeddd.org/feeds/632f6c5c71b6fc407179b6ed/atom 华南翻译市场
 https://api.feeddd.org/feeds/632f6eac71b6fc407179ccfc/atom 艺见集
+https://api.feeddd.org/feeds/632f79eee119084077ed42a0/atom lemon树
+https://api.feeddd.org/feeds/632f79eee119084077ed42a8/atom 弥望木星
+https://api.feeddd.org/feeds/632f79eee119084077ed42b5/atom Procreate大师级画板
+https://api.feeddd.org/feeds/632f79eee119084077ed42bd/atom Procreate 手绘教程
+https://api.feeddd.org/feeds/632f79eee119084077ed42ca/atom 三禾随笔
+https://api.feeddd.org/feeds/632f79eee119084077ed42d2/atom 啥啥啥的C-Side
+https://api.feeddd.org/feeds/632f79eee119084077ed42da/atom 手绘彩铅画课堂
+https://api.feeddd.org/feeds/632f79eee119084077ed42e4/atom 微艺术
+https://api.feeddd.org/feeds/632f79efe119084077ed42ec/atom 星期八户外旅行
+https://api.feeddd.org/feeds/632f79efe119084077ed42f6/atom 一起漫游
+https://api.feeddd.org/feeds/632f79efe119084077ed4300/atom 友邻英文课堂
+https://api.feeddd.org/feeds/632fbe6471b6fc407179fc1d/atom 语言学世界
+https://api.feeddd.org/feeds/63307099e119084077eeec58/atom 博雅好书
