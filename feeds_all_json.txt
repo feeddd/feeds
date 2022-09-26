@@ -27179,3 +27179,10 @@ https://api.feeddd.org/feeds/632f79efe119084077ed42f6/json 一起漫游
 https://api.feeddd.org/feeds/632f79efe119084077ed4300/json 友邻英文课堂
 https://api.feeddd.org/feeds/632fbe6471b6fc407179fc1d/json 语言学世界
 https://api.feeddd.org/feeds/63307099e119084077eeec58/json 博雅好书
+https://api.feeddd.org/feeds/6330f03871b6fc40717a0a73/json 定向选调
+https://api.feeddd.org/feeds/6330f16e71b6fc40717a0aa3/json 规了个划职业发展
+https://api.feeddd.org/feeds/6331424be119084077f0fe11/json 世界莫名其妙物语
+https://api.feeddd.org/feeds/6331c21ee119084077f1a3d5/json Timespace翻译全球
+https://api.feeddd.org/feeds/6331c599e119084077f1ab59/json 规划上海SUPDRI
+https://api.feeddd.org/feeds/6331c599e119084077f1ab6d/json 规划中国
+https://api.feeddd.org/feeds/6331c599e119084077f1ab7a/json 上海规划资源
