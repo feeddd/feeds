@@ -27186,3 +27186,8 @@ https://api.feeddd.org/feeds/6331c21ee119084077f1a3d5/json Timespace翻译全球
 https://api.feeddd.org/feeds/6331c599e119084077f1ab59/json 规划上海SUPDRI
 https://api.feeddd.org/feeds/6331c599e119084077f1ab6d/json 规划中国
 https://api.feeddd.org/feeds/6331c599e119084077f1ab7a/json 上海规划资源
+https://api.feeddd.org/feeds/63325a61e119084077f2b928/json 设计院人才招聘
+https://api.feeddd.org/feeds/6332757ce119084077f2f495/json 小慕资源
+https://api.feeddd.org/feeds/633314b3e119084077f403c8/json 奇境译坊
+https://api.feeddd.org/feeds/633314b3e119084077f403ce/json 人文社科联合书单
+https://api.feeddd.org/feeds/63331741e119084077f408e9/json Tom真不想看你亏钱
