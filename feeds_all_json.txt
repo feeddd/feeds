@@ -27191,3 +27191,17 @@ https://api.feeddd.org/feeds/6332757ce119084077f2f495/json 小慕资源
 https://api.feeddd.org/feeds/633314b3e119084077f403c8/json 奇境译坊
 https://api.feeddd.org/feeds/633314b3e119084077f403ce/json 人文社科联合书单
 https://api.feeddd.org/feeds/63331741e119084077f408e9/json Tom真不想看你亏钱
+https://api.feeddd.org/feeds/6333a15671b6fc40717ab7be/json 摩尔盛宴
+https://api.feeddd.org/feeds/6333b41fe119084077f58d55/json 中国城市中心规划院
+https://api.feeddd.org/feeds/6333b545e119084077f58fe4/json 同济就业
+https://api.feeddd.org/feeds/6334003071b6fc40717abf11/json befox
+https://api.feeddd.org/feeds/6334003071b6fc40717abf17/json 北京炒家
+https://api.feeddd.org/feeds/633426ef71b6fc40717ac11c/json 远山1982实盘
+https://api.feeddd.org/feeds/63345c37e119084077f6d2cd/json 麦麦麦
+https://api.feeddd.org/feeds/63345c37e119084077f6d2d5/json maxwong
+https://api.feeddd.org/feeds/63345c37e119084077f6d2dd/json Weixin Team
+https://api.feeddd.org/feeds/63345fe8e119084077f6da9a/json 麦麦写字的地方
+https://api.feeddd.org/feeds/633469ace119084077f6ed23/json 海螺复盘可转债
+https://api.feeddd.org/feeds/63346d34e119084077f6f31d/json 三体星人1379
+https://api.feeddd.org/feeds/63349e7171b6fc40717ac711/json 灯下漫谈
+https://api.feeddd.org/feeds/6334a444e119084077f74f1e/json 阵地LeFront
