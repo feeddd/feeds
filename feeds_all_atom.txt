@@ -27191,3 +27191,17 @@ https://api.feeddd.org/feeds/6332757ce119084077f2f495/atom 小慕资源
 https://api.feeddd.org/feeds/633314b3e119084077f403c8/atom 奇境译坊
 https://api.feeddd.org/feeds/633314b3e119084077f403ce/atom 人文社科联合书单
 https://api.feeddd.org/feeds/63331741e119084077f408e9/atom Tom真不想看你亏钱
+https://api.feeddd.org/feeds/6333a15671b6fc40717ab7be/atom 摩尔盛宴
+https://api.feeddd.org/feeds/6333b41fe119084077f58d55/atom 中国城市中心规划院
+https://api.feeddd.org/feeds/6333b545e119084077f58fe4/atom 同济就业
+https://api.feeddd.org/feeds/6334003071b6fc40717abf11/atom befox
+https://api.feeddd.org/feeds/6334003071b6fc40717abf17/atom 北京炒家
+https://api.feeddd.org/feeds/633426ef71b6fc40717ac11c/atom 远山1982实盘
+https://api.feeddd.org/feeds/63345c37e119084077f6d2cd/atom 麦麦麦
+https://api.feeddd.org/feeds/63345c37e119084077f6d2d5/atom maxwong
+https://api.feeddd.org/feeds/63345c37e119084077f6d2dd/atom Weixin Team
+https://api.feeddd.org/feeds/63345fe8e119084077f6da9a/atom 麦麦写字的地方
+https://api.feeddd.org/feeds/633469ace119084077f6ed23/atom 海螺复盘可转债
+https://api.feeddd.org/feeds/63346d34e119084077f6f31d/atom 三体星人1379
+https://api.feeddd.org/feeds/63349e7171b6fc40717ac711/atom 灯下漫谈
+https://api.feeddd.org/feeds/6334a444e119084077f74f1e/atom 阵地LeFront
