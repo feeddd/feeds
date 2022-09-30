@@ -27241,3 +27241,8 @@ https://api.feeddd.org/feeds/6335a59ce119084077f99cca/atom The Type
 https://api.feeddd.org/feeds/6335a59ce119084077f99cd2/atom 字体设计
 https://api.feeddd.org/feeds/6335b56971b6fc40717ad613/atom 分析哲学的日常
 https://api.feeddd.org/feeds/6335b8f7e119084077f9c24f/atom 现代性哲学+
+https://api.feeddd.org/feeds/63367472e119084077fb8505/atom 陈叨叨杂货铺
+https://api.feeddd.org/feeds/63367473e119084077fb8513/atom 考研斯基
+https://api.feeddd.org/feeds/6337048ae119084077fc5aa3/atom 锤石复盘
+https://api.feeddd.org/feeds/6337093571b6fc40717af045/atom 六点图书
+https://api.feeddd.org/feeds/63370a5871b6fc40717af086/atom 奇爱电影
