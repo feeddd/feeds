@@ -27246,3 +27246,7 @@ https://api.feeddd.org/feeds/63367473e119084077fb8513/json 考研斯基
 https://api.feeddd.org/feeds/6337048ae119084077fc5aa3/json 锤石复盘
 https://api.feeddd.org/feeds/6337093571b6fc40717af045/json 六点图书
 https://api.feeddd.org/feeds/63370a5871b6fc40717af086/json 奇爱电影
+https://api.feeddd.org/feeds/633786b1e119084077fd3299/json BUCM一临学生之家
+https://api.feeddd.org/feeds/6337c832e119084077fdabb7/json 浙江省城乡规划设计研究院
+https://api.feeddd.org/feeds/6338585ae119084077fe9ef2/json 器道哲學與技術研究網絡
+https://api.feeddd.org/feeds/63386b40e119084077fec3c3/json 能源学报
