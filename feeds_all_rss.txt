@@ -27250,3 +27250,7 @@ https://api.feeddd.org/feeds/633786b1e119084077fd3299 BUCM一临学生之家
 https://api.feeddd.org/feeds/6337c832e119084077fdabb7 浙江省城乡规划设计研究院
 https://api.feeddd.org/feeds/6338585ae119084077fe9ef2 器道哲學與技術研究網絡
 https://api.feeddd.org/feeds/63386b40e119084077fec3c3 能源学报
+https://api.feeddd.org/feeds/6338f1dc71b6fc40717b81f8 OfferShow
+https://api.feeddd.org/feeds/63390dd3e119084077007b26 BUCM二临学生会
+https://api.feeddd.org/feeds/63390dd3e119084077007b30 BUCM校园菌
+https://api.feeddd.org/feeds/63390dd3e119084077007b38 BUCM一临研会
