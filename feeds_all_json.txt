@@ -27516,3 +27516,16 @@ https://api.feeddd.org/feeds/633c4438e11908407705d840/json 健身迷
 https://api.feeddd.org/feeds/633c4438e11908407705d848/json 历史论文悦读分享
 https://api.feeddd.org/feeds/633c4438e11908407705d850/json 瑞安德育
 https://api.feeddd.org/feeds/633c4438e11908407705d858/json 神秘档案研究所
+https://api.feeddd.org/feeds/633cd269e119084077067fdf/json 芝加哥吃货小分队
+https://api.feeddd.org/feeds/633d8de771b6fc40717d1de9/json 达拉斯吃货小分队
+https://api.feeddd.org/feeds/633d8de771b6fc40717d1def/json DC吃货小分队
+https://api.feeddd.org/feeds/633d8de771b6fc40717d1df6/json 休斯顿生活小分队
+https://api.feeddd.org/feeds/633d8f18e11908407707d5d0/json 大纽约吃货小分队
+https://api.feeddd.org/feeds/633d8f18e11908407707d5d8/json 西雅图吃货小分队
+https://api.feeddd.org/feeds/633d8f18e11908407707d5df/json 温哥华吃货小分队
+https://api.feeddd.org/feeds/633d8f19e11908407707d5e5/json 拉斯维加斯吃货小分队
+https://api.feeddd.org/feeds/633d8f19e11908407707d5eb/json 洛杉矶24小时
+https://api.feeddd.org/feeds/633d8f19e11908407707d5f2/json 硅谷生活大爆炸
+https://api.feeddd.org/feeds/633d904571b6fc40717d1e16/json 北美生活大爆炸
+https://api.feeddd.org/feeds/633d975871b6fc40717d1ede/json 嗯嗯找片阿
+https://api.feeddd.org/feeds/633d9ad4e11908407707f0cc/json 译匠
