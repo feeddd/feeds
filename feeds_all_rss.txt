@@ -27516,3 +27516,16 @@ https://api.feeddd.org/feeds/633c4438e11908407705d840 健身迷
 https://api.feeddd.org/feeds/633c4438e11908407705d848 历史论文悦读分享
 https://api.feeddd.org/feeds/633c4438e11908407705d850 瑞安德育
 https://api.feeddd.org/feeds/633c4438e11908407705d858 神秘档案研究所
+https://api.feeddd.org/feeds/633cd269e119084077067fdf 芝加哥吃货小分队
+https://api.feeddd.org/feeds/633d8de771b6fc40717d1de9 达拉斯吃货小分队
+https://api.feeddd.org/feeds/633d8de771b6fc40717d1def DC吃货小分队
+https://api.feeddd.org/feeds/633d8de771b6fc40717d1df6 休斯顿生活小分队
+https://api.feeddd.org/feeds/633d8f18e11908407707d5d0 大纽约吃货小分队
+https://api.feeddd.org/feeds/633d8f18e11908407707d5d8 西雅图吃货小分队
+https://api.feeddd.org/feeds/633d8f18e11908407707d5df 温哥华吃货小分队
+https://api.feeddd.org/feeds/633d8f19e11908407707d5e5 拉斯维加斯吃货小分队
+https://api.feeddd.org/feeds/633d8f19e11908407707d5eb 洛杉矶24小时
+https://api.feeddd.org/feeds/633d8f19e11908407707d5f2 硅谷生活大爆炸
+https://api.feeddd.org/feeds/633d904571b6fc40717d1e16 北美生活大爆炸
+https://api.feeddd.org/feeds/633d975871b6fc40717d1ede 嗯嗯找片阿
+https://api.feeddd.org/feeds/633d9ad4e11908407707f0cc 译匠
