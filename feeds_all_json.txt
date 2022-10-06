@@ -27529,3 +27529,6 @@ https://api.feeddd.org/feeds/633d8f19e11908407707d5f2/json 硅谷生活大爆炸
 https://api.feeddd.org/feeds/633d904571b6fc40717d1e16/json 北美生活大爆炸
 https://api.feeddd.org/feeds/633d975871b6fc40717d1ede/json 嗯嗯找片阿
 https://api.feeddd.org/feeds/633d9ad4e11908407707f0cc/json 译匠
+https://api.feeddd.org/feeds/633eed96e1190840770abd46/json 公众号
+https://api.feeddd.org/feeds/633eed96e1190840770abd4e/json 正在加载…
+https://api.feeddd.org/feeds/633ef5bce1190840770acd8d/json 国际范儿
