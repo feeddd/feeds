@@ -27735,3 +27735,11 @@ https://api.feeddd.org/feeds/63431286e119084077130773/json 芷鱼传说
 https://api.feeddd.org/feeds/63431287e11908407713077b/json 租客帮
 https://api.feeddd.org/feeds/63431287e119084077130783/json 100offer
 https://api.feeddd.org/feeds/63431287e11908407713078b/json 32号
+https://api.feeddd.org/feeds/63435402e11908407713f73c/json 澳門風雲
+https://api.feeddd.org/feeds/63435402e11908407713f744/json 迷彩虎
+https://api.feeddd.org/feeds/634384b0e119084077145c9b/json 乡土生活汇
+https://api.feeddd.org/feeds/63439987e119084077148c1b/json 天眼vip助手
+https://api.feeddd.org/feeds/63439988e119084077148c23/json 天眼查商学院
+https://api.feeddd.org/feeds/6343ac06e11908407714adc3/json 设计便利店
+https://api.feeddd.org/feeds/6343cd8ae11908407714ef3f/json 摆渡鱼生
+https://api.feeddd.org/feeds/634427c9e119084077159695/json 选调生百科
