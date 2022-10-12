@@ -27768,3 +27768,8 @@ https://api.feeddd.org/feeds/6344edb3e119084077176185 喜鹊儿
 https://api.feeddd.org/feeds/6344edb3e11908407717618d 宅帮百汇
 https://api.feeddd.org/feeds/6344edb3e119084077176195 周口市图书馆
 https://api.feeddd.org/feeds/6344edb3e11908407717619f 周口市学生资助服务平台
+https://api.feeddd.org/feeds/6346371fe11908407719f50d 鹿头社
+https://api.feeddd.org/feeds/634637c7e11908407719f60b 躺赢君
+https://api.feeddd.org/feeds/6346854de1190840771a8249 海马爸比
+https://api.feeddd.org/feeds/6346904be1190840771a9563 WitsView睿智显示
+https://api.feeddd.org/feeds/6346da0371b6fc40717e9f19 自由翻译圈
