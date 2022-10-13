@@ -27773,3 +27773,7 @@ https://api.feeddd.org/feeds/634637c7e11908407719f60b 躺赢君
 https://api.feeddd.org/feeds/6346854de1190840771a8249 海马爸比
 https://api.feeddd.org/feeds/6346904be1190840771a9563 WitsView睿智显示
 https://api.feeddd.org/feeds/6346da0371b6fc40717e9f19 自由翻译圈
+https://api.feeddd.org/feeds/634755c0e1190840771c7db3 SDL实验室
+https://api.feeddd.org/feeds/63475c5ae1190840771c8ce0 深信服千里目安全技术中心
+https://api.feeddd.org/feeds/6347ca45e1190840771d57e6 券业小火车
+https://api.feeddd.org/feeds/6347f7f7e1190840771d8363 仟寻
