@@ -27841,3 +27841,11 @@ https://api.feeddd.org/feeds/6349a9c3e119084077208b51/atom 烟悦
 https://api.feeddd.org/feeds/6349a9c3e119084077208b59/atom 柚子软件库
 https://api.feeddd.org/feeds/6349a9c3e119084077208b61/atom 主题君
 https://api.feeddd.org/feeds/6349a9c3e119084077208b69/atom 自学不孤单
+https://api.feeddd.org/feeds/634a1ebb71b6fc40717f4c51/atom 东兴证券
+https://api.feeddd.org/feeds/634a1ebb71b6fc40717f4c64/atom 好买研习社
+https://api.feeddd.org/feeds/634a1fe7e11908407721ca45/atom 企业数字化咨询
+https://api.feeddd.org/feeds/634a210ee11908407721cc6f/atom 中国金融杂志
+https://api.feeddd.org/feeds/634a55c271b6fc40717f4e76/atom 海通证券
+https://api.feeddd.org/feeds/634a56ede119084077222c13/atom PMTalk产品经理社区
+https://api.feeddd.org/feeds/634a6ad8e119084077224bba/atom 摸鱼kik订阅号
+https://api.feeddd.org/feeds/634a6ff7e1190840772253a9/atom 马尔代夫没有猫
