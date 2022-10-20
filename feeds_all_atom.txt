@@ -28043,3 +28043,9 @@ https://api.feeddd.org/feeds/634ffd17e1190840772e1fee/atom 清华大学金融科
 https://api.feeddd.org/feeds/634fff7171b6fc4071809bc2/atom 神策数据
 https://api.feeddd.org/feeds/634fff7171b6fc4071809bd3/atom 神州信息
 https://api.feeddd.org/feeds/635000a971b6fc4071809c47/atom 未央网weiyangx
+https://api.feeddd.org/feeds/63509b4b71b6fc407180a89b/atom 新金融琅琊榜
+https://api.feeddd.org/feeds/635150f271b6fc407180b4fc/atom 德邦证券
+https://api.feeddd.org/feeds/6351523471b6fc407180b58f/atom 方正证券小方
+https://api.feeddd.org/feeds/6351534ae11908407731414e/atom 杭州云毅网络科技有限公司
+https://api.feeddd.org/feeds/635157f371b6fc407180b61d/atom 同花顺智能科技
+https://api.feeddd.org/feeds/6351591ae119084077314e47/atom 湘财证券
