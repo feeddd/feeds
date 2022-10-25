@@ -28373,3 +28373,8 @@ https://api.feeddd.org/feeds/6356949d71b6fc40718186b4/json 中国证券投资者
 https://api.feeddd.org/feeds/6356949d71b6fc40718186bb/json 中国证券业协会培训中心
 https://api.feeddd.org/feeds/6356949d71b6fc40718186c3/json 中泰证券
 https://api.feeddd.org/feeds/6356ae5371b6fc407181882f/json 阁内看书
+https://api.feeddd.org/feeds/63573d5ee1190840773db649/json 中国电力建设企业协会
+https://api.feeddd.org/feeds/63574f33e1190840773dd8fe/json 马拉马拉
+https://api.feeddd.org/feeds/63574f33e1190840773dd908/json WHU体育
+https://api.feeddd.org/feeds/6357609171b6fc40718216cd/json 意林精选
+https://api.feeddd.org/feeds/6357dc5de1190840773ef339/json 上海城市空间艺术季
