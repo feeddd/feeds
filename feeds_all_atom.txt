@@ -28373,3 +28373,8 @@ https://api.feeddd.org/feeds/6356949d71b6fc40718186b4/atom 中国证券投资者
 https://api.feeddd.org/feeds/6356949d71b6fc40718186bb/atom 中国证券业协会培训中心
 https://api.feeddd.org/feeds/6356949d71b6fc40718186c3/atom 中泰证券
 https://api.feeddd.org/feeds/6356ae5371b6fc407181882f/atom 阁内看书
+https://api.feeddd.org/feeds/63573d5ee1190840773db649/atom 中国电力建设企业协会
+https://api.feeddd.org/feeds/63574f33e1190840773dd8fe/atom 马拉马拉
+https://api.feeddd.org/feeds/63574f33e1190840773dd908/atom WHU体育
+https://api.feeddd.org/feeds/6357609171b6fc40718216cd/atom 意林精选
+https://api.feeddd.org/feeds/6357dc5de1190840773ef339/atom 上海城市空间艺术季
