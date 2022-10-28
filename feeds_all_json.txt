@@ -29439,3 +29439,10 @@ https://api.feeddd.org/feeds/635a56bbe119084077469152/json 国金证券研究
 https://api.feeddd.org/feeds/635a83f6e11908407746e6a4/json 郭彩荣
 https://api.feeddd.org/feeds/635a83f7e11908407746e6ac/json 小吴乐意
 https://api.feeddd.org/feeds/635aaba0e1190840774730c3/json 来到地球第一天
+https://api.feeddd.org/feeds/635b0effe119084077485e8f/json 抱朴财经
+https://api.feeddd.org/feeds/635b0effe119084077485e97/json 千帆竞渡电子研究
+https://api.feeddd.org/feeds/635b0effe119084077485e9f/json 资事堂
+https://api.feeddd.org/feeds/635b489be11908407748cc33/json 九三房研社
+https://api.feeddd.org/feeds/635b4956e11908407748cdfb/json 长江证券
+https://api.feeddd.org/feeds/635b6312e11908407749033d/json 晖诚勿思
+https://api.feeddd.org/feeds/635bd71ae11908407749afea/json 山西证券
