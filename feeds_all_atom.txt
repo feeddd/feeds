@@ -29439,3 +29439,10 @@ https://api.feeddd.org/feeds/635a56bbe119084077469152/atom 国金证券研究
 https://api.feeddd.org/feeds/635a83f6e11908407746e6a4/atom 郭彩荣
 https://api.feeddd.org/feeds/635a83f7e11908407746e6ac/atom 小吴乐意
 https://api.feeddd.org/feeds/635aaba0e1190840774730c3/atom 来到地球第一天
+https://api.feeddd.org/feeds/635b0effe119084077485e8f/atom 抱朴财经
+https://api.feeddd.org/feeds/635b0effe119084077485e97/atom 千帆竞渡电子研究
+https://api.feeddd.org/feeds/635b0effe119084077485e9f/atom 资事堂
+https://api.feeddd.org/feeds/635b489be11908407748cc33/atom 九三房研社
+https://api.feeddd.org/feeds/635b4956e11908407748cdfb/atom 长江证券
+https://api.feeddd.org/feeds/635b6312e11908407749033d/atom 晖诚勿思
+https://api.feeddd.org/feeds/635bd71ae11908407749afea/atom 山西证券
