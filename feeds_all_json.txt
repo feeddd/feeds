@@ -29446,3 +29446,8 @@ https://api.feeddd.org/feeds/635b489be11908407748cc33/json 九三房研社
 https://api.feeddd.org/feeds/635b4956e11908407748cdfb/json 长江证券
 https://api.feeddd.org/feeds/635b6312e11908407749033d/json 晖诚勿思
 https://api.feeddd.org/feeds/635bd71ae11908407749afea/json 山西证券
+https://api.feeddd.org/feeds/635cda42e1190840774bd8ac/json 91体育APP
+https://api.feeddd.org/feeds/635cf37ce1190840774c0f17/json 拾遗地
+https://api.feeddd.org/feeds/635d08e071b6fc407182f93a/json 海通证券金融科技
+https://api.feeddd.org/feeds/635d0b32e1190840774c4160/json 商业经营谋略
+https://api.feeddd.org/feeds/635d390de1190840774c95ac/json 熙山资本
