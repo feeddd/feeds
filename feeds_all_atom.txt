@@ -29593,3 +29593,6 @@ https://api.feeddd.org/feeds/63600987e11908407752dbd4/atom 学哥量化交易学
 https://api.feeddd.org/feeds/63600987e11908407752dbdc/atom 野生程序猴子
 https://api.feeddd.org/feeds/63600987e11908407752dbe4/atom 游戏打折情报
 https://api.feeddd.org/feeds/63600987e11908407752dbec/atom 游戏蛮牛
+https://api.feeddd.org/feeds/63608e00e11908407753ff9a/atom 配置计算机首选
+https://api.feeddd.org/feeds/6360d59c71b6fc4071843cc6/atom 杂志迷
+https://api.feeddd.org/feeds/63611ad3e1190840775543f9/atom 东北证券
