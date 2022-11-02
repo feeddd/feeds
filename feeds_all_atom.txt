@@ -29596,3 +29596,6 @@ https://api.feeddd.org/feeds/63600987e11908407752dbec/atom 游戏蛮牛
 https://api.feeddd.org/feeds/63608e00e11908407753ff9a/atom 配置计算机首选
 https://api.feeddd.org/feeds/6360d59c71b6fc4071843cc6/atom 杂志迷
 https://api.feeddd.org/feeds/63611ad3e1190840775543f9/atom 东北证券
+https://api.feeddd.org/feeds/6361c124e11908407756a2f6/atom 华西证券赢财富
+https://api.feeddd.org/feeds/6362514be11908407757e95e/atom 工信部电子知识产权中心
+https://api.feeddd.org/feeds/63627b86e119084077584c8c/atom 券业星球
