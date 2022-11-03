@@ -29599,3 +29599,10 @@ https://api.feeddd.org/feeds/63611ad3e1190840775543f9/json 东北证券
 https://api.feeddd.org/feeds/6361c124e11908407756a2f6/json 华西证券赢财富
 https://api.feeddd.org/feeds/6362514be11908407757e95e/json 工信部电子知识产权中心
 https://api.feeddd.org/feeds/63627b86e119084077584c8c/json 券业星球
+https://api.feeddd.org/feeds/6362fff8e119084077594aa3/json 迅策科技
+https://api.feeddd.org/feeds/6363176171b6fc4071856bb8/json 企业专利观察
+https://api.feeddd.org/feeds/63639148e1190840775a470f/json 健谈计算机
+https://api.feeddd.org/feeds/63639148e1190840775a4717/json 计算机研究旗手
+https://api.feeddd.org/feeds/63639148e1190840775a471f/json 闻学臣科技研究
+https://api.feeddd.org/feeds/63639148e1190840775a4727/json 蚊子搞科研
+https://api.feeddd.org/feeds/63639149e1190840775a472f/json 吴声计事
