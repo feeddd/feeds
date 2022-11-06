@@ -29676,3 +29676,27 @@ https://api.feeddd.org/feeds/636510b3e1190840775d5131 20世纪影业
 https://api.feeddd.org/feeds/6365244e71b6fc407186181b 企业微信黑板报
 https://api.feeddd.org/feeds/636526a8e1190840775d7060 天风证券
 https://api.feeddd.org/feeds/6365c1dde1190840775eadce 樱桃私房话
+https://api.feeddd.org/feeds/6367236fe119084077623032 江师大小帮手
+https://api.feeddd.org/feeds/63677e9a71b6fc407186baf6 光子财经
+https://api.feeddd.org/feeds/6367e76ce11908407763e18d AllTests软件测试
+https://api.feeddd.org/feeds/6367e76ce11908407763e195 阿细小屋
+https://api.feeddd.org/feeds/6367e76ce11908407763e19f Butterfly Cloud
+https://api.feeddd.org/feeds/6367e76ce11908407763e1a7 常州市民卡
+https://api.feeddd.org/feeds/6367e76de11908407763e1af 程序员咩咩
+https://api.feeddd.org/feeds/6367e76de11908407763e1b7 程序员一凡
+https://api.feeddd.org/feeds/6367e76de11908407763e1bf 大喜来daselea
+https://api.feeddd.org/feeds/6367e76de11908407763e1ca 飞项 I 事项协作日程提醒
+https://api.feeddd.org/feeds/6367e76de11908407763e1d2 谷哥爱分享
+https://api.feeddd.org/feeds/6367e76de11908407763e1da 豪之诺软件
+https://api.feeddd.org/feeds/6367e76de11908407763e1e6 霍格沃兹测试学院
+https://api.feeddd.org/feeds/6367e76de11908407763e1ee iFeng科技
+https://api.feeddd.org/feeds/6367e76ee11908407763e1f6 Java团长
+https://api.feeddd.org/feeds/6367e76ee11908407763e1fe 美区苹果id分享账号
+https://api.feeddd.org/feeds/6367e76ee11908407763e206 南京公积金
+https://api.feeddd.org/feeds/6367e76ee11908407763e20e 南京市牛牛章鱼餐饮店
+https://api.feeddd.org/feeds/6367e76ee11908407763e216 柠檬班软件测试
+https://api.feeddd.org/feeds/6367e76ee11908407763e21e 券小主南京站
+https://api.feeddd.org/feeds/6367e76ee11908407763e226 松勤软件测试
+https://api.feeddd.org/feeds/6367e76ee11908407763e22e 随心邮
+https://api.feeddd.org/feeds/6367e76ee11908407763e236 云柜社区
+https://api.feeddd.org/feeds/6367e76fe11908407763e23e 中国联通江苏微厅
