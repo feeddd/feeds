@@ -29701,3 +29701,15 @@ https://api.feeddd.org/feeds/6367e76ee11908407763e22e/atom 随心邮
 https://api.feeddd.org/feeds/6367e76ee11908407763e236/atom 云柜社区
 https://api.feeddd.org/feeds/6367e76fe11908407763e23e/atom 中国联通江苏微厅
 https://api.feeddd.org/feeds/6368c7e9e119084077660c1f/atom 编码安全研究
+https://api.feeddd.org/feeds/6369a457e11908407767d11f/atom 景芳说
+https://api.feeddd.org/feeds/6369be95e119084077681384/atom 报告搜一搜
+https://api.feeddd.org/feeds/6369be95e11908407768138c/atom BOSS直聘
+https://api.feeddd.org/feeds/6369be95e119084077681394/atom 滴滴老年版
+https://api.feeddd.org/feeds/6369be95e11908407768139c/atom 皖事通
+https://api.feeddd.org/feeds/6369be96e1190840776813a4/atom 萤小微
+https://api.feeddd.org/feeds/6369be96e1190840776813ad/atom 小卖柜
+https://api.feeddd.org/feeds/6369be96e1190840776813b5/atom 摩拜单车
+https://api.feeddd.org/feeds/6369bef2e11908407768149d/atom 会会读书
+https://api.feeddd.org/feeds/6369bef2e1190840776814a5/atom SoBooksNet
+https://api.feeddd.org/feeds/636a196a71b6fc40718768d5/atom IPO早餐
+https://api.feeddd.org/feeds/636a196a71b6fc40718768dc/atom 中国区域经济50人论坛
