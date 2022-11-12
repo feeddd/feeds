@@ -29775,3 +29775,5 @@ https://api.feeddd.org/feeds/636e0af9e119084077722126/atom 辛上邪
 https://api.feeddd.org/feeds/636e39a9e1190840777276f2/atom 北大就业
 https://api.feeddd.org/feeds/636e41a8e119084077728463/atom 几何小姐姐
 https://api.feeddd.org/feeds/636e4fb2e119084077729c3f/atom 历史上的今天i
+https://api.feeddd.org/feeds/636f55a3e11908407774f34a/atom 先知书店店长荐书
+https://api.feeddd.org/feeds/636fa94a71b6fc407188d550/atom 毛桃财经
