@@ -29777,3 +29777,6 @@ https://api.feeddd.org/feeds/636e41a8e119084077728463/atom 几何小姐姐
 https://api.feeddd.org/feeds/636e4fb2e119084077729c3f/atom 历史上的今天i
 https://api.feeddd.org/feeds/636f55a3e11908407774f34a/atom 先知书店店长荐书
 https://api.feeddd.org/feeds/636fa94a71b6fc407188d550/atom 毛桃财经
+https://api.feeddd.org/feeds/637036b5e11908407777ad19/atom 深港书评
+https://api.feeddd.org/feeds/637055b9e11908407777f131/atom 网络安全与取证研究
+https://api.feeddd.org/feeds/637116d9e119084077796683/atom LYpea
