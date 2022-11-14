@@ -29780,3 +29780,4 @@ https://api.feeddd.org/feeds/636fa94a71b6fc407188d550/atom 毛桃财经
 https://api.feeddd.org/feeds/637036b5e11908407777ad19/atom 深港书评
 https://api.feeddd.org/feeds/637055b9e11908407777f131/atom 网络安全与取证研究
 https://api.feeddd.org/feeds/637116d9e119084077796683/atom LYpea
+https://api.feeddd.org/feeds/6371a836e1190840777b3651/atom 兽类多样性监测网
