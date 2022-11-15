@@ -29781,3 +29781,9 @@ https://api.feeddd.org/feeds/637036b5e11908407777ad19/atom 深港书评
 https://api.feeddd.org/feeds/637055b9e11908407777f131/atom 网络安全与取证研究
 https://api.feeddd.org/feeds/637116d9e119084077796683/atom LYpea
 https://api.feeddd.org/feeds/6371a836e1190840777b3651/atom 兽类多样性监测网
+https://api.feeddd.org/feeds/6372d31771b6fc407189011e/atom 华泰证券行知
+https://api.feeddd.org/feeds/6372d69f71b6fc4071890291/atom 券业谈
+https://api.feeddd.org/feeds/6372d7d0e1190840777e4491/atom 申万宏源证券
+https://api.feeddd.org/feeds/6372e84071b6fc4071890397/atom 华创食饮
+https://api.feeddd.org/feeds/637339f8e1190840777f322a/atom 文史知识
+https://api.feeddd.org/feeds/63736ed5e1190840777fa5ea/atom 四季办公室
