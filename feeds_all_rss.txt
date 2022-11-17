@@ -29868,3 +29868,7 @@ https://api.feeddd.org/feeds/6374882be11908407782c153 中国医大一院智慧�
 https://api.feeddd.org/feeds/6374882be11908407782c15b 中国银行辽宁分行
 https://api.feeddd.org/feeds/6374e01871b6fc40718927a7 华兴证券微服务
 https://api.feeddd.org/feeds/6374e4c4e1190840778377ac 腾讯金融科技
+https://api.feeddd.org/feeds/637582f071b6fc40718932cb 内纠局
+https://api.feeddd.org/feeds/63758853e119084077853991 i 小声读书
+https://api.feeddd.org/feeds/6375948671b6fc40718933a7 每日英语听力丨双语精读
+https://api.feeddd.org/feeds/6375fac0e119084077866d19 大问题Dialectic
