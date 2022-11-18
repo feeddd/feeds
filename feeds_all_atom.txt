@@ -29872,3 +29872,7 @@ https://api.feeddd.org/feeds/637582f071b6fc40718932cb/atom 内纠局
 https://api.feeddd.org/feeds/63758853e119084077853991/atom i 小声读书
 https://api.feeddd.org/feeds/6375948671b6fc40718933a7/atom 每日英语听力丨双语精读
 https://api.feeddd.org/feeds/6375fac0e119084077866d19/atom 大问题Dialectic
+https://api.feeddd.org/feeds/6376d9efe11908407788659c/atom 合肥市人民政府发布
+https://api.feeddd.org/feeds/6376d9efe1190840778865a4/atom 六安发布
+https://api.feeddd.org/feeds/6376d9efe1190840778865ac/atom 舒城发布
+https://api.feeddd.org/feeds/63775dc5e1190840778997cc/atom 计算机方略
