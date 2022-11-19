@@ -29876,3 +29876,17 @@ https://api.feeddd.org/feeds/6376d9efe11908407788659c 合肥市人民政府发�
 https://api.feeddd.org/feeds/6376d9efe1190840778865a4 六安发布
 https://api.feeddd.org/feeds/6376d9efe1190840778865ac 舒城发布
 https://api.feeddd.org/feeds/63775dc5e1190840778997cc 计算机方略
+https://api.feeddd.org/feeds/63782b69e1190840778bff7a 同济大学浙江学院
+https://api.feeddd.org/feeds/63782b6ae1190840778bff82 同济大学浙江学院官方订阅号
+https://api.feeddd.org/feeds/63782b6ae1190840778bff8a 同济大学浙江学院会计系
+https://api.feeddd.org/feeds/63782b6ae1190840778bff92 同济大学浙江学院校友会
+https://api.feeddd.org/feeds/63782b6ae1190840778bff9a 同浙就业
+https://api.feeddd.org/feeds/63782b6ae1190840778bffa2 同浙青年
+https://api.feeddd.org/feeds/63782b6ae1190840778bffaa 同浙信客
+https://api.feeddd.org/feeds/63782b6ae1190840778bffb2 同浙心理中心
+https://api.feeddd.org/feeds/63782b6ae1190840778bffba 同浙学工
+https://api.feeddd.org/feeds/637835b2e1190840778c0e7f 铯镨
+https://api.feeddd.org/feeds/6378c62fe1190840778d3d00 Blender科研绘图
+https://api.feeddd.org/feeds/6378e16fe1190840778d6da9 金仕达金融科技
+https://api.feeddd.org/feeds/6378e3cde1190840778d726a 券业产品
+https://api.feeddd.org/feeds/6378e87ce1190840778d7ca8 易问易答
