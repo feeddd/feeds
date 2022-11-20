@@ -29890,3 +29890,4 @@ https://api.feeddd.org/feeds/6378c62fe1190840778d3d00/atom Blender科研绘图
 https://api.feeddd.org/feeds/6378e16fe1190840778d6da9/atom 金仕达金融科技
 https://api.feeddd.org/feeds/6378e3cde1190840778d726a/atom 券业产品
 https://api.feeddd.org/feeds/6378e87ce1190840778d7ca8/atom 易问易答
+https://api.feeddd.org/feeds/6379a751e1190840778fc1cf/atom 长线思考
