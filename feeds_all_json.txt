@@ -29891,3 +29891,7 @@ https://api.feeddd.org/feeds/6378e16fe1190840778d6da9/json 金仕达金融科技
 https://api.feeddd.org/feeds/6378e3cde1190840778d726a/json 券业产品
 https://api.feeddd.org/feeds/6378e87ce1190840778d7ca8/json 易问易答
 https://api.feeddd.org/feeds/6379a751e1190840778fc1cf/json 长线思考
+https://api.feeddd.org/feeds/637a9a2ae11908407792c370/json 自由会客厅
+https://api.feeddd.org/feeds/637ae9c3e11908407793a8a0/json 智联招聘企业版
+https://api.feeddd.org/feeds/637b40bce11908407794917f/json 海扬刑辩
+https://api.feeddd.org/feeds/637b779f71b6fc40718a94aa/json 顺控交投
