@@ -30605,3 +30605,48 @@ https://api.feeddd.org/feeds/637e3ebce1190840779cf3cc 中信证券固定收益�
 https://api.feeddd.org/feeds/637e3ebce1190840779cf3d4 钟正生经济分析
 https://api.feeddd.org/feeds/637e3ebce1190840779cf3df 中资离岸债券
 https://api.feeddd.org/feeds/637e3ebde1190840779cf3e7 资管小兵
+https://api.feeddd.org/feeds/637f3f72e1190840779f0d8a ABS视角
+https://api.feeddd.org/feeds/637f3f73e1190840779f0d92 Andy随想
+https://api.feeddd.org/feeds/637f3f73e1190840779f0d9a 抱团取暖trader姜
+https://api.feeddd.org/feeds/637f3f73e1190840779f0da2 比推BitpushNews
+https://api.feeddd.org/feeds/637f3f73e1190840779f0daa Career In 投行PEVC
+https://api.feeddd.org/feeds/637f3f73e1190840779f0db2 陈曦固收研究
+https://api.feeddd.org/feeds/637f3f73e1190840779f0dba 穿越牛熊
+https://api.feeddd.org/feeds/637f3f73e1190840779f0dc2 CNABS
+https://api.feeddd.org/feeds/637f3f73e1190840779f0dca DCM研究
+https://api.feeddd.org/feeds/637f3f73e1190840779f0dd2 顶峰资管
+https://api.feeddd.org/feeds/637f3f74e1190840779f0ddb 豆瓜的投资笔记
+https://api.feeddd.org/feeds/637f3f74e1190840779f0de3 符合预期的线性外推
+https://api.feeddd.org/feeds/637f3f74e1190840779f0deb Global Macro Strategy
+https://api.feeddd.org/feeds/637f3f74e1190840779f0df3 国海良时期货微平台
+https://api.feeddd.org/feeds/637f3f74e1190840779f0dfb 固收汇
+https://api.feeddd.org/feeds/637f3f74e1190840779f0e03 股债小笔记
+https://api.feeddd.org/feeds/637f3f74e1190840779f0e0b 何处扁舟子
+https://api.feeddd.org/feeds/637f3f74e1190840779f0e13 黑链小圈
+https://api.feeddd.org/feeds/637f3f74e1190840779f0e1b 宏观二向箔
+https://api.feeddd.org/feeds/637f3f75e1190840779f0e23 宏观芝道
+https://api.feeddd.org/feeds/637f3f75e1190840779f0e2e 花荣
+https://api.feeddd.org/feeds/637f3f75e1190840779f0e36 汇事
+https://api.feeddd.org/feeds/637f3f75e1190840779f0e3e 狐狸的ABS江湖
+https://api.feeddd.org/feeds/637f3f75e1190840779f0e46 交易员观察
+https://api.feeddd.org/feeds/637f3f75e1190840779f0e4e 交易员LQ
+https://api.feeddd.org/feeds/637f3f75e1190840779f0e56 经史札记
+https://api.feeddd.org/feeds/637f3f75e1190840779f0e5e 境外债券
+https://api.feeddd.org/feeds/637f3f76e1190840779f0e66 看图做债
+https://api.feeddd.org/feeds/637f3f76e1190840779f0e6e 枯荣自有道
+https://api.feeddd.org/feeds/637f3f76e1190840779f0e76 量化历史研究
+https://api.feeddd.org/feeds/637f3f76e1190840779f0e7e 炼金术士的被炉
+https://api.feeddd.org/feeds/637f3f76e1190840779f0e86 李蓓的个人号
+https://api.feeddd.org/feeds/637f3f76e1190840779f0e8e 利率债观察
+https://api.feeddd.org/feeds/637f3f76e1190840779f0e96 陇金客
+https://api.feeddd.org/feeds/637f3f76e1190840779f0e9e loooooooost
+https://api.feeddd.org/feeds/637f3f76e1190840779f0ea6 明晰笔谈
+https://api.feeddd.org/feeds/637f3f77e1190840779f0eae 明晰笔谈 与你同行
+https://api.feeddd.org/feeds/637f3f77e1190840779f0eb6 攀涛投资笔记
+https://api.feeddd.org/feeds/637f3f77e1190840779f0ebe 平安利顺货币经纪
+https://api.feeddd.org/feeds/637f3f77e1190840779f0ec6 普兰金服
+https://api.feeddd.org/feeds/637f3f77e1190840779f0ece 覃汉投资笔记
+https://api.feeddd.org/feeds/637f3f77e1190840779f0ed6 债市任逍遥
+https://api.feeddd.org/feeds/637f78e7e1190840779f8942 无锡气象订阅号
+https://api.feeddd.org/feeds/637f7edbe1190840779f9403 锦技社
+https://api.feeddd.org/feeds/637f802ee1190840779f96f9 玩转大学云印社
