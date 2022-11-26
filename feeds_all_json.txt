@@ -30708,3 +30708,9 @@ https://api.feeddd.org/feeds/6380b174e119084077a25e22/json 张君学习圈
 https://api.feeddd.org/feeds/6380b174e119084077a25e2a/json 自由职业的圈圈
 https://api.feeddd.org/feeds/6380cb25e119084077a28248/json 信达硬科技
 https://api.feeddd.org/feeds/6380e2f2e119084077a2a433/json 腾讯云智慧建筑与不动产
+https://api.feeddd.org/feeds/6381e8dbe119084077a535e1/json INDIGO 的数字镜像
+https://api.feeddd.org/feeds/6381e8dbe119084077a535e9/json 剪枝者
+https://api.feeddd.org/feeds/6381e8dbe119084077a535f1/json 天使湾创投
+https://api.feeddd.org/feeds/6381e8dbe119084077a535f9/json 足羽
+https://api.feeddd.org/feeds/6381f1cc71b6fc40718b8ff0/json 奶啊奶啊盐
+https://api.feeddd.org/feeds/63826996e119084077a61e9d/json LP实验与分析
