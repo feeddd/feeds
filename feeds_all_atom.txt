@@ -34194,3 +34194,14 @@ https://api.feeddd.org/feeds/6392ff22e119084077cef669/atom 青羊反诈
 https://api.feeddd.org/feeds/639319e571b6fc4071901816/atom 科学的历史观
 https://api.feeddd.org/feeds/639319e571b6fc407190181c/atom 顺网星研社
 https://api.feeddd.org/feeds/639319e571b6fc4071901825/atom 中国视听大数据
+https://api.feeddd.org/feeds/6393ee0571b6fc407190bdd5/atom 中国音数协游戏工委
+https://api.feeddd.org/feeds/63943a2971b6fc407190c336/atom JK私影
+https://api.feeddd.org/feeds/639458c0e119084077d1a004/atom 民生证券研究院
+https://api.feeddd.org/feeds/63946ca6e119084077d1ba7b/atom 北仑公安
+https://api.feeddd.org/feeds/63946ca6e119084077d1ba87/atom 北仑交警
+https://api.feeddd.org/feeds/63946ca6e119084077d1baa2/atom 宁波大榭开发区医院
+https://api.feeddd.org/feeds/63946dc2e119084077d1bbdd/atom 宁波地铁运营
+https://api.feeddd.org/feeds/63946dc2e119084077d1bbe7/atom 宁波市民卡
+https://api.feeddd.org/feeds/63946dc2e119084077d1bbed/atom 嵌入式技术公开课
+https://api.feeddd.org/feeds/63946dc3e119084077d1bbf6/atom 人事变动速递
+https://api.feeddd.org/feeds/63949f42e119084077d1fd66/atom 南阁固收
