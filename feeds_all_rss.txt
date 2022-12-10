@@ -34194,3 +34194,14 @@ https://api.feeddd.org/feeds/6392ff22e119084077cef669 青羊反诈
 https://api.feeddd.org/feeds/639319e571b6fc4071901816 科学的历史观
 https://api.feeddd.org/feeds/639319e571b6fc407190181c 顺网星研社
 https://api.feeddd.org/feeds/639319e571b6fc4071901825 中国视听大数据
+https://api.feeddd.org/feeds/6393ee0571b6fc407190bdd5 中国音数协游戏工委
+https://api.feeddd.org/feeds/63943a2971b6fc407190c336 JK私影
+https://api.feeddd.org/feeds/639458c0e119084077d1a004 民生证券研究院
+https://api.feeddd.org/feeds/63946ca6e119084077d1ba7b 北仑公安
+https://api.feeddd.org/feeds/63946ca6e119084077d1ba87 北仑交警
+https://api.feeddd.org/feeds/63946ca6e119084077d1baa2 宁波大榭开发区医院
+https://api.feeddd.org/feeds/63946dc2e119084077d1bbdd 宁波地铁运营
+https://api.feeddd.org/feeds/63946dc2e119084077d1bbe7 宁波市民卡
+https://api.feeddd.org/feeds/63946dc2e119084077d1bbed 嵌入式技术公开课
+https://api.feeddd.org/feeds/63946dc3e119084077d1bbf6 人事变动速递
+https://api.feeddd.org/feeds/63949f42e119084077d1fd66 南阁固收
