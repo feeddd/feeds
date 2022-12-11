@@ -34205,3 +34205,7 @@ https://api.feeddd.org/feeds/63946dc2e119084077d1bbe7/json 宁波市民卡
 https://api.feeddd.org/feeds/63946dc2e119084077d1bbed/json 嵌入式技术公开课
 https://api.feeddd.org/feeds/63946dc3e119084077d1bbf6/json 人事变动速递
 https://api.feeddd.org/feeds/63949f42e119084077d1fd66/json 南阁固收
+https://api.feeddd.org/feeds/63958978e119084077d46ad0/json 丙哥Digital Currency研习社
+https://api.feeddd.org/feeds/63958978e119084077d46ad8/json 建走偏锋
+https://api.feeddd.org/feeds/63958979e119084077d46ae3/json 属性慵懒
+https://api.feeddd.org/feeds/63958979e119084077d46aeb/json 意夏
