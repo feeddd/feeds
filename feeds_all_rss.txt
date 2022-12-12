@@ -34209,3 +34209,7 @@ https://api.feeddd.org/feeds/63958978e119084077d46ad0 丙哥Digital Currency研�
 https://api.feeddd.org/feeds/63958978e119084077d46ad8 建走偏锋
 https://api.feeddd.org/feeds/63958979e119084077d46ae3 属性慵懒
 https://api.feeddd.org/feeds/63958979e119084077d46aeb 意夏
+https://api.feeddd.org/feeds/63968fd5e119084077d802e0 转债星球
+https://api.feeddd.org/feeds/6396f3aee119084077da2c0b 艾诺说
+https://api.feeddd.org/feeds/63971a33e119084077dabf2d 青年北仑
+https://api.feeddd.org/feeds/639745a0e119084077db9cb7 架构文摘
