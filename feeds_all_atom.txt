@@ -34209,3 +34209,7 @@ https://api.feeddd.org/feeds/63958978e119084077d46ad0/atom 丙哥Digital Currenc
 https://api.feeddd.org/feeds/63958978e119084077d46ad8/atom 建走偏锋
 https://api.feeddd.org/feeds/63958979e119084077d46ae3/atom 属性慵懒
 https://api.feeddd.org/feeds/63958979e119084077d46aeb/atom 意夏
+https://api.feeddd.org/feeds/63968fd5e119084077d802e0/atom 转债星球
+https://api.feeddd.org/feeds/6396f3aee119084077da2c0b/atom 艾诺说
+https://api.feeddd.org/feeds/63971a33e119084077dabf2d/atom 青年北仑
+https://api.feeddd.org/feeds/639745a0e119084077db9cb7/atom 架构文摘
