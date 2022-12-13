@@ -34213,3 +34213,13 @@ https://api.feeddd.org/feeds/63968fd5e119084077d802e0/atom 转债星球
 https://api.feeddd.org/feeds/6396f3aee119084077da2c0b/atom 艾诺说
 https://api.feeddd.org/feeds/63971a33e119084077dabf2d/atom 青年北仑
 https://api.feeddd.org/feeds/639745a0e119084077db9cb7/atom 架构文摘
+https://api.feeddd.org/feeds/63981ac271b6fc407192cd89/atom 子言读书
+https://api.feeddd.org/feeds/6398279de119084077df9938/atom 智慧城市论谈
+https://api.feeddd.org/feeds/63986e0ce119084077e0faa9/atom 宁波大榭开发区文教事业发展中心
+https://api.feeddd.org/feeds/63989a6ae119084077e1e28a/atom 价值观不正常小组
+https://api.feeddd.org/feeds/63989a6ae119084077e1e292/atom 奇迹年
+https://api.feeddd.org/feeds/63989a6ae119084077e1e29d/atom 扎南
+https://api.feeddd.org/feeds/63989a8b71b6fc407192d7b6/atom 劳阿毛
+https://api.feeddd.org/feeds/6398b381e119084077e21712/atom 力说
+https://api.feeddd.org/feeds/6398b381e119084077e2171a/atom 瓦砾村夫
+https://api.feeddd.org/feeds/6398b381e119084077e21722/atom 小白番薯郎
