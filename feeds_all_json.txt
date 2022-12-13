@@ -34213,3 +34213,13 @@ https://api.feeddd.org/feeds/63968fd5e119084077d802e0/json 转债星球
 https://api.feeddd.org/feeds/6396f3aee119084077da2c0b/json 艾诺说
 https://api.feeddd.org/feeds/63971a33e119084077dabf2d/json 青年北仑
 https://api.feeddd.org/feeds/639745a0e119084077db9cb7/json 架构文摘
+https://api.feeddd.org/feeds/63981ac271b6fc407192cd89/json 子言读书
+https://api.feeddd.org/feeds/6398279de119084077df9938/json 智慧城市论谈
+https://api.feeddd.org/feeds/63986e0ce119084077e0faa9/json 宁波大榭开发区文教事业发展中心
+https://api.feeddd.org/feeds/63989a6ae119084077e1e28a/json 价值观不正常小组
+https://api.feeddd.org/feeds/63989a6ae119084077e1e292/json 奇迹年
+https://api.feeddd.org/feeds/63989a6ae119084077e1e29d/json 扎南
+https://api.feeddd.org/feeds/63989a8b71b6fc407192d7b6/json 劳阿毛
+https://api.feeddd.org/feeds/6398b381e119084077e21712/json 力说
+https://api.feeddd.org/feeds/6398b381e119084077e2171a/json 瓦砾村夫
+https://api.feeddd.org/feeds/6398b381e119084077e21722/json 小白番薯郎
