@@ -34434,3 +34434,5 @@ https://api.feeddd.org/feeds/639daab9e119084077ee221e 瑞士吉博力
 https://api.feeddd.org/feeds/639daab9e119084077ee2226 希言館
 https://api.feeddd.org/feeds/639daabae119084077ee222e 油麻菜
 https://api.feeddd.org/feeds/639daabae119084077ee2236 针灸匠张宝旬
+https://api.feeddd.org/feeds/639eea94e119084077f0fec2 上海人力资源和社会保障
+https://api.feeddd.org/feeds/639efdeee119084077f12a05 广州高新区发布
