@@ -34436,3 +34436,8 @@ https://api.feeddd.org/feeds/639daabae119084077ee222e 油麻菜
 https://api.feeddd.org/feeds/639daabae119084077ee2236 针灸匠张宝旬
 https://api.feeddd.org/feeds/639eea94e119084077f0fec2 上海人力资源和社会保障
 https://api.feeddd.org/feeds/639efdeee119084077f12a05 广州高新区发布
+https://api.feeddd.org/feeds/639fc22671b6fc4071950005 上观新闻
+https://api.feeddd.org/feeds/639fc22771b6fc407195000f 新民晚报
+https://api.feeddd.org/feeds/63a0427ee119084077f4716c WEMO Design
+https://api.feeddd.org/feeds/63a0427ee119084077f47174 兆日UCD
+https://api.feeddd.org/feeds/63a06e2de119084077f4da6a BRTV北京时间
