@@ -34441,3 +34441,11 @@ https://api.feeddd.org/feeds/639fc22771b6fc407195000f 新民晚报
 https://api.feeddd.org/feeds/63a0427ee119084077f4716c WEMO Design
 https://api.feeddd.org/feeds/63a0427ee119084077f47174 兆日UCD
 https://api.feeddd.org/feeds/63a06e2de119084077f4da6a BRTV北京时间
+https://api.feeddd.org/feeds/63a1254571b6fc40719512f7 价值投机说
+https://api.feeddd.org/feeds/63a1328ae119084077f6bf62 北京银行
+https://api.feeddd.org/feeds/63a1328ae119084077f6bf6a 北京租房汇
+https://api.feeddd.org/feeds/63a1328ae119084077f6bf72 中国劳动保障报
+https://api.feeddd.org/feeds/63a1380871b6fc40719514d0 成才与就业
+https://api.feeddd.org/feeds/63a1380871b6fc40719514d8 黄浦就业
+https://api.feeddd.org/feeds/63a13930e119084077f6d056 乐业上海
+https://api.feeddd.org/feeds/63a1c122e119084077f80dc9 证券期货业金融科技中心
