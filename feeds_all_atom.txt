@@ -34449,3 +34449,11 @@ https://api.feeddd.org/feeds/63a1380871b6fc40719514d0/atom 成才与就业
 https://api.feeddd.org/feeds/63a1380871b6fc40719514d8/atom 黄浦就业
 https://api.feeddd.org/feeds/63a13930e119084077f6d056/atom 乐业上海
 https://api.feeddd.org/feeds/63a1c122e119084077f80dc9/atom 证券期货业金融科技中心
+https://api.feeddd.org/feeds/63a2802271b6fc407195c071/atom 甘肃发布
+https://api.feeddd.org/feeds/63a2e874e119084077faeff4/atom 傲客城市菜单
+https://api.feeddd.org/feeds/63a2e874e119084077faeffc/atom GBF骑空士养老中心
+https://api.feeddd.org/feeds/63a2e874e119084077faf004/atom 笼包粑粑
+https://api.feeddd.org/feeds/63a3081ee119084077fb3ebe/atom 动点出海
+https://api.feeddd.org/feeds/63a3094de119084077fb4241/atom Enjoy出海开发者服务平台
+https://api.feeddd.org/feeds/63a3094ee119084077fb4261/atom Papaya木瓜出海营销
+https://api.feeddd.org/feeds/63a30ba9e119084077fb4915/atom 扬帆出海
