@@ -35675,3 +35675,5 @@ https://api.feeddd.org/feeds/63a86687e1190840770848c6/atom 33楼老宋
 https://api.feeddd.org/feeds/63a86687e1190840770848d3/atom 3U飞行部
 https://api.feeddd.org/feeds/63a86687e1190840770848e1/atom 51CTO开源技术社区
 https://api.feeddd.org/feeds/63a86a40e119084077085d0a/atom 澄心商社
+https://api.feeddd.org/feeds/63a93743e1190840770ad0c7/atom 妄想现实骑士团
+https://api.feeddd.org/feeds/63a97670e1190840770b7646/atom 小红书UED
