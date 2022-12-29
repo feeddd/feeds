@@ -35870,3 +35870,12 @@ https://api.feeddd.org/feeds/63aaa9ebe1190840770e8d33/atom 名师说
 https://api.feeddd.org/feeds/63aaa9ebe1190840770e8d3e/atom Lipro 智能家居
 https://api.feeddd.org/feeds/63aaec76e1190840770f248b/atom Asuka109
 https://api.feeddd.org/feeds/63aaec76e1190840770f249a/atom 老曾胡说
+https://api.feeddd.org/feeds/63ad9b98e11908407716169f/atom boardmix博思白板
+https://api.feeddd.org/feeds/63ad9b98e1190840771616a7/atom 长房云尚公馆
+https://api.feeddd.org/feeds/63ad9b98e1190840771616af/atom 大淘宝前端技术
+https://api.feeddd.org/feeds/63ad9b99e1190840771616b7/atom Fabrie文档
+https://api.feeddd.org/feeds/63ad9b99e1190840771616bf/atom 架构师精选
+https://api.feeddd.org/feeds/63ad9b99e1190840771616ca/atom Pixso云设计
+https://api.feeddd.org/feeds/63ad9b99e1190840771616d5/atom 前端食堂
+https://api.feeddd.org/feeds/63ad9b9ae1190840771616dd/atom 前端西瓜哥
+https://api.feeddd.org/feeds/63ae0096e11908407716de4d/atom 谈呓录
