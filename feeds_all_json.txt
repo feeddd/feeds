@@ -35879,3 +35879,6 @@ https://api.feeddd.org/feeds/63ad9b99e1190840771616ca/json Pixso云设计
 https://api.feeddd.org/feeds/63ad9b99e1190840771616d5/json 前端食堂
 https://api.feeddd.org/feeds/63ad9b9ae1190840771616dd/json 前端西瓜哥
 https://api.feeddd.org/feeds/63ae0096e11908407716de4d/json 谈呓录
+https://api.feeddd.org/feeds/63ae9b74e119084077189d17/json BH咖啡学习
+https://api.feeddd.org/feeds/63ae9b74e119084077189d1f/json BH中文
+https://api.feeddd.org/feeds/63aef26b71b6fc40719a2046/json 大冰的小屋
