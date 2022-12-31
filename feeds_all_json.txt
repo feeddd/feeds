@@ -35882,3 +35882,5 @@ https://api.feeddd.org/feeds/63ae0096e11908407716de4d/json 谈呓录
 https://api.feeddd.org/feeds/63ae9b74e119084077189d17/json BH咖啡学习
 https://api.feeddd.org/feeds/63ae9b74e119084077189d1f/json BH中文
 https://api.feeddd.org/feeds/63aef26b71b6fc40719a2046/json 大冰的小屋
+https://api.feeddd.org/feeds/63b0189971b6fc40719a2ebb/json 出海互联网法律观察
+https://api.feeddd.org/feeds/63b019c3e1190840771cb53f/json 猎豹出海营销
