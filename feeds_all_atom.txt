@@ -36171,3 +36171,25 @@ https://api.feeddd.org/feeds/63b29453e11908407722fd0e/atom 360技术工程
 https://api.feeddd.org/feeds/63b29453e11908407722fd16/atom 360云计算平台
 https://api.feeddd.org/feeds/63b29453e11908407722fd1e/atom 58AILab
 https://api.feeddd.org/feeds/63b3a98a71b6fc40719afaf8/atom 瑞金微职介
+https://api.feeddd.org/feeds/63b4c9e171b6fc40719b08ab/atom 一诺农旅规划
+https://api.feeddd.org/feeds/63b4cb0471b6fc40719b0917/atom 蜂业杂记
+https://api.feeddd.org/feeds/63b4cb0471b6fc40719b092d/atom 中国三农发布
+https://api.feeddd.org/feeds/63b4ea9ce119084077298d89/atom 宠物医师网
+https://api.feeddd.org/feeds/63b4ea9ce119084077298d97/atom 河北农业大学乡村振兴研究院
+https://api.feeddd.org/feeds/63b51a9971b6fc40719b1188/atom 农业大数据资讯
+https://api.feeddd.org/feeds/63b51a9971b6fc40719b1195/atom 全国农技推广
+https://api.feeddd.org/feeds/63b529cf71b6fc40719b11d1/atom 福建疾控
+https://api.feeddd.org/feeds/63b529cf71b6fc40719b11d7/atom 楼市大侦探
+https://api.feeddd.org/feeds/63b52d6571b6fc40719b11f9/atom 家在鼓楼
+https://api.feeddd.org/feeds/63b52d6571b6fc40719b120e/atom 987私家车广播
+https://api.feeddd.org/feeds/63b537dd71b6fc40719b12d2/atom 好年华 聚福州
+https://api.feeddd.org/feeds/63b5390f71b6fc40719b12e2/atom 福州房产
+https://api.feeddd.org/feeds/63b5390f71b6fc40719b12eb/atom 中国平潭
+https://api.feeddd.org/feeds/63b585a8e1190840772b03c2/atom 缠债的记事本
+https://api.feeddd.org/feeds/63b585a8e1190840772b03ca/atom 覃汉研究笔记
+https://api.feeddd.org/feeds/63b5a3d6e1190840772b3bc7/atom 农业行业观察
+https://api.feeddd.org/feeds/63b5a3d6e1190840772b3bd4/atom 当代农机
+https://api.feeddd.org/feeds/63b5a4e8e1190840772b3f00/atom 农业科技前沿与政策咨询
+https://api.feeddd.org/feeds/63b5a4e8e1190840772b3f0d/atom 农业信息化
+https://api.feeddd.org/feeds/63b5a4e8e1190840772b3f15/atom 智慧农业期刊
+https://api.feeddd.org/feeds/63b5a60a71b6fc40719b1c50/atom 国科农研院
