@@ -36193,3 +36193,8 @@ https://api.feeddd.org/feeds/63b5a4e8e1190840772b3f00 农业科技前沿与政�
 https://api.feeddd.org/feeds/63b5a4e8e1190840772b3f0d 农业信息化
 https://api.feeddd.org/feeds/63b5a4e8e1190840772b3f15 智慧农业期刊
 https://api.feeddd.org/feeds/63b5a60a71b6fc40719b1c50 国科农研院
+https://api.feeddd.org/feeds/63b60680e1190840772ca235 半导体行业圈
+https://api.feeddd.org/feeds/63b61ee6e1190840772cdcef 福州本地宝
+https://api.feeddd.org/feeds/63b62011e1190840772ce04c 还是叫XX吧
+https://api.feeddd.org/feeds/63b6bbc3e1190840772e5128 房产教练周小方
+https://api.feeddd.org/feeds/63b6c30fe1190840772e7fcf 送喜官
