@@ -36193,3 +36193,8 @@ https://api.feeddd.org/feeds/63b5a4e8e1190840772b3f00/atom 农业科技前沿与
 https://api.feeddd.org/feeds/63b5a4e8e1190840772b3f0d/atom 农业信息化
 https://api.feeddd.org/feeds/63b5a4e8e1190840772b3f15/atom 智慧农业期刊
 https://api.feeddd.org/feeds/63b5a60a71b6fc40719b1c50/atom 国科农研院
+https://api.feeddd.org/feeds/63b60680e1190840772ca235/atom 半导体行业圈
+https://api.feeddd.org/feeds/63b61ee6e1190840772cdcef/atom 福州本地宝
+https://api.feeddd.org/feeds/63b62011e1190840772ce04c/atom 还是叫XX吧
+https://api.feeddd.org/feeds/63b6bbc3e1190840772e5128/atom 房产教练周小方
+https://api.feeddd.org/feeds/63b6c30fe1190840772e7fcf/atom 送喜官
