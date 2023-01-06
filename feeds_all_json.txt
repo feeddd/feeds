@@ -36198,3 +36198,8 @@ https://api.feeddd.org/feeds/63b61ee6e1190840772cdcef/json 福州本地宝
 https://api.feeddd.org/feeds/63b62011e1190840772ce04c/json 还是叫XX吧
 https://api.feeddd.org/feeds/63b6bbc3e1190840772e5128/json 房产教练周小方
 https://api.feeddd.org/feeds/63b6c30fe1190840772e7fcf/json 送喜官
+https://api.feeddd.org/feeds/63b77169e11908407730a9a4/json 引领农业服务
+https://api.feeddd.org/feeds/63b779cce11908407730c137/json 东门新家园
+https://api.feeddd.org/feeds/63b779cce11908407730c15d/json 南东零距离
+https://api.feeddd.org/feeds/63b77b03e11908407730c4fb/json 外滩就业服务工作室
+https://api.feeddd.org/feeds/63b7ff77e11908407731da7c/json 缠与禅债说
