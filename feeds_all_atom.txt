@@ -36226,3 +36226,5 @@ https://api.feeddd.org/feeds/63b9800ce11908407734e4fb/atom 濛池投资
 https://api.feeddd.org/feeds/63b9800ce11908407734e504/atom 明河投资
 https://api.feeddd.org/feeds/63b9800ce11908407734e50c/atom 拾贝投资
 https://api.feeddd.org/feeds/63b9800ce11908407734e514/atom 拾榴询财
+https://api.feeddd.org/feeds/63ba64cce11908407736fcfd/atom 基本面驱动
+https://api.feeddd.org/feeds/63bae9b2e11908407737f82f/atom 华福固收荷语
