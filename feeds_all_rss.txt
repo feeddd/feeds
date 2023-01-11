@@ -36328,3 +36328,7 @@ https://api.feeddd.org/feeds/63bd1af3e1190840773dcb23 屁桃娘聊童书
 https://api.feeddd.org/feeds/63bd672ee1190840773e68bb 仕途
 https://api.feeddd.org/feeds/63bd83d7e1190840773e9791 枪稿S
 https://api.feeddd.org/feeds/63bd85c071b6fc40719ccd38 阿闻宠物
+https://api.feeddd.org/feeds/63be2edce1190840773fd1d1 菠萝孕育
+https://api.feeddd.org/feeds/63be2edce1190840773fd1d9 图图说Sa
+https://api.feeddd.org/feeds/63be300ce1190840773fd442 老俞闲话
+https://api.feeddd.org/feeds/63be429ee1190840773ffae2 Jingwhale Design
