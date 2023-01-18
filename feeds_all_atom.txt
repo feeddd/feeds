@@ -36770,3 +36770,14 @@ https://api.feeddd.org/feeds/63c6ac5071b6fc40719e9821/atom 东风卡车之友
 https://api.feeddd.org/feeds/63c6ac5071b6fc40719e982d/atom 龙擎动力人
 https://api.feeddd.org/feeds/63c6ac5071b6fc40719e983c/atom 东风汽车贸易有限公司
 https://api.feeddd.org/feeds/63c6ac5071b6fc40719e9846/atom 陕汽重卡
+https://api.feeddd.org/feeds/63c71936e11908407758eeff/atom 东风头条
+https://api.feeddd.org/feeds/63c71936e11908407758ef05/atom 专汽团队
+https://api.feeddd.org/feeds/63c71aa7e11908407758f4b7/atom 阿吉UX进阶
+https://api.feeddd.org/feeds/63c74493e119084077594a02/atom 东风随专
+https://api.feeddd.org/feeds/63c74a7c71b6fc40719e9ec1/atom 和谐车身
+https://api.feeddd.org/feeds/63c75e5de1190840775989a7/atom 东风商用车EAP
+https://api.feeddd.org/feeds/63c761fa71b6fc40719ea0b1/atom 多彩车辆
+https://api.feeddd.org/feeds/63c7695de11908407759a76c/atom 前端超人
+https://api.feeddd.org/feeds/63c7a05ae1190840775a2a8b/atom 中生代请就位
+https://api.feeddd.org/feeds/63c7d71871b6fc40719eab31/atom 东风商用车技术中心
+https://api.feeddd.org/feeds/63c84e96e1190840775ba317/atom DFCV先遣队
