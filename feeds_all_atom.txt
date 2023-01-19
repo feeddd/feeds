@@ -36781,3 +36781,19 @@ https://api.feeddd.org/feeds/63c7695de11908407759a76c/atom 前端超人
 https://api.feeddd.org/feeds/63c7a05ae1190840775a2a8b/atom 中生代请就位
 https://api.feeddd.org/feeds/63c7d71871b6fc40719eab31/atom 东风商用车技术中心
 https://api.feeddd.org/feeds/63c84e96e1190840775ba317/atom DFCV先遣队
+https://api.feeddd.org/feeds/63c89232e1190840775c38ad/atom 交运鑫观点
+https://api.feeddd.org/feeds/63c8c726e1190840775cb273/atom 财闻私享
+https://api.feeddd.org/feeds/63c8c726e1190840775cb27b/atom 长春汽车工业高等专科学校保卫处
+https://api.feeddd.org/feeds/63c8c726e1190840775cb283/atom 长春情报局
+https://api.feeddd.org/feeds/63c8c726e1190840775cb28b/atom 户帮户工人之家
+https://api.feeddd.org/feeds/63c8c726e1190840775cb293/atom 吉林省体彩
+https://api.feeddd.org/feeds/63c8c727e1190840775cb29b/atom 聚航 airshow
+https://api.feeddd.org/feeds/63c8c727e1190840775cb2a3/atom 廉洁吉林
+https://api.feeddd.org/feeds/63c8c727e1190840775cb2ab/atom 青瓷游戏
+https://api.feeddd.org/feeds/63c8c727e1190840775cb2b3/atom 水皮More
+https://api.feeddd.org/feeds/63c8c727e1190840775cb2bb/atom 四平市中心人民医院预约支付平台
+https://api.feeddd.org/feeds/63c8c727e1190840775cb2c3/atom T3出行长春
+https://api.feeddd.org/feeds/63c8c727e1190840775cb2cb/atom 未来投研派
+https://api.feeddd.org/feeds/63c8c728e1190840775cb2d3/atom 优勤家居
+https://api.feeddd.org/feeds/63c8c728e1190840775cb2db/atom 咱屯子锅台鱼总部
+https://api.feeddd.org/feeds/63c9207371b6fc40719f5f44/atom 清廉东风TRUCKS
