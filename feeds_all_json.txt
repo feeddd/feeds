@@ -36797,3 +36797,6 @@ https://api.feeddd.org/feeds/63c8c727e1190840775cb2cb/json 未来投研派
 https://api.feeddd.org/feeds/63c8c728e1190840775cb2d3/json 优勤家居
 https://api.feeddd.org/feeds/63c8c728e1190840775cb2db/json 咱屯子锅台鱼总部
 https://api.feeddd.org/feeds/63c9207371b6fc40719f5f44/json 清廉东风TRUCKS
+https://api.feeddd.org/feeds/63c9de78e1190840775f8312/json 东风新疆
+https://api.feeddd.org/feeds/63ca6646e11908407760ba51/json 火星计算机
+https://api.feeddd.org/feeds/63cab5e3e1190840776142cd/json 我的数字乡村
