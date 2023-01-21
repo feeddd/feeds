@@ -36800,3 +36800,9 @@ https://api.feeddd.org/feeds/63c9207371b6fc40719f5f44 清廉东风TRUCKS
 https://api.feeddd.org/feeds/63c9de78e1190840775f8312 东风新疆
 https://api.feeddd.org/feeds/63ca6646e11908407760ba51 火星计算机
 https://api.feeddd.org/feeds/63cab5e3e1190840776142cd 我的数字乡村
+https://api.feeddd.org/feeds/63cb49a971b6fc40719f7928 演示星球Pro
+https://api.feeddd.org/feeds/63cb6388e119084077633dd7 盒玩科技
+https://api.feeddd.org/feeds/63cb785de119084077636a0a bottle
+https://api.feeddd.org/feeds/63cba259e11908407763b4f7 柯研所
+https://api.feeddd.org/feeds/63cba259e11908407763b4ff 13号埋立地
+https://api.feeddd.org/feeds/63cc0631e11908407764873f 南京神农智慧农业研究院
