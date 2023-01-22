@@ -36806,3 +36806,5 @@ https://api.feeddd.org/feeds/63cb785de119084077636a0a/json bottle
 https://api.feeddd.org/feeds/63cba259e11908407763b4f7/json 柯研所
 https://api.feeddd.org/feeds/63cba259e11908407763b4ff/json 13号埋立地
 https://api.feeddd.org/feeds/63cc0631e11908407764873f/json 南京神农智慧农业研究院
+https://api.feeddd.org/feeds/63cd51cde11908407767518a/json 廉洁江西
+https://api.feeddd.org/feeds/63cd57aee119084077675adc/json 数字农业科技大会
