@@ -36808,3 +36808,12 @@ https://api.feeddd.org/feeds/63cba259e11908407763b4ff/atom 13号埋立地
 https://api.feeddd.org/feeds/63cc0631e11908407764873f/atom 南京神农智慧农业研究院
 https://api.feeddd.org/feeds/63cd51cde11908407767518a/atom 廉洁江西
 https://api.feeddd.org/feeds/63cd57aee119084077675adc/atom 数字农业科技大会
+https://api.feeddd.org/feeds/63cdfaa2e119084077687fbb/atom 龙湖在长沙
+https://api.feeddd.org/feeds/63cdfaa2e119084077687fc1/atom 龙湖在重庆
+https://api.feeddd.org/feeds/63cdfaa3e119084077687fce/atom 龙湖在成都
+https://api.feeddd.org/feeds/63cdfaa3e119084077687fd7/atom 龙湖在南京
+https://api.feeddd.org/feeds/63cdfaa3e119084077687fe8/atom 龙湖在沪苏
+https://api.feeddd.org/feeds/63cdfbbf71b6fc4071a0db85/atom 龙湖在浙江
+https://api.feeddd.org/feeds/63ce2f48e11908407768e6cf/atom 干部决策参阅
+https://api.feeddd.org/feeds/63ce2f48e11908407768e6d6/atom 江西组工微讯
+https://api.feeddd.org/feeds/63ce8732e119084077699aee/atom 廉洁宜春
