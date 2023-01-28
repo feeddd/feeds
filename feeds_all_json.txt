@@ -37070,3 +37070,5 @@ https://api.feeddd.org/feeds/63d348b6e11908407774e726/json word精品教程
 https://api.feeddd.org/feeds/63d348b6e11908407774e72e/json Word联盟
 https://api.feeddd.org/feeds/63d348b6e11908407774e736/json 夜读导航
 https://api.feeddd.org/feeds/63d43c02e11908407776d577/json 刘容发现了
+https://api.feeddd.org/feeds/63d4a72ae11908407777cd4c/json 智联招聘APP
+https://api.feeddd.org/feeds/63d4cc44e1190840777816d1/json 欢乐桃桃
