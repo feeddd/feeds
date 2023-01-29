@@ -37072,3 +37072,6 @@ https://api.feeddd.org/feeds/63d348b6e11908407774e736/atom 夜读导航
 https://api.feeddd.org/feeds/63d43c02e11908407776d577/atom 刘容发现了
 https://api.feeddd.org/feeds/63d4a72ae11908407777cd4c/atom 智联招聘APP
 https://api.feeddd.org/feeds/63d4cc44e1190840777816d1/atom 欢乐桃桃
+https://api.feeddd.org/feeds/63d5ecf871b6fc4071a31c24/atom 龙湖在武汉
+https://api.feeddd.org/feeds/63d60bbfe1190840777ace5d/atom 中国北斗卫星导航系统
+https://api.feeddd.org/feeds/63d6402f71b6fc4071a31f57/atom 游戏日报
