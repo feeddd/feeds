@@ -37234,3 +37234,9 @@ https://api.feeddd.org/feeds/63da640fe11908407783fdd3/atom Sif跨境
 https://api.feeddd.org/feeds/63da640fe11908407783fddb/atom 外贸麦克
 https://api.feeddd.org/feeds/63da640fe11908407783fde3/atom 亚马逊广告
 https://api.feeddd.org/feeds/63da6410e11908407783fdeb/atom 英文SEO实战派
+https://api.feeddd.org/feeds/63db5c14e11908407785e318/atom 环球文摘优选
+https://api.feeddd.org/feeds/63db5d42e11908407785e57a/atom 环时观察
+https://api.feeddd.org/feeds/63db5d42e11908407785e587/atom 大国观察眼
+https://api.feeddd.org/feeds/63db5e6771b6fc4071a5624a/atom 且读优选
+https://api.feeddd.org/feeds/63db9083e11908407786754e/atom 设计师Andrew
+https://api.feeddd.org/feeds/63dbab6ee11908407786a3e8/atom VPS收割者
