@@ -37876,3 +37876,12 @@ https://api.feeddd.org/feeds/63dfd1bae11908407790be95 陕煤集团
 https://api.feeddd.org/feeds/63dfd1bae11908407790be9d TP-LINK
 https://api.feeddd.org/feeds/63dfd1bbe11908407790bea5 正泰集团
 https://api.feeddd.org/feeds/63dfd1bbe11908407790beaf 中国神华
+https://api.feeddd.org/feeds/63e09063e119084077924427 东风专汽
+https://api.feeddd.org/feeds/63e09a5ae119084077925a4e HomeAssistant家庭助理
+https://api.feeddd.org/feeds/63e09a5ae119084077925a56 红客官网
+https://api.feeddd.org/feeds/63e09a5ae119084077925a5e 上郡英才
+https://api.feeddd.org/feeds/63e09a5ae119084077925a69 神木安畅公汽
+https://api.feeddd.org/feeds/63e09a5ae119084077925a74 神木论坛
+https://api.feeddd.org/feeds/63e09a5be119084077925a7c 神木社群
+https://api.feeddd.org/feeds/63e09a5be119084077925a84 神木市政务服务中心
+https://api.feeddd.org/feeds/63e1209be119084077939472 现代农业服务
