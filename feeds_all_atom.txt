@@ -38554,3 +38554,22 @@ https://api.feeddd.org/feeds/63e27279e11908407796b02d/atom 果识帮你挑水果
 https://api.feeddd.org/feeds/63e27279e11908407796b035/atom IT空城里
 https://api.feeddd.org/feeds/63e27279e11908407796b03d/atom 老撕鸡科技
 https://api.feeddd.org/feeds/63e2746671b6fc4071a7d55f/atom 中农鑫阳
+https://api.feeddd.org/feeds/63e30cd971b6fc4071a7e0a8/atom 百天自律行动
+https://api.feeddd.org/feeds/63e30f1271b6fc4071a7e121/atom 豪车毒老纪
+https://api.feeddd.org/feeds/63e3117d71b6fc4071a7e17c/atom Shopify 电商独立站订阅号
+https://api.feeddd.org/feeds/63e32aa6e11908407798eb6f/atom Notion Boy
+https://api.feeddd.org/feeds/63e32aa6e11908407798eb77/atom 小洋葱Ya
+https://api.feeddd.org/feeds/63e32aa6e11908407798eb7f/atom 优软吧
+https://api.feeddd.org/feeds/63e34fc4e119084077995d43/atom 超棒团子小分队
+https://api.feeddd.org/feeds/63e34fc4e119084077995d4d/atom 大沙河建投公司智园停车场
+https://api.feeddd.org/feeds/63e34fc4e119084077995d55/atom FourSmile福斯曼
+https://api.feeddd.org/feeds/63e34fc4e119084077995d5d/atom 诺齐
+https://api.feeddd.org/feeds/63e34fc4e119084077995d65/atom 深信小黑哥
+https://api.feeddd.org/feeds/63e34fc5e119084077995d6d/atom 深圳助手君
+https://api.feeddd.org/feeds/63e34fc5e119084077995d75/atom smilelab笑盈
+https://api.feeddd.org/feeds/63e34fc5e119084077995d7d/atom Smilie笑舒
+https://api.feeddd.org/feeds/63e34fc5e119084077995d85/atom xixilab
+https://api.feeddd.org/feeds/63e34fc5e119084077995d8e/atom 雅速美
+https://api.feeddd.org/feeds/63e34fc5e119084077995d96/atom 逸派咨询
+https://api.feeddd.org/feeds/63e34fc5e119084077995d9e/atom 悦笑EnjoyAlign
+https://api.feeddd.org/feeds/63e34fc6e119084077995da6/atom 珠海美尔晶义齿科技有限公司
