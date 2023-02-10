@@ -38578,3 +38578,10 @@ https://api.feeddd.org/feeds/63e48c61e1190840779c1ec8/atom 槿芷读书
 https://api.feeddd.org/feeds/63e5301de1190840779d98d5/atom 奔跑的笑
 https://api.feeddd.org/feeds/63e5301de1190840779d98e0/atom 养基之前
 https://api.feeddd.org/feeds/63e5301de1190840779d98e8/atom 指汇盈微服务
+https://api.feeddd.org/feeds/63e58a4fe1190840779ed96f/atom Hao HONG
+https://api.feeddd.org/feeds/63e5976ee1190840779ef70c/atom 一川Law
+https://api.feeddd.org/feeds/63e59e54e1190840779f0b38/atom 魔都晨曦来临
+https://api.feeddd.org/feeds/63e5e803e1190840779fa898/atom Shopify 电商独立站服务号
+https://api.feeddd.org/feeds/63e5e92ae1190840779fab1e/atom TikTok for Business出海营销
+https://api.feeddd.org/feeds/63e63302e1190840779fe67c/atom 飞啦不休
+https://api.feeddd.org/feeds/63e69b98e119084077a103b4/atom 长子融媒
