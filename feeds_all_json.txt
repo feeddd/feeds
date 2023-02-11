@@ -38585,3 +38585,10 @@ https://api.feeddd.org/feeds/63e5e803e1190840779fa898/json Shopify 电商独立�
 https://api.feeddd.org/feeds/63e5e92ae1190840779fab1e/json TikTok for Business出海营销
 https://api.feeddd.org/feeds/63e63302e1190840779fe67c/json 飞啦不休
 https://api.feeddd.org/feeds/63e69b98e119084077a103b4/json 长子融媒
+https://api.feeddd.org/feeds/63e6ee7971b6fc4071a97dde/json 中国化学会
+https://api.feeddd.org/feeds/63e77b17e119084077a29d45/json 万里汇WorldFirst
+https://api.feeddd.org/feeds/63e77b17e119084077a29d4f/json 小千哥
+https://api.feeddd.org/feeds/63e78ddae119084077a2b401/json 翟东升的全球政治经济研究
+https://api.feeddd.org/feeds/63e7ce59e119084077a3a036/json 接地气的陈老师
+https://api.feeddd.org/feeds/63e7ce59e119084077a3a03e/json 尤而小屋
+https://api.feeddd.org/feeds/63e7ce59e119084077a3a046/json 职场旋风
