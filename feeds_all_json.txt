@@ -38592,3 +38592,15 @@ https://api.feeddd.org/feeds/63e78ddae119084077a2b401/json 翟东升的全球政
 https://api.feeddd.org/feeds/63e7ce59e119084077a3a036/json 接地气的陈老师
 https://api.feeddd.org/feeds/63e7ce59e119084077a3a03e/json 尤而小屋
 https://api.feeddd.org/feeds/63e7ce59e119084077a3a046/json 职场旋风
+https://api.feeddd.org/feeds/63e86135e119084077a52829/json 神外张医生学习笔记
+https://api.feeddd.org/feeds/63e86135e119084077a52831/json 中华神经科杂志
+https://api.feeddd.org/feeds/63e86c89e119084077a551af/json 她读
+https://api.feeddd.org/feeds/63e86daee119084077a55594/json 地道寻茶记
+https://api.feeddd.org/feeds/63e86ffc71b6fc4071aa4029/json 出海必读
+https://api.feeddd.org/feeds/63e87a8de119084077a57de4/json 程序员泥瓦匠
+https://api.feeddd.org/feeds/63e8d28671b6fc4071aa4248/json 国盛计算机畅想
+https://api.feeddd.org/feeds/63e911c1e119084077a787c8/json 华南理工大学学生就业指导中心
+https://api.feeddd.org/feeds/63e911c1e119084077a787d5/json 电网招聘网
+https://api.feeddd.org/feeds/63e912f0e119084077a78ddf/json 职通车云简历
+https://api.feeddd.org/feeds/63e912f0e119084077a78deb/json 全球留学DIY飞跃计划
+https://api.feeddd.org/feeds/63e9141de119084077a79366/json 国聘人才帮
