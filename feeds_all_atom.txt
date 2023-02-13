@@ -38604,3 +38604,11 @@ https://api.feeddd.org/feeds/63e911c1e119084077a787d5/atom 电网招聘网
 https://api.feeddd.org/feeds/63e912f0e119084077a78ddf/atom 职通车云简历
 https://api.feeddd.org/feeds/63e912f0e119084077a78deb/atom 全球留学DIY飞跃计划
 https://api.feeddd.org/feeds/63e9141de119084077a79366/atom 国聘人才帮
+https://api.feeddd.org/feeds/63e95f14e119084077a918ef/atom 大宇宙TCG
+https://api.feeddd.org/feeds/63e95f14e119084077a918f8/atom 决斗中枢
+https://api.feeddd.org/feeds/63e9cd4ae119084077aaaa7a/atom Java核心技术
+https://api.feeddd.org/feeds/63e9ffe0e119084077ab28cd/atom 数字边界
+https://api.feeddd.org/feeds/63ea415d71b6fc4071aa5e13/atom 广州招聘网
+https://api.feeddd.org/feeds/63ea4cf2e119084077ab8460/atom 青花会游戏百科
+https://api.feeddd.org/feeds/63ea4fcfe119084077ab8bad/atom xld
+https://api.feeddd.org/feeds/63ea4fcfe119084077ab8bb5/atom 👹
