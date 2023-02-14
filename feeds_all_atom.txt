@@ -38612,3 +38612,4 @@ https://api.feeddd.org/feeds/63ea415d71b6fc4071aa5e13/atom 广州招聘网
 https://api.feeddd.org/feeds/63ea4cf2e119084077ab8460/atom 青花会游戏百科
 https://api.feeddd.org/feeds/63ea4fcfe119084077ab8bad/atom xld
 https://api.feeddd.org/feeds/63ea4fcfe119084077ab8bb5/atom 👹
+https://api.feeddd.org/feeds/63eb6523e119084077ae54ea/atom 龙芯中科
