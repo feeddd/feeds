@@ -38991,3 +38991,10 @@ https://api.feeddd.org/feeds/63ecd89171b6fc4071aa9249/json mars探索新鲜城�
 https://api.feeddd.org/feeds/63ecd9c171b6fc4071aa92a7/json 小甜的会客厅
 https://api.feeddd.org/feeds/63ecde9fe119084077b24191/json 陕西新闻广播
 https://api.feeddd.org/feeds/63ecdea0e119084077b24199/json 神木新闻
+https://api.feeddd.org/feeds/63ed7a6de119084077b42326/json 哔哩哔哩大会员
+https://api.feeddd.org/feeds/63ed7a6de119084077b4232e/json 刚入门的产品经理小李
+https://api.feeddd.org/feeds/63ed7a6ee119084077b42336/json 基朋狗友
+https://api.feeddd.org/feeds/63ed7a6ee119084077b4233e/json 设计感知
+https://api.feeddd.org/feeds/63ed829c71b6fc4071aa9bbb/json 疯人院李社长
+https://api.feeddd.org/feeds/63ee0490e119084077b58e85/json JM Insights 集摩咨询
+https://api.feeddd.org/feeds/63ee5f08e119084077b634d6/json 知果文
