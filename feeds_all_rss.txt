@@ -38998,3 +38998,8 @@ https://api.feeddd.org/feeds/63ed7a6ee119084077b4233e 设计感知
 https://api.feeddd.org/feeds/63ed829c71b6fc4071aa9bbb 疯人院李社长
 https://api.feeddd.org/feeds/63ee0490e119084077b58e85 JM Insights 集摩咨询
 https://api.feeddd.org/feeds/63ee5f08e119084077b634d6 知果文
+https://api.feeddd.org/feeds/63ef133fe119084077b7e2ba 架构之路
+https://api.feeddd.org/feeds/63ef21f9e119084077b81eb0 瑞典中国校友会
+https://api.feeddd.org/feeds/63ef21f9e119084077b81eb8 瑞典驻华大使馆
+https://api.feeddd.org/feeds/63ef21f9e119084077b81ec0 SANC瑞典中国校友会上海分会
+https://api.feeddd.org/feeds/63ef21f9e119084077b81ec8 易即今日
