@@ -39003,3 +39003,6 @@ https://api.feeddd.org/feeds/63ef21f9e119084077b81eb0/json 瑞典中国校友会
 https://api.feeddd.org/feeds/63ef21f9e119084077b81eb8/json 瑞典驻华大使馆
 https://api.feeddd.org/feeds/63ef21f9e119084077b81ec0/json SANC瑞典中国校友会上海分会
 https://api.feeddd.org/feeds/63ef21f9e119084077b81ec8/json 易即今日
+https://api.feeddd.org/feeds/63f01a6ae119084077ba8d38/json 东风商用车有限公司
+https://api.feeddd.org/feeds/63f01a6ae119084077ba8d40/json 东风阳光
+https://api.feeddd.org/feeds/63f01a6be119084077ba8d48/json 龙擎动力
