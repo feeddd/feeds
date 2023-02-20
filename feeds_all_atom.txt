@@ -39064,3 +39064,8 @@ https://api.feeddd.org/feeds/63f1d311e119084077beb442/atom 趋之道
 https://api.feeddd.org/feeds/63f1d311e119084077beb44a/atom RAYDATA实验室
 https://api.feeddd.org/feeds/63f1d311e119084077beb452/atom 人人都是产品经理服务号
 https://api.feeddd.org/feeds/63f1d311e119084077beb45a/atom 普修科技
+https://api.feeddd.org/feeds/63f2b11b71b6fc4071ab9b53/atom 进击的硬科技
+https://api.feeddd.org/feeds/63f34e2ce119084077c1e292/atom 帆书 原樊登读书
+https://api.feeddd.org/feeds/63f35e45e119084077c1f834/atom 好看人类合作社
+https://api.feeddd.org/feeds/63f35e45e119084077c1f83c/atom 娚嬲嫐
+https://api.feeddd.org/feeds/63f363b5e119084077c1ff8d/atom 乐晴智库精选
