@@ -39069,3 +39069,13 @@ https://api.feeddd.org/feeds/63f34e2ce119084077c1e292/atom 帆书 原樊登读�
 https://api.feeddd.org/feeds/63f35e45e119084077c1f834/atom 好看人类合作社
 https://api.feeddd.org/feeds/63f35e45e119084077c1f83c/atom 娚嬲嫐
 https://api.feeddd.org/feeds/63f363b5e119084077c1ff8d/atom 乐晴智库精选
+https://api.feeddd.org/feeds/63f42760e119084077c339e3/atom 大麦官方
+https://api.feeddd.org/feeds/63f4489ee119084077c378c7/atom 不在此山中
+https://api.feeddd.org/feeds/63f450d9e119084077c395ac/atom 觀復固收研究
+https://api.feeddd.org/feeds/63f450d9e119084077c395b4/atom 时代的囚徒
+https://api.feeddd.org/feeds/63f4c3f5e119084077c4a2ef/atom AIGC研修社
+https://api.feeddd.org/feeds/63f4c3f5e119084077c4a2f7/atom 南瓜博士
+https://api.feeddd.org/feeds/63f4cda5e119084077c4b159/atom China Communications 中国通信
+https://api.feeddd.org/feeds/63f4cda5e119084077c4b161/atom 黄华书房
+https://api.feeddd.org/feeds/63f4cda6e119084077c4b169/atom 麻辣表哥
+https://api.feeddd.org/feeds/63f4cda6e119084077c4b171/atom 之江全知道
