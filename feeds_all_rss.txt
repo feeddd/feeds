@@ -39454,3 +39454,6 @@ https://api.feeddd.org/feeds/63fa4234e119084077d163ae 谢无敌的红书宝
 https://api.feeddd.org/feeds/63fa4234e119084077d163b6 湮叔聊个人品牌
 https://api.feeddd.org/feeds/63fa4234e119084077d163be 运营喵网
 https://api.feeddd.org/feeds/63fa4234e119084077d163c6 杂忆小记
+https://api.feeddd.org/feeds/63fae4b8e119084077d28bec 健康海淀
+https://api.feeddd.org/feeds/63fae4b9e119084077d28bf4 清华大学公共管理学院
+https://api.feeddd.org/feeds/63fb1fcee119084077d2efdf 唐山发布
