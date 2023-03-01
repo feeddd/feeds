@@ -39509,3 +39509,60 @@ https://api.feeddd.org/feeds/63fe4151e119084077dbc3c2 西工大伦敦玛丽女�
 https://api.feeddd.org/feeds/63fe4152e119084077dbc3ce 西工大数学与统计
 https://api.feeddd.org/feeds/63fe4152e119084077dbc3da 至囍哥哥
 https://api.feeddd.org/feeds/63fe4152e119084077dbc3e7 720智能生活
+https://api.feeddd.org/feeds/63fe9eef71b6fc4071af2bdf 怪异藏书局
+https://api.feeddd.org/feeds/63ff47afe119084077df5737 北京卫视
+https://api.feeddd.org/feeds/63ff47afe119084077df573f 传媒1号
+https://api.feeddd.org/feeds/63ff47afe119084077df5747 传媒大眼
+https://api.feeddd.org/feeds/63ff47afe119084077df574f 传媒见闻
+https://api.feeddd.org/feeds/63ff47afe119084077df5757 传媒头条
+https://api.feeddd.org/feeds/63ff47afe119084077df575f 传媒智库
+https://api.feeddd.org/feeds/63ff47b0e119084077df5767 CMNC
+https://api.feeddd.org/feeds/63ff47b0e119084077df576f crir
+https://api.feeddd.org/feeds/63ff47b0e119084077df5778 CTR媒介动量
+https://api.feeddd.org/feeds/63ff47b0e119084077df5780 电视广告投放平台
+https://api.feeddd.org/feeds/63ff47b1e119084077df578b 丁俊杰看品牌
+https://api.feeddd.org/feeds/63ff47b1e119084077df5793 DoMarketing-营销智库
+https://api.feeddd.org/feeds/63ff47b2e119084077df579b 鹅厂综艺家
+https://api.feeddd.org/feeds/63ff47b2e119084077df57a3 分众传媒
+https://api.feeddd.org/feeds/63ff47b2e119084077df57ab 格视智库
+https://api.feeddd.org/feeds/63ff47b2e119084077df57b3 广电独家
+https://api.feeddd.org/feeds/63ff47b3e119084077df57bc 广电视界
+https://api.feeddd.org/feeds/63ff47b3e119084077df57c4 广电时评
+https://api.feeddd.org/feeds/63ff47b3e119084077df57cf 广电业内
+https://api.feeddd.org/feeds/63ff47b4e119084077df57d9 广告狂人官网
+https://api.feeddd.org/feeds/63ff47b4e119084077df57e3 广告门
+https://api.feeddd.org/feeds/63ff47b4e119084077df57eb 广告人智库
+https://api.feeddd.org/feeds/63ff47b5e119084077df57f3 广告资源速递
+https://api.feeddd.org/feeds/63ff47b5e119084077df57fc 光明智库
+https://api.feeddd.org/feeds/63ff47b5e119084077df5804 戏客Seeker
+https://api.feeddd.org/feeds/63ff47b6e119084077df580c 江苏紫金传媒智库
+https://api.feeddd.org/feeds/63ff47b6e119084077df5814 鲸平台
+https://api.feeddd.org/feeds/63ff47b6e119084077df581c 剧星传媒
+https://api.feeddd.org/feeds/63ff47b6e119084077df5824 看电视
+https://api.feeddd.org/feeds/63ff47b6e119084077df582c 流媒体网
+https://api.feeddd.org/feeds/63ff47b6e119084077df5834 m三六零
+https://api.feeddd.org/feeds/63ff47b6e119084077df583d 皮书说
+https://api.feeddd.org/feeds/63ff47b7e119084077df5849 清元宇宙
+https://api.feeddd.org/feeds/63ff47b7e119084077df5851 全球传媒学刊
+https://api.feeddd.org/feeds/63ff47b7e119084077df5859 人民网舆情数据中心
+https://api.feeddd.org/feeds/63ff47b8e119084077df5861 上海前景传媒
+https://api.feeddd.org/feeds/63ff47b8e119084077df5869 视听广电
+https://api.feeddd.org/feeds/63ff47b8e119084077df5871 收视中国
+https://api.feeddd.org/feeds/63ff47b9e119084077df5879 腾讯综艺
+https://api.feeddd.org/feeds/63ff47b9e119084077df5882 Vlinkage
+https://api.feeddd.org/feeds/63ff47b9e119084077df588a 现代广告杂志社
+https://api.feeddd.org/feeds/63ff47b9e119084077df5892 新剧观察
+https://api.feeddd.org/feeds/63ff47bae119084077df589a 新闻大学
+https://api.feeddd.org/feeds/63ff47bae119084077df58a2 新闻记者
+https://api.feeddd.org/feeds/63ff47bae119084077df58aa 影视产业观察
+https://api.feeddd.org/feeds/63ff47bae119084077df58b2 优酷网络剧合作平台
+https://api.feeddd.org/feeds/63ff47bbe119084077df58ba 综艺报
+https://api.feeddd.org/feeds/63ff47bbe119084077df58c3 指尖榜
+https://api.feeddd.org/feeds/63ff47bbe119084077df58cb 中广互联
+https://api.feeddd.org/feeds/63ff47bbe119084077df58d3 中国编辑
+https://api.feeddd.org/feeds/63ff47bce119084077df58db 中国广电
+https://api.feeddd.org/feeds/63ff47bce119084077df58e3 中国广告杂志
+https://api.feeddd.org/feeds/63ff47bce119084077df58eb 中国新闻出版广电报
+https://api.feeddd.org/feeds/63ff47bce119084077df58f6 众视AsiaOTT
+https://api.feeddd.org/feeds/63ff47bde119084077df58fe 主编温静
+https://api.feeddd.org/feeds/63ffa816e119084077e00a61 PaperOK论文查重
