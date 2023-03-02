@@ -39566,3 +39566,26 @@ https://api.feeddd.org/feeds/63ff47bce119084077df58eb 中国新闻出版广电�
 https://api.feeddd.org/feeds/63ff47bce119084077df58f6 众视AsiaOTT
 https://api.feeddd.org/feeds/63ff47bde119084077df58fe 主编温静
 https://api.feeddd.org/feeds/63ffa816e119084077e00a61 PaperOK论文查重
+https://api.feeddd.org/feeds/640023aae119084077e0ca78 国学选文
+https://api.feeddd.org/feeds/64004434e119084077e10585 甘肃省人社厅
+https://api.feeddd.org/feeds/64004435e119084077e1058d 广西人社
+https://api.feeddd.org/feeds/64004435e119084077e10598 海南社保医保
+https://api.feeddd.org/feeds/64004435e119084077e105a0 河北人社
+https://api.feeddd.org/feeds/64004435e119084077e105a8 河南社保
+https://api.feeddd.org/feeds/64004435e119084077e105b0 河源人社
+https://api.feeddd.org/feeds/64004435e119084077e105b8 湖北人社
+https://api.feeddd.org/feeds/64004436e119084077e105c0 江门社保
+https://api.feeddd.org/feeds/64004436e119084077e105c8 江苏人社
+https://api.feeddd.org/feeds/64004436e119084077e105d0 辽宁省人力资源和社会保障厅
+https://api.feeddd.org/feeds/64004436e119084077e105d8 茂名人社
+https://api.feeddd.org/feeds/64004436e119084077e105e0 青海省人力资源和社会保障厅
+https://api.feeddd.org/feeds/64004436e119084077e105e8 汕头人社
+https://api.feeddd.org/feeds/64004436e119084077e105f0 汕头社保
+https://api.feeddd.org/feeds/64004437e119084077e105f8 山西医保
+https://api.feeddd.org/feeds/64004437e119084077e10600 是鲜气也是仙女气
+https://api.feeddd.org/feeds/64004437e119084077e10608 四川人社
+https://api.feeddd.org/feeds/64004437e119084077e10613 阳江人社
+https://api.feeddd.org/feeds/64004437e119084077e1061b 阳江社保
+https://api.feeddd.org/feeds/64004437e119084077e10623 肇庆人社
+https://api.feeddd.org/feeds/640074dae119084077e15fd0 广东医保
+https://api.feeddd.org/feeds/6400c110e119084077e22c3e App校园
