@@ -40467,3 +40467,11 @@ https://api.feeddd.org/feeds/6404b60be119084077edf081/json ABBS
 https://api.feeddd.org/feeds/6404b60be119084077edf089/json 曼食慢语
 https://api.feeddd.org/feeds/6404b60be119084077edf091/json 由缰小记
 https://api.feeddd.org/feeds/6404c28ee119084077ee2a1e/json 电子开发学习
+https://api.feeddd.org/feeds/64053d2ae119084077ef9a93/json 渤海小吏
+https://api.feeddd.org/feeds/64053d2ae119084077ef9a9b/json 卓超
+https://api.feeddd.org/feeds/64054ced71b6fc4071b13378/json 抖音电商学习中心
+https://api.feeddd.org/feeds/640581a8e119084077f08f02/json 北京大学生物医学前沿创新中心
+https://api.feeddd.org/feeds/640581a8e119084077f08f0a/json 北京未来基因诊断高精尖创新中心
+https://api.feeddd.org/feeds/640581a8e119084077f08f12/json 再创丨Regenesis
+https://api.feeddd.org/feeds/64058573e119084077f09bbf/json 影视音乐VIP会员直充
+https://api.feeddd.org/feeds/6405f353e119084077f2424e/json 快手磁力金牛官方服务号
