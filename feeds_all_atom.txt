@@ -40837,3 +40837,5 @@ https://api.feeddd.org/feeds/640cd72b9c1a260763801cb6/atom 成功就业
 https://api.feeddd.org/feeds/640cd72b9c1a260763801cbe/atom 顶刊追踪
 https://api.feeddd.org/feeds/640cd72b9c1a260763801cc6/atom 计算材料学
 https://api.feeddd.org/feeds/640cd72b9c1a260763801cce/atom 秋叶PS
+https://api.feeddd.org/feeds/640de917feb2a7076211a1c7/atom 乐建其成
+https://api.feeddd.org/feeds/640df9799c1a2607638320c2/atom 固收搬砖笔记
