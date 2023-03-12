@@ -40837,3 +40837,5 @@ https://api.feeddd.org/feeds/640cd72b9c1a260763801cb6/json 成功就业
 https://api.feeddd.org/feeds/640cd72b9c1a260763801cbe/json 顶刊追踪
 https://api.feeddd.org/feeds/640cd72b9c1a260763801cc6/json 计算材料学
 https://api.feeddd.org/feeds/640cd72b9c1a260763801cce/json 秋叶PS
+https://api.feeddd.org/feeds/640de917feb2a7076211a1c7/json 乐建其成
+https://api.feeddd.org/feeds/640df9799c1a2607638320c2/json 固收搬砖笔记
