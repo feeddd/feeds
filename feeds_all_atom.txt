@@ -40839,3 +40839,15 @@ https://api.feeddd.org/feeds/640cd72b9c1a260763801cc6/atom 计算材料学
 https://api.feeddd.org/feeds/640cd72b9c1a260763801cce/atom 秋叶PS
 https://api.feeddd.org/feeds/640de917feb2a7076211a1c7/atom 乐建其成
 https://api.feeddd.org/feeds/640df9799c1a2607638320c2/atom 固收搬砖笔记
+https://api.feeddd.org/feeds/640e59bd9c1a26076383e5af/atom 凭澜观涛
+https://api.feeddd.org/feeds/640e5f6bfeb2a70762125e5c/atom 海公物语
+https://api.feeddd.org/feeds/640e8ce39c1a260763842f5a/atom AppGrowing
+https://api.feeddd.org/feeds/640e8ce39c1a260763842f62/atom 百度营销观察
+https://api.feeddd.org/feeds/640e8ce39c1a260763842f6d/atom 抖音黑板报
+https://api.feeddd.org/feeds/640e8ce49c1a260763842f75/atom 快手磁力方舟
+https://api.feeddd.org/feeds/640e8ce49c1a260763842f7d/atom 快手电商
+https://api.feeddd.org/feeds/640e8ce49c1a260763842f85/atom 快手营销研究院
+https://api.feeddd.org/feeds/640e8ce49c1a260763842f8d/atom 美团合美商户之家
+https://api.feeddd.org/feeds/640e8ce49c1a260763842f95/atom 腾讯广告渠道生态伙伴交流平台
+https://api.feeddd.org/feeds/640e8ce49c1a260763842f9d/atom 腾讯广告游戏营销顾问
+https://api.feeddd.org/feeds/640e8ce49c1a260763842fa5/atom 腾讯优量汇
