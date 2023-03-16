@@ -41208,3 +41208,13 @@ https://api.feeddd.org/feeds/64110853feb2a70762137851/atom 流光游戏
 https://api.feeddd.org/feeds/64110a90feb2a70762137893/atom 怪奇百科
 https://api.feeddd.org/feeds/6411294f9c1a2607638ac010/atom 智能产业情报局
 https://api.feeddd.org/feeds/64115a5d9c1a2607638b6f02/atom 老板营商秘籍
+https://api.feeddd.org/feeds/64123a089c1a2607638d4a5c/atom 偷藏星星
+https://api.feeddd.org/feeds/64126d8c9c1a2607638d8bb7/atom 人力资源服务杂志
+https://api.feeddd.org/feeds/64126d8c9c1a2607638d8bbf/atom 人社通
+https://api.feeddd.org/feeds/64126d8d9c1a2607638d8bc7/atom 山东人社
+https://api.feeddd.org/feeds/64126d8d9c1a2607638d8bcf/atom 山东人社杂志
+https://api.feeddd.org/feeds/64126d8d9c1a2607638d8bd7/atom 中国社会保障杂志
+https://api.feeddd.org/feeds/6412789b9c1a2607638d97b4/atom IFHK吃
+https://api.feeddd.org/feeds/6412789b9c1a2607638d97bc/atom 金融监管与风险观察
+https://api.feeddd.org/feeds/6412789b9c1a2607638d97c4/atom 设定权利质权不是物权行为
+https://api.feeddd.org/feeds/6412789b9c1a2607638d97cc/atom 数据何规
