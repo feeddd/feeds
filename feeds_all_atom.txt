@@ -41400,3 +41400,9 @@ https://api.feeddd.org/feeds/6417722f9c1a26076399655f/atom 易学术数应用
 https://api.feeddd.org/feeds/6417722f9c1a260763996568/atom 御姐后花园
 https://api.feeddd.org/feeds/6417722f9c1a260763996571/atom 朱身勇
 https://api.feeddd.org/feeds/6417722f9c1a26076399657a/atom 紫微斗数取象派
+https://api.feeddd.org/feeds/6417a9e49c1a2607639a4f71/atom 石油外卖
+https://api.feeddd.org/feeds/6417cff09c1a2607639a83da/atom 清华社会学
+https://api.feeddd.org/feeds/6417dd22feb2a707621673d0/atom 琅琅学术
+https://api.feeddd.org/feeds/6417dd22feb2a707621673ef/atom 历史人类学
+https://api.feeddd.org/feeds/6417dd22feb2a707621673fa/atom 爱稀奇
+https://api.feeddd.org/feeds/6417dd23feb2a7076216740e/atom 人类学会社
