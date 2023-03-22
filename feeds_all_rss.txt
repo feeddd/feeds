@@ -41451,3 +41451,42 @@ https://api.feeddd.org/feeds/641927a29c1a2607639d5edd 中国社科院民族学�
 https://api.feeddd.org/feeds/64197389feb2a70762176a89 y博的科普园地
 https://api.feeddd.org/feeds/64198f7dfeb2a70762176f02 六爻自学之道
 https://api.feeddd.org/feeds/6419b1319c1a2607639e2b6d Empower Labs
+https://api.feeddd.org/feeds/641abae09c1a260763a0b048 北京电影学院学报
+https://api.feeddd.org/feeds/641abae09c1a260763a0b053 北京舞蹈学院学报
+https://api.feeddd.org/feeds/641abae09c1a260763a0b05b 北外全球史
+https://api.feeddd.org/feeds/641abae09c1a260763a0b063 财经科学
+https://api.feeddd.org/feeds/641abae19c1a260763a0b06b 财经研究
+https://api.feeddd.org/feeds/641abae19c1a260763a0b073 财贸研究
+https://api.feeddd.org/feeds/641abae19c1a260763a0b07b 当代中国史研究
+https://api.feeddd.org/feeds/641abae19c1a260763a0b083 党政研究杂志社
+https://api.feeddd.org/feeds/641abae19c1a260763a0b08b 电影艺术杂志
+https://api.feeddd.org/feeds/641abae19c1a260763a0b093 电子政务杂志
+https://api.feeddd.org/feeds/641abae19c1a260763a0b09b 法学家杂志
+https://api.feeddd.org/feeds/641abae19c1a260763a0b0a3 妇女研究论丛
+https://api.feeddd.org/feeds/641abae29c1a260763a0b0ab 管理科学学报
+https://api.feeddd.org/feeds/641abae29c1a260763a0b0b6 管理学报
+https://api.feeddd.org/feeds/641abae29c1a260763a0b0be 管理学刊
+https://api.feeddd.org/feeds/641abae29c1a260763a0b0c6 国际观察杂志
+https://api.feeddd.org/feeds/641abae29c1a260763a0b0ce 国际经济评论
+https://api.feeddd.org/feeds/641abae29c1a260763a0b0d6 海交史研究资讯
+https://api.feeddd.org/feeds/641abae29c1a260763a0b0de 江汉考古
+https://api.feeddd.org/feeds/641abae39c1a260763a0b0e6 教育学报
+https://api.feeddd.org/feeds/641abae39c1a260763a0b0ee 近代史研究
+https://api.feeddd.org/feeds/641abae39c1a260763a0b0f6 经济学季刊
+https://api.feeddd.org/feeds/641abae39c1a260763a0b0fe 计算机工程与应用
+https://api.feeddd.org/feeds/641abae39c1a260763a0b106 计算机研究与发展
+https://api.feeddd.org/feeds/641abae39c1a260763a0b10e 计算机应用
+https://api.feeddd.org/feeds/641abae39c1a260763a0b116 Journal Club 前沿医学报导
+https://api.feeddd.org/feeds/641abae49c1a260763a0b11e 开放教育研究
+https://api.feeddd.org/feeds/641abae49c1a260763a0b126 考古杂志社
+https://api.feeddd.org/feeds/641abae49c1a260763a0b12e 力学学报
+https://api.feeddd.org/feeds/641abae49c1a260763a0b139 美术观察
+https://api.feeddd.org/feeds/641abae49c1a260763a0b141 美术学报
+https://api.feeddd.org/feeds/641abae49c1a260763a0b149 美术杂志社
+https://api.feeddd.org/feeds/641abae49c1a260763a0b151 民俗学论坛
+https://api.feeddd.org/feeds/641abae59c1a260763a0b159 民俗研究
+https://api.feeddd.org/feeds/641ae6ecfeb2a707621855ff 舞蹈中国
+https://api.feeddd.org/feeds/641aea5ffeb2a7076218567b 中国教育学会
+https://api.feeddd.org/feeds/641aea5ffeb2a707621856a2 中国文化研究
+https://api.feeddd.org/feeds/641aeb859c1a260763a10587 中国音乐家协会
+https://api.feeddd.org/feeds/641b3c549c1a260763a1c6c5 中国管理科学
