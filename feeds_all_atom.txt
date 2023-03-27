@@ -41794,3 +41794,7 @@ https://api.feeddd.org/feeds/641e81769c1a260763aab73a/atom 自在商业史
 https://api.feeddd.org/feeds/641e81769c1a260763aab742/atom 佐布青年空间
 https://api.feeddd.org/feeds/641e81769c1a260763aab74a/atom 301设计研究所
 https://api.feeddd.org/feeds/641e81769c1a260763aab752/atom 3306pai
+https://api.feeddd.org/feeds/641fa15ffeb2a707621a49ba/atom 芯极速
+https://api.feeddd.org/feeds/64201a709c1a260763ade3d5/atom Mindverse Research
+https://api.feeddd.org/feeds/64201a709c1a260763ade3e0/atom 石墨时讯
+https://api.feeddd.org/feeds/6421b86a8e10ae11b076cd78/atom 有道考神专四专八
