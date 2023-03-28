@@ -41798,3 +41798,10 @@ https://api.feeddd.org/feeds/641fa15ffeb2a707621a49ba 芯极速
 https://api.feeddd.org/feeds/64201a709c1a260763ade3d5 Mindverse Research
 https://api.feeddd.org/feeds/64201a709c1a260763ade3e0 石墨时讯
 https://api.feeddd.org/feeds/6421b86a8e10ae11b076cd78 有道考神专四专八
+https://api.feeddd.org/feeds/64221ecf074e5011af850e13 傅超人
+https://api.feeddd.org/feeds/642224d7074e5011af850f64 Sky老思
+https://api.feeddd.org/feeds/642227148e10ae11b07737e3 一灯出海
+https://api.feeddd.org/feeds/642239c0074e5011af851235 城市交通
+https://api.feeddd.org/feeds/642239c0074e5011af85123b 城市规划
+https://api.feeddd.org/feeds/642242098e10ae11b0774a16 艺术史图书馆
+https://api.feeddd.org/feeds/6422b5fd8e10ae11b077a689 诗翰
