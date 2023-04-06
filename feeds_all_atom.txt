@@ -41996,3 +41996,4 @@ https://api.feeddd.org/feeds/642bea1fb49d6d0ce057e80e/atom 致动
 https://api.feeddd.org/feeds/642bea1fb49d6d0ce057e816/atom 365锦礼
 https://api.feeddd.org/feeds/642bfb03b49d6d0ce057f197/atom 铁杆三国官方手游
 https://api.feeddd.org/feeds/642d4a06b49d6d0ce059f131/atom 谈资
+https://api.feeddd.org/feeds/642e4872b49d6d0ce05c85ed/atom 逐星科技
