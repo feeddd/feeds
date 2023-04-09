@@ -42059,3 +42059,18 @@ https://api.feeddd.org/feeds/64310ca667ac2109ae7fea6b/atom 中科类脑
 https://api.feeddd.org/feeds/643148073249eb09ada2abe9/atom 安徽人社
 https://api.feeddd.org/feeds/6431ac1667ac2109ae804247/atom 贝塔驿站
 https://api.feeddd.org/feeds/6431ac1667ac2109ae80424d/atom 开源Linux
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166c2/atom Bose
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166c8/atom Free Harbor
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166ce/atom 可牛压缩
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166d4/atom 刘叁刀
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166da/atom 迈博三维科技
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166e0/atom 麦音乐
+https://api.feeddd.org/feeds/64326b3367ac2109ae8166e6/atom 日寻轩史谈
+https://api.feeddd.org/feeds/64326b3367ac2109ae8166ec/atom 赛可优云印
+https://api.feeddd.org/feeds/64326b3367ac2109ae8166f2/atom 勺布斯
+https://api.feeddd.org/feeds/64326b3367ac2109ae8166f8/atom 十分悦读
+https://api.feeddd.org/feeds/64326b3367ac2109ae8166fe/atom 象棋教室
+https://api.feeddd.org/feeds/6432875f67ac2109ae81700c/atom 投资兔子洞
+https://api.feeddd.org/feeds/64328de967ac2109ae81731b/atom 天文爱好者杂志
+https://api.feeddd.org/feeds/64328de967ac2109ae817320/atom 中国国家天文
+https://api.feeddd.org/feeds/643301dc67ac2109ae81cdae/atom 南京人社
