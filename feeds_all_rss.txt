@@ -42059,3 +42059,18 @@ https://api.feeddd.org/feeds/64310ca667ac2109ae7fea6b 中科类脑
 https://api.feeddd.org/feeds/643148073249eb09ada2abe9 安徽人社
 https://api.feeddd.org/feeds/6431ac1667ac2109ae804247 贝塔驿站
 https://api.feeddd.org/feeds/6431ac1667ac2109ae80424d 开源Linux
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166c2 Bose
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166c8 Free Harbor
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166ce 可牛压缩
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166d4 刘叁刀
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166da 迈博三维科技
+https://api.feeddd.org/feeds/64326b3267ac2109ae8166e0 麦音乐
+https://api.feeddd.org/feeds/64326b3367ac2109ae8166e6 日寻轩史谈
+https://api.feeddd.org/feeds/64326b3367ac2109ae8166ec 赛可优云印
+https://api.feeddd.org/feeds/64326b3367ac2109ae8166f2 勺布斯
+https://api.feeddd.org/feeds/64326b3367ac2109ae8166f8 十分悦读
+https://api.feeddd.org/feeds/64326b3367ac2109ae8166fe 象棋教室
+https://api.feeddd.org/feeds/6432875f67ac2109ae81700c 投资兔子洞
+https://api.feeddd.org/feeds/64328de967ac2109ae81731b 天文爱好者杂志
+https://api.feeddd.org/feeds/64328de967ac2109ae817320 中国国家天文
+https://api.feeddd.org/feeds/643301dc67ac2109ae81cdae 南京人社
