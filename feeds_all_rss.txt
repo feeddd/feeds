@@ -42074,3 +42074,5 @@ https://api.feeddd.org/feeds/6432875f67ac2109ae81700c 投资兔子洞
 https://api.feeddd.org/feeds/64328de967ac2109ae81731b 天文爱好者杂志
 https://api.feeddd.org/feeds/64328de967ac2109ae817320 中国国家天文
 https://api.feeddd.org/feeds/643301dc67ac2109ae81cdae 南京人社
+https://api.feeddd.org/feeds/643352db3249eb09ada36d43 Moloco
+https://api.feeddd.org/feeds/64344d793249eb09ada36f48 光明冒险
