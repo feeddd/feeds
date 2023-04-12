@@ -42076,3 +42076,4 @@ https://api.feeddd.org/feeds/64328de967ac2109ae817320/atom 中国国家天文
 https://api.feeddd.org/feeds/643301dc67ac2109ae81cdae/atom 南京人社
 https://api.feeddd.org/feeds/643352db3249eb09ada36d43/atom Moloco
 https://api.feeddd.org/feeds/64344d793249eb09ada36f48/atom 光明冒险
+https://api.feeddd.org/feeds/643610c53249eb09ada4ecc9/atom 滁州人社
