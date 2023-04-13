@@ -42077,3 +42077,6 @@ https://api.feeddd.org/feeds/643301dc67ac2109ae81cdae 南京人社
 https://api.feeddd.org/feeds/643352db3249eb09ada36d43 Moloco
 https://api.feeddd.org/feeds/64344d793249eb09ada36f48 光明冒险
 https://api.feeddd.org/feeds/643610c53249eb09ada4ecc9 滁州人社
+https://api.feeddd.org/feeds/64377cef67ac2109ae868061 长三角吴女士
+https://api.feeddd.org/feeds/64377cef67ac2109ae868069 我是莎莎
+https://api.feeddd.org/feeds/64377cef67ac2109ae86806f 硬件世界
