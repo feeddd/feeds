@@ -42330,3 +42330,14 @@ https://api.feeddd.org/feeds/64393c0867ac2109ae889f98/json 涨姿势每日精选
 https://api.feeddd.org/feeds/64393c0867ac2109ae889f9e/json 知乎生活实验室
 https://api.feeddd.org/feeds/64393c0867ac2109ae889fa4/json 专注于win11
 https://api.feeddd.org/feeds/64393c0967ac2109ae889faa/json 300汇
+https://api.feeddd.org/feeds/643a7a8867ac2109ae89323d/json 北望诗社
+https://api.feeddd.org/feeds/643a7a8967ac2109ae893243/json 不废社
+https://api.feeddd.org/feeds/643a7a8967ac2109ae893249/json 符号社Antigone
+https://api.feeddd.org/feeds/643a7a8967ac2109ae89324f/json 化学教员张子涵
+https://api.feeddd.org/feeds/643a7a8967ac2109ae893255/json 精神分析行知学派
+https://api.feeddd.org/feeds/643a7a8967ac2109ae89325b/json 说唱公园
+https://api.feeddd.org/feeds/643a7a8967ac2109ae893261/json 苏苇如
+https://api.feeddd.org/feeds/643a7a8967ac2109ae893267/json 五年四班劳动委员
+https://api.feeddd.org/feeds/643a7a8a67ac2109ae89326d/json 乡镇青年合作社
+https://api.feeddd.org/feeds/643a7a8a67ac2109ae893273/json 学过石油的语文老师
+https://api.feeddd.org/feeds/643a7a8a67ac2109ae893279/json 野火诗社
