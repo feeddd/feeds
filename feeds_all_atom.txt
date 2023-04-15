@@ -42330,3 +42330,14 @@ https://api.feeddd.org/feeds/64393c0867ac2109ae889f98/atom 涨姿势每日精选
 https://api.feeddd.org/feeds/64393c0867ac2109ae889f9e/atom 知乎生活实验室
 https://api.feeddd.org/feeds/64393c0867ac2109ae889fa4/atom 专注于win11
 https://api.feeddd.org/feeds/64393c0967ac2109ae889faa/atom 300汇
+https://api.feeddd.org/feeds/643a7a8867ac2109ae89323d/atom 北望诗社
+https://api.feeddd.org/feeds/643a7a8967ac2109ae893243/atom 不废社
+https://api.feeddd.org/feeds/643a7a8967ac2109ae893249/atom 符号社Antigone
+https://api.feeddd.org/feeds/643a7a8967ac2109ae89324f/atom 化学教员张子涵
+https://api.feeddd.org/feeds/643a7a8967ac2109ae893255/atom 精神分析行知学派
+https://api.feeddd.org/feeds/643a7a8967ac2109ae89325b/atom 说唱公园
+https://api.feeddd.org/feeds/643a7a8967ac2109ae893261/atom 苏苇如
+https://api.feeddd.org/feeds/643a7a8967ac2109ae893267/atom 五年四班劳动委员
+https://api.feeddd.org/feeds/643a7a8a67ac2109ae89326d/atom 乡镇青年合作社
+https://api.feeddd.org/feeds/643a7a8a67ac2109ae893273/atom 学过石油的语文老师
+https://api.feeddd.org/feeds/643a7a8a67ac2109ae893279/atom 野火诗社
