@@ -42341,3 +42341,6 @@ https://api.feeddd.org/feeds/643a7a8967ac2109ae893267/json 五年四班劳动委
 https://api.feeddd.org/feeds/643a7a8a67ac2109ae89326d/json 乡镇青年合作社
 https://api.feeddd.org/feeds/643a7a8a67ac2109ae893273/json 学过石油的语文老师
 https://api.feeddd.org/feeds/643a7a8a67ac2109ae893279/json 野火诗社
+https://api.feeddd.org/feeds/643b3f4267ac2109ae8a58d1/json 北京蒋大夫
+https://api.feeddd.org/feeds/643bbb7e67ac2109ae8ac52a/json 哈皮皮
+https://api.feeddd.org/feeds/643bbb7e67ac2109ae8ac52f/json 江门汇声汇色
