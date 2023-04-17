@@ -42344,3 +42344,7 @@ https://api.feeddd.org/feeds/643a7a8a67ac2109ae893279/json 野火诗社
 https://api.feeddd.org/feeds/643b3f4267ac2109ae8a58d1/json 北京蒋大夫
 https://api.feeddd.org/feeds/643bbb7e67ac2109ae8ac52a/json 哈皮皮
 https://api.feeddd.org/feeds/643bbb7e67ac2109ae8ac52f/json 江门汇声汇色
+https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2c5/json 电竞有你
+https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2ca/json 东莞东华医院服务号
+https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2d5/json 恩平
+https://api.feeddd.org/feeds/643caa8467ac2109ae8bf41c/json 恩平广播电视台
