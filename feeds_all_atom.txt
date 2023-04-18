@@ -42348,3 +42348,4 @@ https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2c5/atom 电竞有你
 https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2ca/atom 东莞东华医院服务号
 https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2d5/atom 恩平
 https://api.feeddd.org/feeds/643caa8467ac2109ae8bf41c/atom 恩平广播电视台
+https://api.feeddd.org/feeds/643dfd3167ac2109ae8e91fd/atom 长江赛事
