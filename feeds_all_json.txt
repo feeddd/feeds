@@ -42348,3 +42348,4 @@ https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2c5/json 电竞有你
 https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2ca/json 东莞东华医院服务号
 https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2d5/json 恩平
 https://api.feeddd.org/feeds/643caa8467ac2109ae8bf41c/json 恩平广播电视台
+https://api.feeddd.org/feeds/643dfd3167ac2109ae8e91fd/json 长江赛事
