@@ -42349,3 +42349,5 @@ https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2ca/atom 东莞东华医院服
 https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2d5/atom 恩平
 https://api.feeddd.org/feeds/643caa8467ac2109ae8bf41c/atom 恩平广播电视台
 https://api.feeddd.org/feeds/643dfd3167ac2109ae8e91fd/atom 长江赛事
+https://api.feeddd.org/feeds/643f55f367ac2109ae910e84/atom 孟京辉戏剧工作室
+https://api.feeddd.org/feeds/643fc2d767ac2109ae91a4da/atom 力文所
