@@ -42349,3 +42349,5 @@ https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2ca/json 东莞东华医院服
 https://api.feeddd.org/feeds/643ca97067ac2109ae8bf2d5/json 恩平
 https://api.feeddd.org/feeds/643caa8467ac2109ae8bf41c/json 恩平广播电视台
 https://api.feeddd.org/feeds/643dfd3167ac2109ae8e91fd/json 长江赛事
+https://api.feeddd.org/feeds/643f55f367ac2109ae910e84/json 孟京辉戏剧工作室
+https://api.feeddd.org/feeds/643fc2d767ac2109ae91a4da/json 力文所
