@@ -42440,3 +42440,5 @@ https://api.feeddd.org/feeds/6442704b67ac2109ae94f6c4/atom 学术与TeX
 https://api.feeddd.org/feeds/6442704b67ac2109ae94f6ca/atom 浙江农林大学图书馆
 https://api.feeddd.org/feeds/6442704b67ac2109ae94f6d0/atom 浙农林大数学与计算机科学学院
 https://api.feeddd.org/feeds/64427f7467ac2109ae95016f/atom 人大高瓴人工智能学院
+https://api.feeddd.org/feeds/6444a76d67ac2109ae9871bf/atom 和阿猫一起成长
+https://api.feeddd.org/feeds/6445250b3249eb09ada8c7cc/atom 锂电派
