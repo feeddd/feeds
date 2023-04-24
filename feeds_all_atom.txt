@@ -42442,3 +42442,5 @@ https://api.feeddd.org/feeds/6442704b67ac2109ae94f6d0/atom 浙农林大数学与
 https://api.feeddd.org/feeds/64427f7467ac2109ae95016f/atom 人大高瓴人工智能学院
 https://api.feeddd.org/feeds/6444a76d67ac2109ae9871bf/atom 和阿猫一起成长
 https://api.feeddd.org/feeds/6445250b3249eb09ada8c7cc/atom 锂电派
+https://api.feeddd.org/feeds/6445d2443249eb09ada98863/atom 江西服装学院
+https://api.feeddd.org/feeds/6445d2443249eb09ada98867/atom 江西科技师范大学
