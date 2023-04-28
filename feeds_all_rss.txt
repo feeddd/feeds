@@ -42791,3 +42791,14 @@ https://api.feeddd.org/feeds/644a178bdc9b2c36466dc617 读宋史的赵大胖
 https://api.feeddd.org/feeds/644a3508dc9b2c36466dd20c 地产广告灵感局
 https://api.feeddd.org/feeds/644a93f3dc9b2c36466e0e67 麦杰逊
 https://api.feeddd.org/feeds/644a93f3dc9b2c36466e0e6d 西坡原创
+https://api.feeddd.org/feeds/644ba1afdc9b2c36466f7440 Hanson老师
+https://api.feeddd.org/feeds/644bd887dc9b2c36466fc202 想得开的安开开
+https://api.feeddd.org/feeds/644bd887dc9b2c36466fc21b 兆日用户体验
+https://api.feeddd.org/feeds/644c0041dc9b2c36466ff9ed 虎猫复利笔记
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ff9f6 建榕量化研究
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ff9fc 价值投机牛亦飞
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa02 启四说
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa08 兔哥AC
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa0e 西柚投资笔记
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa14 业谈债市
+https://api.feeddd.org/feeds/644c3510dc9b2c364670a476 HiVision望岳投资
