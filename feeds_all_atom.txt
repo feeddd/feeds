@@ -42791,3 +42791,14 @@ https://api.feeddd.org/feeds/644a178bdc9b2c36466dc617/atom 读宋史的赵大胖
 https://api.feeddd.org/feeds/644a3508dc9b2c36466dd20c/atom 地产广告灵感局
 https://api.feeddd.org/feeds/644a93f3dc9b2c36466e0e67/atom 麦杰逊
 https://api.feeddd.org/feeds/644a93f3dc9b2c36466e0e6d/atom 西坡原创
+https://api.feeddd.org/feeds/644ba1afdc9b2c36466f7440/atom Hanson老师
+https://api.feeddd.org/feeds/644bd887dc9b2c36466fc202/atom 想得开的安开开
+https://api.feeddd.org/feeds/644bd887dc9b2c36466fc21b/atom 兆日用户体验
+https://api.feeddd.org/feeds/644c0041dc9b2c36466ff9ed/atom 虎猫复利笔记
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ff9f6/atom 建榕量化研究
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ff9fc/atom 价值投机牛亦飞
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa02/atom 启四说
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa08/atom 兔哥AC
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa0e/atom 西柚投资笔记
+https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa14/atom 业谈债市
+https://api.feeddd.org/feeds/644c3510dc9b2c364670a476/atom HiVision望岳投资
