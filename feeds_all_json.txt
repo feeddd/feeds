@@ -42802,3 +42802,5 @@ https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa08/json 兔哥AC
 https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa0e/json 西柚投资笔记
 https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa14/json 业谈债市
 https://api.feeddd.org/feeds/644c3510dc9b2c364670a476/json HiVision望岳投资
+https://api.feeddd.org/feeds/644c6550bab1043645e2665c/json 理淳
+https://api.feeddd.org/feeds/644ced2fdc9b2c364671d6e5/json 资水的投资茶馆
