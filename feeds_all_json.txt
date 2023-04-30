@@ -42804,3 +42804,18 @@ https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa14/json 业谈债市
 https://api.feeddd.org/feeds/644c3510dc9b2c364670a476/json HiVision望岳投资
 https://api.feeddd.org/feeds/644c6550bab1043645e2665c/json 理淳
 https://api.feeddd.org/feeds/644ced2fdc9b2c364671d6e5/json 资水的投资茶馆
+https://api.feeddd.org/feeds/644db574dc9b2c364672c33b/json 耕铭医轩
+https://api.feeddd.org/feeds/644db69fdc9b2c364672c57c/json 针道青年
+https://api.feeddd.org/feeds/644dca1fdc9b2c364672e347/json 阿彪的小目标
+https://api.feeddd.org/feeds/644dca20dc9b2c364672e34d/json 灰小财
+https://api.feeddd.org/feeds/644dca20dc9b2c364672e353/json 狐聊可转债
+https://api.feeddd.org/feeds/644dca20dc9b2c364672e359/json Lagom投资
+https://api.feeddd.org/feeds/644dca20dc9b2c364672e35f/json 夏夜瓜棚
+https://api.feeddd.org/feeds/644dd584dc9b2c364672f2d0/json 方远低风险投资
+https://api.feeddd.org/feeds/644dd584dc9b2c364672f2d6/json 海螺复盘
+https://api.feeddd.org/feeds/644dd584dc9b2c364672f2e0/json 可转债那点事
+https://api.feeddd.org/feeds/644dd585dc9b2c364672f2e8/json Risk at Value
+https://api.feeddd.org/feeds/644dd585dc9b2c364672f2ee/json 数据分析与运用
+https://api.feeddd.org/feeds/644dd585dc9b2c364672f2f4/json 小马白话期权
+https://api.feeddd.org/feeds/644e7ef6bab1043645e3388a/json galgame收集站
+https://api.feeddd.org/feeds/644e8021bab1043645e338a2/json 推书君订阅号
