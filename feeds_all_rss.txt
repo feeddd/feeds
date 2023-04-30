@@ -42804,3 +42804,18 @@ https://api.feeddd.org/feeds/644c0042dc9b2c36466ffa14 业谈债市
 https://api.feeddd.org/feeds/644c3510dc9b2c364670a476 HiVision望岳投资
 https://api.feeddd.org/feeds/644c6550bab1043645e2665c 理淳
 https://api.feeddd.org/feeds/644ced2fdc9b2c364671d6e5 资水的投资茶馆
+https://api.feeddd.org/feeds/644db574dc9b2c364672c33b 耕铭医轩
+https://api.feeddd.org/feeds/644db69fdc9b2c364672c57c 针道青年
+https://api.feeddd.org/feeds/644dca1fdc9b2c364672e347 阿彪的小目标
+https://api.feeddd.org/feeds/644dca20dc9b2c364672e34d 灰小财
+https://api.feeddd.org/feeds/644dca20dc9b2c364672e353 狐聊可转债
+https://api.feeddd.org/feeds/644dca20dc9b2c364672e359 Lagom投资
+https://api.feeddd.org/feeds/644dca20dc9b2c364672e35f 夏夜瓜棚
+https://api.feeddd.org/feeds/644dd584dc9b2c364672f2d0 方远低风险投资
+https://api.feeddd.org/feeds/644dd584dc9b2c364672f2d6 海螺复盘
+https://api.feeddd.org/feeds/644dd584dc9b2c364672f2e0 可转债那点事
+https://api.feeddd.org/feeds/644dd585dc9b2c364672f2e8 Risk at Value
+https://api.feeddd.org/feeds/644dd585dc9b2c364672f2ee 数据分析与运用
+https://api.feeddd.org/feeds/644dd585dc9b2c364672f2f4 小马白话期权
+https://api.feeddd.org/feeds/644e7ef6bab1043645e3388a galgame收集站
+https://api.feeddd.org/feeds/644e8021bab1043645e338a2 推书君订阅号
