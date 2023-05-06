@@ -43430,3 +43430,9 @@ https://feed.hamibot.com/api/feeds/6454743c00debd44953ca382 桌聚榭
 https://feed.hamibot.com/api/feeds/6454743d00debd44953ca388 作文选刊
 https://feed.hamibot.com/api/feeds/64547aa900debd44953ca6e8 智联测培
 https://feed.hamibot.com/api/feeds/6454f92ae889b5448f8b2d7e 北外就业创业
+https://feed.hamibot.com/api/feeds/64557c8900debd44953d142a 大X指南
+https://feed.hamibot.com/api/feeds/64557c8900debd44953d1430 星云医学检测
+https://feed.hamibot.com/api/feeds/64557c8900debd44953d1436 作手凌一
+https://feed.hamibot.com/api/feeds/6455c41a00debd44953d34bb Runto洛图科技观研
+https://feed.hamibot.com/api/feeds/64561d10e889b5448f8bfb5f 俗医习业
+https://feed.hamibot.com/api/feeds/6456986a00debd44953d9535 龚林轩
