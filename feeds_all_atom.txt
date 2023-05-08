@@ -43436,3 +43436,14 @@ https://feed.hamibot.com/api/feeds/64557c8900debd44953d1436/atom 作手凌一
 https://feed.hamibot.com/api/feeds/6455c41a00debd44953d34bb/atom Runto洛图科技观研
 https://feed.hamibot.com/api/feeds/64561d10e889b5448f8bfb5f/atom 俗医习业
 https://feed.hamibot.com/api/feeds/6456986a00debd44953d9535/atom 龚林轩
+https://feed.hamibot.com/api/feeds/64584d8f00debd44953f039d/atom ACCA特许公认会计师公会
+https://feed.hamibot.com/api/feeds/64584d8f00debd44953f03a3/atom ACCA资料库
+https://feed.hamibot.com/api/feeds/64584d8f00debd44953f03a9/atom 高中数学每日一题
+https://feed.hamibot.com/api/feeds/64584d9000debd44953f03af/atom 高中语文学习助手
+https://feed.hamibot.com/api/feeds/64584d9000debd44953f03b5/atom 每日一题高中数学
+https://feed.hamibot.com/api/feeds/64584d9000debd44953f03bb/atom Qt教程
+https://feed.hamibot.com/api/feeds/64584d9000debd44953f03c1/atom SUST数学学院
+https://feed.hamibot.com/api/feeds/64584d9000debd44953f03c7/atom 物理侯老师
+https://feed.hamibot.com/api/feeds/64584d9000debd44953f03cd/atom 鸭题库注册会计师
+https://feed.hamibot.com/api/feeds/64584d9000debd44953f03d3/atom 与Celeio同行
+https://feed.hamibot.com/api/feeds/6459090000debd44953fc057/atom 商法李建伟
