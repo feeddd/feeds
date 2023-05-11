@@ -43977,3 +43977,4 @@ https://feed.hamibot.com/api/feeds/645a99da00debd44954224d6/json 云会员一卡
 https://feed.hamibot.com/api/feeds/645a99db00debd44954224dc/json 中信银行深圳分行
 https://feed.hamibot.com/api/feeds/645aa77700debd4495422b7d/json 坏酷儿厨房bad queer cook
 https://feed.hamibot.com/api/feeds/645aecfc00debd4495431b94/json 广发黄埔荟
+https://feed.hamibot.com/api/feeds/645cf78f00debd449544b8e2/json 书单兔
