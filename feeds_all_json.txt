@@ -43980,3 +43980,13 @@ https://feed.hamibot.com/api/feeds/645aecfc00debd4495431b94/json 广发黄埔荟
 https://feed.hamibot.com/api/feeds/645cf78f00debd449544b8e2/json 书单兔
 https://feed.hamibot.com/api/feeds/645dbe91e889b5448f8f624e/json 嵌入式微处理器
 https://feed.hamibot.com/api/feeds/645e430100debd4495456a9f/json Today苏州
+https://feed.hamibot.com/api/feeds/645ee4a0e889b5448f9038ef/json OnePingAnDesign
+https://feed.hamibot.com/api/feeds/645f67cc00debd449545eb9f/json 中国能源杂志社
+https://feed.hamibot.com/api/feeds/645f8a6b00debd449545fd25/json 国宏高端智库
+https://feed.hamibot.com/api/feeds/645f8a6b00debd449545fd2b/json 国际能源网
+https://feed.hamibot.com/api/feeds/645f8a6b00debd449545fd35/json 老墨水
+https://feed.hamibot.com/api/feeds/645f8a6b00debd449545fd3d/json 绿色低碳金融产业委员会
+https://feed.hamibot.com/api/feeds/645f8a6b00debd449545fd43/json 绿色金融资讯
+https://feed.hamibot.com/api/feeds/645f8a6c00debd449545fd49/json 清泉能源SpringEnergy
+https://feed.hamibot.com/api/feeds/645f8a6c00debd449545fd51/json 外交官说事儿
+https://feed.hamibot.com/api/feeds/645f8a6c00debd449545fd57/json 新华文摘杂志
