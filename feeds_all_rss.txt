@@ -43990,3 +43990,4 @@ https://feed.hamibot.com/api/feeds/645f8a6b00debd449545fd43 绿色金融资讯
 https://feed.hamibot.com/api/feeds/645f8a6c00debd449545fd49 清泉能源SpringEnergy
 https://feed.hamibot.com/api/feeds/645f8a6c00debd449545fd51 外交官说事儿
 https://feed.hamibot.com/api/feeds/645f8a6c00debd449545fd57 新华文摘杂志
+https://feed.hamibot.com/api/feeds/6460f9ebe889b5448f910d0e 意法半导体中国
