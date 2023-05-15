@@ -43991,3 +43991,4 @@ https://feed.hamibot.com/api/feeds/645f8a6c00debd449545fd49/json 清泉能源Spr
 https://feed.hamibot.com/api/feeds/645f8a6c00debd449545fd51/json 外交官说事儿
 https://feed.hamibot.com/api/feeds/645f8a6c00debd449545fd57/json 新华文摘杂志
 https://feed.hamibot.com/api/feeds/6460f9ebe889b5448f910d0e/json 意法半导体中国
+https://feed.hamibot.com/api/feeds/6461bb5d00debd449546c93e/json 智次方
