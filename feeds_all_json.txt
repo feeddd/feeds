@@ -43992,3 +43992,10 @@ https://feed.hamibot.com/api/feeds/645f8a6c00debd449545fd51/json 外交官说事
 https://feed.hamibot.com/api/feeds/645f8a6c00debd449545fd57/json 新华文摘杂志
 https://feed.hamibot.com/api/feeds/6460f9ebe889b5448f910d0e/json 意法半导体中国
 https://feed.hamibot.com/api/feeds/6461bb5d00debd449546c93e/json 智次方
+https://feed.hamibot.com/api/feeds/6462ef6000debd44954710ae/json 看天下实验室
+https://feed.hamibot.com/api/feeds/6462f0b3e889b5448f92b29b/json 代谢组metabolome
+https://feed.hamibot.com/api/feeds/6462f0b3e889b5448f92b2ae/json 病毒学界
+https://feed.hamibot.com/api/feeds/6462f1e400debd4495471194/json 学术经纬
+https://feed.hamibot.com/api/feeds/6463018300debd4495471a5d/json ShowMeAI研究中心
+https://feed.hamibot.com/api/feeds/6463b44100debd449547735a/json 无性吸引之声
+https://feed.hamibot.com/api/feeds/6463bb4100debd44954773f0/json 库拉姆塔塔Lambda
