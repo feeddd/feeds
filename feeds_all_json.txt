@@ -43999,3 +43999,5 @@ https://feed.hamibot.com/api/feeds/6462f1e400debd4495471194/json 学术经纬
 https://feed.hamibot.com/api/feeds/6463018300debd4495471a5d/json ShowMeAI研究中心
 https://feed.hamibot.com/api/feeds/6463b44100debd449547735a/json 无性吸引之声
 https://feed.hamibot.com/api/feeds/6463bb4100debd44954773f0/json 库拉姆塔塔Lambda
+https://feed.hamibot.com/api/feeds/6464767500debd449548ef6a/json 财神星球
+https://feed.hamibot.com/api/feeds/6464badce889b5448f92c83a/json 时钟与罗盘
