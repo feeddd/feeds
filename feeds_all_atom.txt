@@ -43999,3 +43999,5 @@ https://feed.hamibot.com/api/feeds/6462f1e400debd4495471194/atom 学术经纬
 https://feed.hamibot.com/api/feeds/6463018300debd4495471a5d/atom ShowMeAI研究中心
 https://feed.hamibot.com/api/feeds/6463b44100debd449547735a/atom 无性吸引之声
 https://feed.hamibot.com/api/feeds/6463bb4100debd44954773f0/atom 库拉姆塔塔Lambda
+https://feed.hamibot.com/api/feeds/6464767500debd449548ef6a/atom 财神星球
+https://feed.hamibot.com/api/feeds/6464badce889b5448f92c83a/atom 时钟与罗盘
