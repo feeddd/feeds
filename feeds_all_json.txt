@@ -44001,3 +44001,8 @@ https://feed.hamibot.com/api/feeds/6463b44100debd449547735a/json 无性吸引之
 https://feed.hamibot.com/api/feeds/6463bb4100debd44954773f0/json 库拉姆塔塔Lambda
 https://feed.hamibot.com/api/feeds/6464767500debd449548ef6a/json 财神星球
 https://feed.hamibot.com/api/feeds/6464badce889b5448f92c83a/json 时钟与罗盘
+https://feed.hamibot.com/api/feeds/64658814e889b5448f93980b/json 上饶师范学院招生办
+https://feed.hamibot.com/api/feeds/6465e229e889b5448f939c10/json 虎说天下
+https://feed.hamibot.com/api/feeds/64660322e889b5448f939da2/json 广发期货研究
+https://feed.hamibot.com/api/feeds/64663c7800debd44954b9b62/json 米粒的消费研究
+https://feed.hamibot.com/api/feeds/6466472b00debd44954ba1e4/json 老盐蛋炒饭
