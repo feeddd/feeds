@@ -44006,3 +44006,6 @@ https://feed.hamibot.com/api/feeds/6465e229e889b5448f939c10 虎说天下
 https://feed.hamibot.com/api/feeds/64660322e889b5448f939da2 广发期货研究
 https://feed.hamibot.com/api/feeds/64663c7800debd44954b9b62 米粒的消费研究
 https://feed.hamibot.com/api/feeds/6466472b00debd44954ba1e4 老盐蛋炒饭
+https://feed.hamibot.com/api/feeds/646740b0e889b5448f94756c 阅微号
+https://feed.hamibot.com/api/feeds/6467526300debd44954c1c1a 魔兽世界攻略大全
+https://feed.hamibot.com/api/feeds/646768e200debd44954c370e 游戏时光VGtime
