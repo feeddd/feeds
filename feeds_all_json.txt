@@ -44009,3 +44009,5 @@ https://feed.hamibot.com/api/feeds/6466472b00debd44954ba1e4/json 老盐蛋炒饭
 https://feed.hamibot.com/api/feeds/646740b0e889b5448f94756c/json 阅微号
 https://feed.hamibot.com/api/feeds/6467526300debd44954c1c1a/json 魔兽世界攻略大全
 https://feed.hamibot.com/api/feeds/646768e200debd44954c370e/json 游戏时光VGtime
+https://feed.hamibot.com/api/feeds/6468335f00debd44954ca72c/json 宇宙领域科技
+https://feed.hamibot.com/api/feeds/6468a99ce889b5448f954bc2/json 江西理工大学招生就业处
