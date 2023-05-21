@@ -44011,3 +44011,432 @@ https://feed.hamibot.com/api/feeds/6467526300debd44954c1c1a 魔兽世界攻略�
 https://feed.hamibot.com/api/feeds/646768e200debd44954c370e 游戏时光VGtime
 https://feed.hamibot.com/api/feeds/6468335f00debd44954ca72c 宇宙领域科技
 https://feed.hamibot.com/api/feeds/6468a99ce889b5448f954bc2 江西理工大学招生就业处
+https://feed.hamibot.com/api/feeds/64696fa000debd44954f8153 浙大信电
+https://feed.hamibot.com/api/feeds/6469ba3800debd44955018cb ADAS
+https://feed.hamibot.com/api/feeds/6469ba3800debd44955018d1 Agent的潜意识
+https://feed.hamibot.com/api/feeds/6469ba3800debd44955018d7 AIChallenger挑战赛
+https://feed.hamibot.com/api/feeds/6469ba3800debd44955018dd AI教研室
+https://feed.hamibot.com/api/feeds/6469ba3800debd44955018e3 AI精研社
+https://feed.hamibot.com/api/feeds/6469ba3900debd44955018e9 AI技术星球
+https://feed.hamibot.com/api/feeds/6469ba3900debd44955018ef AI聊天问答对话机器人
+https://feed.hamibot.com/api/feeds/6469ba3900debd44955018f5 爱玛服务
+https://feed.hamibot.com/api/feeds/6469ba3900debd44955018fb AISDK
+https://feed.hamibot.com/api/feeds/6469ba3900debd4495501901 AI商学院
+https://feed.hamibot.com/api/feeds/6469ba3900debd4495501907 All new 黑科技
+https://feed.hamibot.com/api/feeds/6469ba3900debd449550190d AL外卖
+https://feed.hamibot.com/api/feeds/6469ba3a00debd4495501913 安珀网
+https://feed.hamibot.com/api/feeds/6469ba3a00debd4495501919 澳洲红领君
+https://feed.hamibot.com/api/feeds/6469ba3a00debd449550191f ATYUN订阅号
+https://feed.hamibot.com/api/feeds/6469ba3a00debd4495501927 八卦青年汇
+https://feed.hamibot.com/api/feeds/6469ba3a00debd449550192d 柏惠维康Remebot
+https://feed.hamibot.com/api/feeds/6469ba3a00debd4495501933 保定汽车总站
+https://feed.hamibot.com/api/feeds/6469ba3a00debd4495501939 报告查一查
+https://feed.hamibot.com/api/feeds/6469ba3a00debd449550193f BBT Fintech圈子
+https://feed.hamibot.com/api/feeds/6469ba3b00debd4495501945 北大医疗
+https://feed.hamibot.com/api/feeds/6469ba3b00debd449550194b 北京大学学报
+https://feed.hamibot.com/api/feeds/6469ba3b00debd4495501951 北京好近
+https://feed.hamibot.com/api/feeds/6469ba3b00debd4495501957 北京景区门票预约
+https://feed.hamibot.com/api/feeds/6469ba3b00debd449550195d 北京肯德基
+https://feed.hamibot.com/api/feeds/6469ba3b00debd4495501966 北京龙庆峡
+https://feed.hamibot.com/api/feeds/6469ba3b00debd449550196c 北京市昌平区沙河医院
+https://feed.hamibot.com/api/feeds/6469ba3c00debd4495501972 北京市吃喝玩乐蒲
+https://feed.hamibot.com/api/feeds/6469ba3c00debd4495501978 北京世园公园
+https://feed.hamibot.com/api/feeds/6469ba3c00debd449550197e 北京乐家优鲜生活超市
+https://feed.hamibot.com/api/feeds/6469ba3c00debd4495501984 北美工程师求职顾问
+https://feed.hamibot.com/api/feeds/6469ba3c00debd449550198a 北溟星月
+https://feed.hamibot.com/api/feeds/6469ba3c00debd4495501990 北清青青旅行
+https://feed.hamibot.com/api/feeds/6469ba3c00debd4495501996 本硕博之家
+https://feed.hamibot.com/api/feeds/6469ba3c00debd449550199c 变革创新
+https://feed.hamibot.com/api/feeds/6469ba3d00debd44955019a2 必惠生活
+https://feed.hamibot.com/api/feeds/6469ba3d00debd44955019a8 碧山旅行
+https://feed.hamibot.com/api/feeds/6469ba3d00debd44955019ae 比斯特系列
+https://feed.hamibot.com/api/feeds/6469ba3d00debd44955019b4 BlockTrain
+https://feed.hamibot.com/api/feeds/6469ba3d00debd44955019ba 博野县同连中学
+https://feed.hamibot.com/api/feeds/6469ba3d00debd44955019c0 不要放在头上
+https://feed.hamibot.com/api/feeds/6469ba3e00debd44955019c6 槽点娱乐
+https://feed.hamibot.com/api/feeds/6469ba3e00debd44955019cc CCF计算机视觉专委会
+https://feed.hamibot.com/api/feeds/6469ba3e00debd44955019d2 茶大椰
+https://feed.hamibot.com/api/feeds/6469ba3e00debd44955019d8 唱吧麦颂
+https://feed.hamibot.com/api/feeds/6469ba3e00debd44955019de 超级进化群
+https://feed.hamibot.com/api/feeds/6469ba3e00debd44955019e4 超瞳
+https://feed.hamibot.com/api/feeds/6469ba3f00debd44955019ea 朝闻天下事
+https://feed.hamibot.com/api/feeds/6469ba3f00debd44955019f0 差评Hub
+https://feed.hamibot.com/api/feeds/6469ba3f00debd44955019f8 成都天府通
+https://feed.hamibot.com/api/feeds/6469ba3f00debd44955019fe 橙啦教育
+https://feed.hamibot.com/api/feeds/6469ba3f00debd4495501a04 程序化交易入门
+https://feed.hamibot.com/api/feeds/6469ba3f00debd4495501a0a 程序猿的算法修炼
+https://feed.hamibot.com/api/feeds/6469ba4000debd4495501a10 程序员数学之美
+https://feed.hamibot.com/api/feeds/6469ba4000debd4495501a16 程序员云课堂
+https://feed.hamibot.com/api/feeds/6469ba4000debd4495501a1c 程序员之家
+https://feed.hamibot.com/api/feeds/6469ba4000debd4495501a22 虫洞Vivian
+https://feed.hamibot.com/api/feeds/6469ba4000debd4495501a28 出海小螺号
+https://feed.hamibot.com/api/feeds/6469ba4000debd4495501a2e coderpai
+https://feed.hamibot.com/api/feeds/6469ba4000debd4495501a34 ColaDaily
+https://feed.hamibot.com/api/feeds/6469ba4000debd4495501a3a CometLabs
+https://feed.hamibot.com/api/feeds/6469ba4100debd4495501a40 CreateAMind
+https://feed.hamibot.com/api/feeds/6469ba4100debd4495501a46 CSIG视觉大数据
+https://feed.hamibot.com/api/feeds/6469ba4100debd4495501a4c 达观数据
+https://feed.hamibot.com/api/feeds/6469ba4100debd4495501a52 搭伙学术
+https://feed.hamibot.com/api/feeds/6469ba4100debd4495501a58 代码笔记哥
+https://feed.hamibot.com/api/feeds/6469ba4100debd4495501a5e 大圣众包
+https://feed.hamibot.com/api/feeds/6469ba4100debd4495501a64 大数据分析俱乐部
+https://feed.hamibot.com/api/feeds/6469ba4200debd4495501a6a 大数据公社
+https://feed.hamibot.com/api/feeds/6469ba4200debd4495501a73 大数据与机器学习文摘
+https://feed.hamibot.com/api/feeds/6469ba4200debd4495501a79 大数据与人工智能Lab
+https://feed.hamibot.com/api/feeds/6469ba4200debd4495501a7f Datartisan数据工匠
+https://feed.hamibot.com/api/feeds/6469ba4200debd4495501a85 DATATIST大数据家
+https://feed.hamibot.com/api/feeds/6469ba4200debd4495501a8b 大医苗
+https://feed.hamibot.com/api/feeds/6469ba4200debd4495501a91 大鱼AI
+https://feed.hamibot.com/api/feeds/6469ba4300debd4495501a97 得见枫华
+https://feed.hamibot.com/api/feeds/6469ba4300debd4495501a9d 地平线HorizonRobotics
+https://feed.hamibot.com/api/feeds/6469ba4300debd4495501aa3 地学新视野
+https://feed.hamibot.com/api/feeds/6469ba4300debd4495501aa9 德云社官方号
+https://feed.hamibot.com/api/feeds/6469ba4300debd4495501aaf 点外卖小助手
+https://feed.hamibot.com/api/feeds/6469ba4300debd4495501ab5 电源线PowerLine
+https://feed.hamibot.com/api/feeds/6469ba4300debd4495501abb 电子邀请函免费啦
+https://feed.hamibot.com/api/feeds/6469ba4400debd4495501ac1 滴水之家平台
+https://feed.hamibot.com/api/feeds/6469ba4400debd4495501ac7 第四范式
+https://feed.hamibot.com/api/feeds/6469ba4400debd4495501acd 东方时尚驾驶学校
+https://feed.hamibot.com/api/feeds/6469ba4400debd4495501ad3 读财社
+https://feed.hamibot.com/api/feeds/6469ba4400debd4495501ad9 对话老板
+https://feed.hamibot.com/api/feeds/6469ba4400debd4495501adf 对撞
+https://feed.hamibot.com/api/feeds/6469ba4400debd4495501ae5 独立开发者
+https://feed.hamibot.com/api/feeds/6469ba4500debd4495501aeb 鳄鱼财金
+https://feed.hamibot.com/api/feeds/6469ba4500debd4495501af1 飞搜让城市更加智慧
+https://feed.hamibot.com/api/feeds/6469ba4500debd4495501af7 风生趣图
+https://feed.hamibot.com/api/feeds/6469ba4500debd4495501afe FinTech社区 咨询
+https://feed.hamibot.com/api/feeds/6469ba4500debd4495501b04 FLAGDream
+https://feed.hamibot.com/api/feeds/6469ba4500debd4495501b0a 复旦金融汇
+https://feed.hamibot.com/api/feeds/6469ba4500debd4495501b10 deeplearningclass
+https://feed.hamibot.com/api/feeds/6469ba4600debd4495501b16 gh_14b0b2e5a7ad
+https://feed.hamibot.com/api/feeds/6469ba4600debd4495501b1c gh_1f93f6397b02
+https://feed.hamibot.com/api/feeds/6469ba4600debd4495501b22 jiqirenneican
+https://feed.hamibot.com/api/feeds/6469ba4600debd4495501b28 gh_3961a3883e48
+https://feed.hamibot.com/api/feeds/6469ba4600debd4495501b2e 呷哺呷哺北京
+https://feed.hamibot.com/api/feeds/6469ba4600debd4495501b34 橄榄枝一检通
+https://feed.hamibot.com/api/feeds/6469ba4600debd4495501b3a 赶趟巴士服务号
+https://feed.hamibot.com/api/feeds/6469ba4700debd4495501b40 高工移动机器人
+https://feed.hamibot.com/api/feeds/6469ba4700debd4495501b46 搞深度学习的账号名字一定要够长
+https://feed.hamibot.com/api/feeds/6469ba4700debd4495501b4c 格灵深瞳
+https://feed.hamibot.com/api/feeds/6469ba4700debd4495501b52 跟我学opencv
+https://feed.hamibot.com/api/feeds/6469ba4700debd4495501b58 get教程
+https://feed.hamibot.com/api/feeds/6469ba4700debd4495501b5e GoFun出行
+https://feed.hamibot.com/api/feeds/6469ba4700debd4495501b64 功夫英语
+https://feed.hamibot.com/api/feeds/6469ba4700debd4495501b6d 狗血事儿
+https://feed.hamibot.com/api/feeds/6469ba4800debd4495501b73 怪兽学堂
+https://feed.hamibot.com/api/feeds/6469ba4800debd4495501b79 硅谷精英程序员
+https://feed.hamibot.com/api/feeds/6469ba4800debd4495501b7f 国网北京电力
+https://feed.hamibot.com/api/feeds/6469ba4800debd4495501b85 海淀公安
+https://feed.hamibot.com/api/feeds/6469ba4800debd4495501b8b 海信合伙人
+https://feed.hamibot.com/api/feeds/6469ba4800debd4495501b91 海招Club
+https://feed.hamibot.com/api/feeds/6469ba4800debd4495501b97 汉北娘
+https://feed.hamibot.com/api/feeds/6469ba4900debd4495501b9d hanniman
+https://feed.hamibot.com/api/feeds/6469ba4900debd4495501ba3 好玩的数学
+https://feed.hamibot.com/api/feeds/6469ba4900debd4495501ba9 河北交通一卡通
+https://feed.hamibot.com/api/feeds/6469ba4900debd4495501baf 和bobo的眼睛一起看世界
+https://feed.hamibot.com/api/feeds/6469ba4900debd4495501bb5 黑白调电脑椅
+https://feed.hamibot.com/api/feeds/6469ba4900debd4495501bbb 黑白灰的杂货铺
+https://feed.hamibot.com/api/feeds/6469ba4a00debd4495501bc1 黑镜
+https://feed.hamibot.com/api/feeds/6469ba4a00debd4495501bc7 河津传媒
+https://feed.hamibot.com/api/feeds/6469ba4a00debd4495501bcd 和鲸社区
+https://feed.hamibot.com/api/feeds/6469ba4a00debd4495501bd3 荷兰微生活
+https://feed.hamibot.com/api/feeds/6469ba4a00debd4495501bd9 核桃英语WalnutEnglish
+https://feed.hamibot.com/api/feeds/6469ba4a00debd4495501bdf HiTech工坊
+https://feed.hamibot.com/api/feeds/6469ba4b00debd4495501be5 红蓝CP
+https://feed.hamibot.com/api/feeds/6469ba4b00debd4495501beb How学社
+https://feed.hamibot.com/api/feeds/6469ba4b00debd4495501bf1 华歌智家
+https://feed.hamibot.com/api/feeds/6469ba4b00debd4495501bf8 湖大师兄师姐说职场
+https://feed.hamibot.com/api/feeds/6469ba4b00debd4495501bfe 惠省买买买
+https://feed.hamibot.com/api/feeds/6469ba4b00debd4495501c04 互联网加商业思维
+https://feed.hamibot.com/api/feeds/6469ba4b00debd4495501c0a 呼声
+https://feed.hamibot.com/api/feeds/6469ba4c00debd4495501c10 IntelligentThings
+https://feed.hamibot.com/api/feeds/6469ba4c00debd4495501c16 IT大咖说
+https://feed.hamibot.com/api/feeds/6469ba4c00debd4495501c1c Java架构师之路
+https://feed.hamibot.com/api/feeds/6469ba4c00debd4495501c22 家长进化论
+https://feed.hamibot.com/api/feeds/6469ba4c00debd4495501c28 加盟家
+https://feed.hamibot.com/api/feeds/6469ba4d00debd4495501c2e 江衍科技
+https://feed.hamibot.com/api/feeds/6469ba4d00debd4495501c34 家清网
+https://feed.hamibot.com/api/feeds/6469ba4d00debd4495501c3a 极豆车联网
+https://feed.hamibot.com/api/feeds/6469ba4d00debd4495501c43 集美先生
+https://feed.hamibot.com/api/feeds/6469ba4e00debd4495501c49 金刀慧见孙娟的书房
+https://feed.hamibot.com/api/feeds/6469ba4e00debd4495501c4f 金点驿充
+https://feed.hamibot.com/api/feeds/6469ba4e00debd4495501c55 京北仙
+https://feed.hamibot.com/api/feeds/6469ba4e00debd4495501c5b 井底望天
+https://feed.hamibot.com/api/feeds/6469ba4f00debd4495501c61 京津冀旅游年票
+https://feed.hamibot.com/api/feeds/6469ba4f00debd4495501c67 经济学家智库
+https://feed.hamibot.com/api/feeds/6469ba4f00debd4495501c6d 金龙鱼知食青年
+https://feed.hamibot.com/api/feeds/6469ba4f00debd4495501c73 金融街午餐会
+https://feed.hamibot.com/api/feeds/6469ba4f00debd4495501c79 金山云大米
+https://feed.hamibot.com/api/feeds/6469ba4f00debd4495501c7f 机器人AI资讯
+https://feed.hamibot.com/api/feeds/6469ba4f00debd4495501c85 机器人创新生态
+https://feed.hamibot.com/api/feeds/6469ba5000debd4495501c8b 机器视觉助手
+https://feed.hamibot.com/api/feeds/6469ba5000debd4495501c91 机器学习blog
+https://feed.hamibot.com/api/feeds/6469ba5000debd4495501c97 机器学习读书会
+https://feed.hamibot.com/api/feeds/6469ba5000debd4495501c9d 机器学习X计划
+https://feed.hamibot.com/api/feeds/6469ba5000debd4495501ca3 机器学习与人工智能
+https://feed.hamibot.com/api/feeds/6469ba5000debd4495501ca9 机器学习之家
+https://feed.hamibot.com/api/feeds/6469ba5100debd4495501caf 极视角
+https://feed.hamibot.com/api/feeds/6469ba5100debd4495501cb7 技术琐话
+https://feed.hamibot.com/api/feeds/6469ba5100debd4495501cbd 计算机视觉研究院
+https://feed.hamibot.com/api/feeds/6469ba5100debd4495501cc3 机械鸡
+https://feed.hamibot.com/api/feeds/6469ba5100debd4495501cc9 吉因加在线
+https://feed.hamibot.com/api/feeds/6469ba5100debd4495501ccf 极智嘉科技
+https://feed.hamibot.com/api/feeds/6469ba5100debd4495501cd5 决策杂志
+https://feed.hamibot.com/api/feeds/6469ba5100debd4495501cdb 君君电影院
+https://feed.hamibot.com/api/feeds/6469ba5200debd4495501ce1 聚英厦大考研网
+https://feed.hamibot.com/api/feeds/6469ba5200debd4495501ce7 凯瑟琳大王
+https://feed.hamibot.com/api/feeds/6469ba5200debd4495501ced 看看精选
+https://feed.hamibot.com/api/feeds/6469ba5200debd4495501cf3 考博
+https://feed.hamibot.com/api/feeds/6469ba5200debd4495501cf9 考虫考研英语长难句
+https://feed.hamibot.com/api/feeds/6469ba5200debd4495501cff 考研道
+https://feed.hamibot.com/api/feeds/6469ba5200debd4495501d05 考研过来人
+https://feed.hamibot.com/api/feeds/6469ba5300debd4495501d0b 考研热点
+https://feed.hamibot.com/api/feeds/6469ba5300debd4495501d11 考研英语时事阅读
+https://feed.hamibot.com/api/feeds/6469ba5300debd4495501d17 考研早点
+https://feed.hamibot.com/api/feeds/6469ba5300debd4495501d1d 科学育儿学
+https://feed.hamibot.com/api/feeds/6469ba5300debd4495501d23 快商通
+https://feed.hamibot.com/api/feeds/6469ba5300debd4495501d29 快团特享好货
+https://feed.hamibot.com/api/feeds/6469ba5300debd4495501d2f 酷读电影
+https://feed.hamibot.com/api/feeds/6469ba5300debd4495501d35 浪潮AIHPC
+https://feed.hamibot.com/api/feeds/6469ba5400debd4495501d3b LeadAI OpenLab
+https://feed.hamibot.com/api/feeds/6469ba5400debd4495501d41 LearningArea
+https://feed.hamibot.com/api/feeds/6469ba5400debd4495501d47 两孩家庭
+https://feed.hamibot.com/api/feeds/6469ba5400debd4495501d4d 量化交易实战篇
+https://feed.hamibot.com/api/feeds/6469ba5400debd4495501d53 量化侠
+https://feed.hamibot.com/api/feeds/6469ba5400debd4495501d59 量子学园
+https://feed.hamibot.com/api/feeds/6469ba5400debd4495501d5f 炼数成金
+https://feed.hamibot.com/api/feeds/6469ba5500debd4495501d65 炼数成金前沿推荐
+https://feed.hamibot.com/api/feeds/6469ba5500debd4495501d6b LibRec智能推荐
+https://feed.hamibot.com/api/feeds/6469ba5500debd4495501d71 Life北京
+https://feed.hamibot.com/api/feeds/6469ba5500debd4495501d77 灵伴科技
+https://feed.hamibot.com/api/feeds/6469ba5500debd4495501d7d 零零无限
+https://feed.hamibot.com/api/feeds/6469ba5500debd4495501d83 李群自动化
+https://feed.hamibot.com/api/feeds/6469ba5500debd4495501d89 里瑟琦智库
+https://feed.hamibot.com/api/feeds/6469ba5500debd4495501d8f 流弊哥
+https://feed.hamibot.com/api/feeds/6469ba5600debd4495501d95 留学生微日记
+https://feed.hamibot.com/api/feeds/6469ba5600debd4495501d9f 龙源网
+https://feed.hamibot.com/api/feeds/6469ba5600debd4495501da8 迈格森国际教育北京大区
+https://feed.hamibot.com/api/feeds/6469ba5600debd4495501db0 码隆人工智能
+https://feed.hamibot.com/api/feeds/6469ba5600debd4495501db7 慢慢学TensorFlow
+https://feed.hamibot.com/api/feeds/6469ba5600debd4495501dbf 码农code之路
+https://feed.hamibot.com/api/feeds/6469ba5700debd4495501dc7 码书会
+https://feed.hamibot.com/api/feeds/6469ba5700debd4495501dcf 明说全天下
+https://feed.hamibot.com/api/feeds/6469ba5700debd4495501dd7 民宿头条
+https://feed.hamibot.com/api/feeds/6469ba5700debd4495501dde 民智国际研究院
+https://feed.hamibot.com/api/feeds/6469ba5700debd4495501de6 慕课考研人
+https://feed.hamibot.com/api/feeds/6469ba5700debd4495501dee 慕课英语
+https://feed.hamibot.com/api/feeds/6469ba5700debd4495501df6 南方优品生活
+https://feed.hamibot.com/api/feeds/6469ba5700debd4495501dff 奈园
+https://feed.hamibot.com/api/feeds/6469ba5800debd4495501e07 楠姐TALK
+https://feed.hamibot.com/api/feeds/6469ba5800debd4495501e0f 脑友记BrainUp
+https://feed.hamibot.com/api/feeds/6469ba5800debd4495501e16 NASA爱好者
+https://feed.hamibot.com/api/feeds/6469ba5800debd4495501e1f NASA探索者
+https://feed.hamibot.com/api/feeds/6469ba5800debd4495501e27 南叔三话
+https://feed.hamibot.com/api/feeds/6469ba5800debd4495501e2f 年薪百万架构师
+https://feed.hamibot.com/api/feeds/6469ba5900debd4495501e38 诺亦腾
+https://feed.hamibot.com/api/feeds/6469ba5900debd4495501e40 OpenCV学堂
+https://feed.hamibot.com/api/feeds/6469ba5900debd4495501e48 番茄匠番茄鱼饭
+https://feed.hamibot.com/api/feeds/6469ba5900debd4495501e51 磐石说
+https://feed.hamibot.com/api/feeds/6469ba5900debd4495501e59 跑步学院
+https://feed.hamibot.com/api/feeds/6469ba5900debd4495501e60 泡泡机器人SLAM
+https://feed.hamibot.com/api/feeds/6469ba5900debd4495501e68 朋友印象
+https://feed.hamibot.com/api/feeds/6469ba5a00debd4495501e71 平方根科技
+https://feed.hamibot.com/api/feeds/6469ba5a00debd4495501e79 PKU学术科创
+https://feed.hamibot.com/api/feeds/6469ba5a00debd4495501e81 Plum AI
+https://feed.hamibot.com/api/feeds/6469ba5a00debd4495501e89 谱尼医学
+https://feed.hamibot.com/api/feeds/6469ba5a00debd4495501e91 Python编程
+https://feed.hamibot.com/api/feeds/6469ba5a00debd4495501e9a 前端教程
+https://feed.hamibot.com/api/feeds/6469ba5b00debd4495501ea2 锵锵圆桌派
+https://feed.hamibot.com/api/feeds/6469ba5b00debd4495501eaa 钱客多同城惠
+https://feed.hamibot.com/api/feeds/6469ba5b00debd4495501eb2 千聊课程
+https://feed.hamibot.com/api/feeds/6469ba5b00debd4495501eba 千聊特训营
+https://feed.hamibot.com/api/feeds/6469ba5b00debd4495501ec2 嵌入式Linux中文站
+https://feed.hamibot.com/api/feeds/6469ba5b00debd4495501eca 清风渡学堂
+https://feed.hamibot.com/api/feeds/6469ba5b00debd4495501ed1 清华大学学报自然科学版
+https://feed.hamibot.com/api/feeds/6469ba5c00debd4495501eda 请柬邀请函制作
+https://feed.hamibot.com/api/feeds/6469ba5c00debd4495501ee2 擎朗客户服务
+https://feed.hamibot.com/api/feeds/6469ba5c00debd4495501eea 轻松会员大家庭
+https://feed.hamibot.com/api/feeds/6469ba5c00debd4495501ef2 七月在线实验室
+https://feed.hamibot.com/api/feeds/6469ba5c00debd4495501efa 七只考拉便利店
+https://feed.hamibot.com/api/feeds/6469ba5c00debd4495501f03 全球财富管理论坛
+https://feed.hamibot.com/api/feeds/6469ba5d00debd4495501f0b 全球超自然灵异事件
+https://feed.hamibot.com/api/feeds/6469ba5d00debd4495501f13 全球影视精选
+https://feed.hamibot.com/api/feeds/6469ba5d00debd4495501f1c 全球意外视频
+https://feed.hamibot.com/api/feeds/6469ba5d00debd4495501f24 趣词词典
+https://feed.hamibot.com/api/feeds/6469ba5d00debd4495501f2c 人工智能AI技术
+https://feed.hamibot.com/api/feeds/6469ba5e00debd4495501f34 人工智能和机器人研究院
+https://feed.hamibot.com/api/feeds/6469ba5e00debd4495501f3c 人工智能那点事
+https://feed.hamibot.com/api/feeds/6469ba5e00debd4495501f45 人工智能online
+https://feed.hamibot.com/api/feeds/6469ba5e00debd4495501f4d 人工智能新时代
+https://feed.hamibot.com/api/feeds/6469ba5e00debd4495501f55 人工智能学社
+https://feed.hamibot.com/api/feeds/6469ba5e00debd4495501f5e 人工智能与大数据技术
+https://feed.hamibot.com/api/feeds/6469ba5e00debd4495501f66 人机与认知实验室
+https://feed.hamibot.com/api/feeds/6469ba5f00debd4495501f6e 人人行拍
+https://feed.hamibot.com/api/feeds/6469ba5f00debd4495501f76 如布科技
+https://feed.hamibot.com/api/feeds/6469ba5f00debd4495501f7e 思辨读书会
+https://feed.hamibot.com/api/feeds/6469ba5f00debd4495501f86 思必驰
+https://feed.hamibot.com/api/feeds/6469ba5f00debd4495501f8e 赛尔实验室
+https://feed.hamibot.com/api/feeds/6469ba5f00debd4495501f96 思岚科技
+https://feed.hamibot.com/api/feeds/6469ba5f00debd4495501f9e 三星电子官方
+https://feed.hamibot.com/api/feeds/6469ba6000debd4495501fa6 SenseTime
+https://feed.hamibot.com/api/feeds/6469ba6000debd4495501fb1 沙河南一鸽鸟集市
+https://feed.hamibot.com/api/feeds/6469ba6000debd4495501fb9 尚观Linux研究室
+https://feed.hamibot.com/api/feeds/6469ba6000debd4495501fc2 上海财经大学统计与管理学院
+https://feed.hamibot.com/api/feeds/6469ba6100debd4495501fcb 上海交大机器视觉与智能实验室
+https://feed.hamibot.com/api/feeds/6469ba6100debd4495501fd3 上海社科院智库研究中心
+https://feed.hamibot.com/api/feeds/6469ba6100debd4495501fdb 商汤服务号
+https://feed.hamibot.com/api/feeds/6469ba6100debd4495501fe3 陕西科技成果微服务
+https://feed.hamibot.com/api/feeds/6469ba6100debd4495501fea 神策经纶
+https://feed.hamibot.com/api/feeds/6469ba6200debd4495501ff3 深度强化学习 CASIA
+https://feed.hamibot.com/api/feeds/6469ba6200debd4495501ffb 深度学习Caffe
+https://feed.hamibot.com/api/feeds/6469ba6200debd4495502003 深度学习检测与识别
+https://feed.hamibot.com/api/feeds/6469ba6200debd449550200b 深度学习这件小事
+https://feed.hamibot.com/api/feeds/6469ba6200debd4495502013 深度学习专栏
+https://feed.hamibot.com/api/feeds/6469ba6300debd449550201b 深度学习自然语言处理
+https://feed.hamibot.com/api/feeds/6469ba6300debd4495502023 声智科技
+https://feed.hamibot.com/api/feeds/6469ba6300debd449550202b 神机喵算
+https://feed.hamibot.com/api/feeds/6469ba6300debd4495502032 神经网络与强化学习
+https://feed.hamibot.com/api/feeds/6469ba6300debd449550203b 深美IC猫
+https://feed.hamibot.com/api/feeds/6469ba6400debd4495502044 沈阳深度学习团队
+https://feed.hamibot.com/api/feeds/6469ba6400debd449550204c 深圳西丽齐贝
+https://feed.hamibot.com/api/feeds/6469ba6400debd4495502054 时代财经智库
+https://feed.hamibot.com/api/feeds/6469ba6400debd449550205c 视觉机器人
+https://feed.hamibot.com/api/feeds/6469ba6400debd4495502065 视角学社
+https://feed.hamibot.com/api/feeds/6469ba6400debd449550206d 视连通科技
+https://feed.hamibot.com/api/feeds/6469ba6500debd4495502075 数感星球
+https://feed.hamibot.com/api/feeds/6469ba6500debd449550207d 数据分析微招聘
+https://feed.hamibot.com/api/feeds/6469ba6500debd4495502085 数据蒋堂
+https://feed.hamibot.com/api/feeds/6469ba6500debd449550208e 数据库开发
+https://feed.hamibot.com/api/feeds/6469ba6500debd4495502096 数据挖掘机养成记
+https://feed.hamibot.com/api/feeds/6469ba6500debd449550209e 数库Tech
+https://feed.hamibot.com/api/feeds/6469ba6600debd44955020a6 硕博就业出国
+https://feed.hamibot.com/api/feeds/6469ba6600debd44955020ae 数说工作室
+https://feed.hamibot.com/api/feeds/6469ba6600debd44955020b6 数学考研李扬
+https://feed.hamibot.com/api/feeds/6469ba6600debd44955020be 数学中国
+https://feed.hamibot.com/api/feeds/6469ba6600debd44955020c6 数有范
+https://feed.hamibot.com/api/feeds/6469ba6600debd44955020ce 数字图像处理小组
+https://feed.hamibot.com/api/feeds/6469ba6600debd44955020d6 Sports Monster运动萌兽主题公园
+https://feed.hamibot.com/api/feeds/6469ba6700debd44955020de Sunway荷兰语资讯平台
+https://feed.hamibot.com/api/feeds/6469ba6700debd44955020e6 SUPER RABBIT运动汇 大学城店
+https://feed.hamibot.com/api/feeds/6469ba6700debd44955020ee 糖果热爱
+https://feed.hamibot.com/api/feeds/6469ba6700debd44955020f6 韬雄
+https://feed.hamibot.com/api/feeds/6469ba6700debd44955020fe TechTeam
+https://feed.hamibot.com/api/feeds/6469ba6700debd4495502106 特特米拉在德国
+https://feed.hamibot.com/api/feeds/6469ba6800debd449550210e Theseed
+https://feed.hamibot.com/api/feeds/6469ba6800debd4495502116 天猫内部优惠购
+https://feed.hamibot.com/api/feeds/6469ba6800debd449550211e 天之博特
+https://feed.hamibot.com/api/feeds/6469ba6800debd4495502126 TonyBai
+https://feed.hamibot.com/api/feeds/6469ba6800debd449550212f 投行财经智库
+https://feed.hamibot.com/api/feeds/6469ba6800debd4495502137 頭壹號
+https://feed.hamibot.com/api/feeds/6469ba6800debd449550213f 图森北美
+https://feed.hamibot.com/api/feeds/6469ba6900debd4495502147 图森互联
+https://feed.hamibot.com/api/feeds/6469ba6900debd449550214f 图像处理
+https://feed.hamibot.com/api/feeds/6469ba6900debd4495502157 图像处理与机器学习
+https://feed.hamibot.com/api/feeds/6469ba6900debd4495502160 图解AI笔记
+https://feed.hamibot.com/api/feeds/6469ba6a00debd4495502168 Vincross
+https://feed.hamibot.com/api/feeds/6469ba6a00debd4495502170 娃哈哈到家
+https://feed.hamibot.com/api/feeds/6469ba6a00debd4495502178 外包服务管理
+https://feed.hamibot.com/api/feeds/6469ba6a00debd4495502180 外星UFO探秘
+https://feed.hamibot.com/api/feeds/6469ba6b00debd4495502188 玩吧APP
+https://feed.hamibot.com/api/feeds/6469ba6b00debd4495502192 玩吧一悦show
+https://feed.hamibot.com/api/feeds/6469ba6b00debd449550219c 王道讲书
+https://feed.hamibot.com/api/feeds/6469ba6c00debd44955021a4 王的机器
+https://feed.hamibot.com/api/feeds/6469ba6c00debd44955021ac 玩转英语单词
+https://feed.hamibot.com/api/feeds/6469ba6c00debd44955021b4 WatchThis字幕组
+https://feed.hamibot.com/api/feeds/6469ba6c00debd44955021bc Web开发
+https://feed.hamibot.com/api/feeds/6469ba6d00debd44955021c4 微孚智能
+https://feed.hamibot.com/api/feeds/6469ba6d00debd44955021cc 唯物WU
+https://feed.hamibot.com/api/feeds/6469ba6d00debd44955021d4 文献云
+https://feed.hamibot.com/api/feeds/6469ba6d00debd44955021dc 我爱机器学习
+https://feed.hamibot.com/api/feeds/6469ba6d00debd44955021e4 沃顿商业智库
+https://feed.hamibot.com/api/feeds/6469ba6e00debd44955021ec 喔家ArchiSelf
+https://feed.hamibot.com/api/feeds/6469ba6e00debd44955021f5 乌合之众
+https://feed.hamibot.com/api/feeds/6469ba6e00debd44955021fd 五杀电影院
+https://feed.hamibot.com/api/feeds/6469ba6e00debd4495502205 五杀影院
+https://feed.hamibot.com/api/feeds/6469ba6e00debd449550220c 五子棋双人玩对战
+https://feed.hamibot.com/api/feeds/6469ba6e00debd4495502215 西安高新一中
+https://feed.hamibot.com/api/feeds/6469ba6f00debd449550221d 西安高新一中实验中学
+https://feed.hamibot.com/api/feeds/6469ba6f00debd4495502225 鲜老虎
+https://feed.hamibot.com/api/feeds/6469ba6f00debd449550222d 笑傲野湖
+https://feed.hamibot.com/api/feeds/6469ba6f00debd4495502235 小C微英语
+https://feed.hamibot.com/api/feeds/6469ba6f00debd449550223e 小丁OpenCV之路
+https://feed.hamibot.com/api/feeds/6469ba6f00debd4495502246 小董老师666
+https://feed.hamibot.com/api/feeds/6469ba7000debd449550224e 小分子简读
+https://feed.hamibot.com/api/feeds/6469ba7000debd4495502257 笑脱喜剧
+https://feed.hamibot.com/api/feeds/6469ba7000debd449550225f 校招巴士
+https://feed.hamibot.com/api/feeds/6469ba7000debd449550226a 小沝子表情包
+https://feed.hamibot.com/api/feeds/6469ba7000debd4495502272 小猪民宿环游记
+https://feed.hamibot.com/api/feeds/6469ba7000debd4495502279 西城消费
+https://feed.hamibot.com/api/feeds/6469ba7100debd4495502282 写bug的程旭源
+https://feed.hamibot.com/api/feeds/6469ba7100debd4495502289 斜杠派
+https://feed.hamibot.com/api/feeds/6469ba7100debd4495502291 西梅英语
+https://feed.hamibot.com/api/feeds/6469ba7100debd449550229a 新东方前途出国
+https://feed.hamibot.com/api/feeds/6469ba7100debd44955022a2 星际联播
+https://feed.hamibot.com/api/feeds/6469ba7100debd44955022aa 星马科技
+https://feed.hamibot.com/api/feeds/6469ba7200debd44955022b2 星图深处研究院
+https://feed.hamibot.com/api/feeds/6469ba7200debd44955022bb 星图无人机
+https://feed.hamibot.com/api/feeds/6469ba7200debd44955022c2 芯基建
+https://feed.hamibot.com/api/feeds/6469ba7200debd44955022cb 心期解码
+https://feed.hamibot.com/api/feeds/6469ba7300debd44955022d3 新乐府CMH
+https://feed.hamibot.com/api/feeds/6469ba7300debd44955022db Xtecher
+https://feed.hamibot.com/api/feeds/6469ba7300debd44955022e3 萱子饰品
+https://feed.hamibot.com/api/feeds/6469ba7300debd44955022eb 讯飞AI大学堂
+https://feed.hamibot.com/api/feeds/6469ba7400debd44955022f3 研学姐
+https://feed.hamibot.com/api/feeds/6469ba7400debd44955022ff 亚信科技
+https://feed.hamibot.com/api/feeds/6469ba7400debd449550230a 亿航无人机
+https://feed.hamibot.com/api/feeds/6469ba7400debd4495502313 易居研究院
+https://feed.hamibot.com/api/feeds/6469ba7500debd449550231f 一名叫大蕉的程序员
+https://feed.hamibot.com/api/feeds/6469ba7500debd4495502328 营创书院
+https://feed.hamibot.com/api/feeds/6469ba7500debd4495502332 英教汇
+https://feed.hamibot.com/api/feeds/6469ba7500debd449550233c 映维网Nweon
+https://feed.hamibot.com/api/feeds/6469ba7600debd4495502347 英语词根词缀
+https://feed.hamibot.com/api/feeds/6469ba7600debd4495502351 衣品天成 EPTISON
+https://feed.hamibot.com/api/feeds/6469ba7600debd4495502359 一团英语
+https://feed.hamibot.com/api/feeds/6469ba7600debd4495502362 易推创意体验号
+https://feed.hamibot.com/api/feeds/6469ba7600debd449550236a 一网荷兰
+https://feed.hamibot.com/api/feeds/6469ba7600debd4495502374 一线大厂首席福利官
+https://feed.hamibot.com/api/feeds/6469ba7700debd449550237e 宜信服务
+https://feed.hamibot.com/api/feeds/6469ba7700debd4495502388 易习在线
+https://feed.hamibot.com/api/feeds/6469ba7700debd4495502391 优必选服务
+https://feed.hamibot.com/api/feeds/6469ba7700debd449550239a 优达明日之城
+https://feed.hamibot.com/api/feeds/6469ba7800debd44955023a4 有道阅读
+https://feed.hamibot.com/api/feeds/6469ba7800debd44955023ae 有麦娱乐
+https://feed.hamibot.com/api/feeds/6469ba7800debd44955023b9 Your Best Headhunter
+https://feed.hamibot.com/api/feeds/6469ba7800debd44955023c3 优泰智库
+https://feed.hamibot.com/api/feeds/6469ba7900debd44955023d0 油兔不二字幕组
+https://feed.hamibot.com/api/feeds/6469ba7900debd44955023db 优洋饮品
+https://feed.hamibot.com/api/feeds/6469ba7900debd44955023e5 有赞心选
+https://feed.hamibot.com/api/feeds/6469ba7900debd44955023f0 柚子留学择校器
+https://feed.hamibot.com/api/feeds/6469ba7a00debd44955023f9 猿圈科技
+https://feed.hamibot.com/api/feeds/6469ba7a00debd4495502404 月光加速科技
+https://feed.hamibot.com/api/feeds/6469ba7a00debd449550240e 乐乎俱乐部
+https://feed.hamibot.com/api/feeds/6469ba7a00debd449550241b 悦聚焦
+https://feed.hamibot.com/api/feeds/6469ba7b00debd4495502423 乐口英语
+https://feed.hamibot.com/api/feeds/6469ba7b00debd449550242d 阅面科技ReadSense
+https://feed.hamibot.com/api/feeds/6469ba7b00debd4495502439 遇见北京
+https://feed.hamibot.com/api/feeds/6469ba7c00debd4495502444 云搜之家
+https://feed.hamibot.com/api/feeds/6469ba7c00debd449550244d 云天励飞
+https://feed.hamibot.com/api/feeds/6469ba7c00debd4495502455 云知声
+https://feed.hamibot.com/api/feeds/6469ba7c00debd4495502462 云知声Unisound
+https://feed.hamibot.com/api/feeds/6469ba7c00debd449550246a 驭势未来
+https://feed.hamibot.com/api/feeds/6469ba7d00debd4495502475 与数据同行
+https://feed.hamibot.com/api/feeds/6469ba7d00debd449550247f 宇宙奥秘
+https://feed.hamibot.com/api/feeds/6469ba7d00debd4495502487 在职研究生网
+https://feed.hamibot.com/api/feeds/6469ba7d00debd4495502495 正康英语
+https://feed.hamibot.com/api/feeds/6469ba7e00debd44955024a0 智齿科技
+https://feed.hamibot.com/api/feeds/6469ba7e00debd44955024aa 支点思维
+https://feed.hamibot.com/api/feeds/6469ba7e00debd44955024b4 智慧思特大数据
+https://feed.hamibot.com/api/feeds/6469ba7e00debd44955024bc 职觉视界
+https://feed.hamibot.com/api/feeds/6469ba7f00debd44955024c5 智适应教育南京鼓楼分校
+https://feed.hamibot.com/api/feeds/6469ba7f00debd44955024cf Zhizi智子数据
+https://feed.hamibot.com/api/feeds/6469ba7f00debd44955024d9 中发百旺商城
+https://feed.hamibot.com/api/feeds/6469ba7f00debd44955024e2 中关村图书大厦
+https://feed.hamibot.com/api/feeds/6469ba8000debd44955024ec 中国空间技术研究院
+https://feed.hamibot.com/api/feeds/6469ba8000debd44955024f7 中科视拓Seetatech
+https://feed.hamibot.com/api/feeds/6469ba8000debd4495502501 中科院考研联盟
+https://feed.hamibot.com/api/feeds/6469ba8100debd449550250b 中美财经智库
+https://feed.hamibot.com/api/feeds/6469ba8100debd4495502515 中视典虚拟现实
+https://feed.hamibot.com/api/feeds/6469ba8100debd449550251e 周村古商城
+https://feed.hamibot.com/api/feeds/6469ba8200debd449550252a 自然语言处理实践
+https://feed.hamibot.com/api/feeds/6469ba8200debd4495502534 45society
+https://feed.hamibot.com/api/feeds/6469ba8200debd449550253f 51金融圈
