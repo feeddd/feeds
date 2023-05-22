@@ -44440,3 +44440,8 @@ https://feed.hamibot.com/api/feeds/6469ba8100debd449550251e/json 周村古商城
 https://feed.hamibot.com/api/feeds/6469ba8200debd449550252a/json 自然语言处理实践
 https://feed.hamibot.com/api/feeds/6469ba8200debd4495502534/json 45society
 https://feed.hamibot.com/api/feeds/6469ba8200debd449550253f/json 51金融圈
+https://feed.hamibot.com/api/feeds/646b214600debd449552d917/json 摸鱼人日历
+https://feed.hamibot.com/api/feeds/646b607700debd449553a17d/json Jump x Steam
+https://feed.hamibot.com/api/feeds/646b8f5f00debd449553c1c0/json 黄庭医语
+https://feed.hamibot.com/api/feeds/646b906b00debd449553c29a/json 三五医庐
+https://feed.hamibot.com/api/feeds/646b930c00debd449553c5ff/json 同心学社
