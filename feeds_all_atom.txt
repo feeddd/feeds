@@ -45232,3 +45232,6 @@ https://feed.hamibot.com/api/feeds/646f28f400debd4495597de3/atom 因果推断
 https://feed.hamibot.com/api/feeds/646f28f400debd4495597de9/atom 智能便易充
 https://feed.hamibot.com/api/feeds/646f28f400debd4495597def/atom 知文智用
 https://feed.hamibot.com/api/feeds/646f28f400debd4495597df5/atom 中国联合航空
+https://feed.hamibot.com/api/feeds/6470280100debd44955b76ee/atom 北京全城攻略
+https://feed.hamibot.com/api/feeds/6470292800debd44955b7881/atom 肥城热线
+https://feed.hamibot.com/api/feeds/64702b6de889b5448f9732c9/atom 济南市中区育晖幼儿园
