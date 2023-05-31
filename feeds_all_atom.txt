@@ -45235,3 +45235,10 @@ https://feed.hamibot.com/api/feeds/646f28f400debd4495597df5/atom 中国联合航
 https://feed.hamibot.com/api/feeds/6470280100debd44955b76ee/atom 北京全城攻略
 https://feed.hamibot.com/api/feeds/6470292800debd44955b7881/atom 肥城热线
 https://feed.hamibot.com/api/feeds/64702b6de889b5448f9732c9/atom 济南市中区育晖幼儿园
+https://feed.hamibot.com/api/feeds/64771d8c00debd449567dd23/atom Longbridge Global
+https://feed.hamibot.com/api/feeds/64771d8c00debd449567dd29/atom 图解金融
+https://feed.hamibot.com/api/feeds/647728a300debd449567e26f/atom 贵阳好房研究所
+https://feed.hamibot.com/api/feeds/647728a300debd449567e276/atom 海豚投研
+https://feed.hamibot.com/api/feeds/647728a400debd449567e27e/atom MY聊审计
+https://feed.hamibot.com/api/feeds/647739af00debd449567e819/atom 候鸟房评
+https://feed.hamibot.com/api/feeds/647739af00debd449567e825/atom 一起去SUV
