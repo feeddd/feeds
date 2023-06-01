@@ -45242,3 +45242,10 @@ https://feed.hamibot.com/api/feeds/647728a300debd449567e276/atom 海豚投研
 https://feed.hamibot.com/api/feeds/647728a400debd449567e27e/atom MY聊审计
 https://feed.hamibot.com/api/feeds/647739af00debd449567e819/atom 候鸟房评
 https://feed.hamibot.com/api/feeds/647739af00debd449567e825/atom 一起去SUV
+https://feed.hamibot.com/api/feeds/6478886300debd449569ff63/atom 百利天下留学
+https://feed.hamibot.com/api/feeds/6478886300debd449569ff69/atom 老高智慧人生说
+https://feed.hamibot.com/api/feeds/6478886300debd449569ff6f/atom 启德留学
+https://feed.hamibot.com/api/feeds/6478886300debd449569ff75/atom 鸭圈留学考试
+https://feed.hamibot.com/api/feeds/6478886300debd449569ff7b/atom 英国留学申请
+https://feed.hamibot.com/api/feeds/6478886400debd449569ff81/atom 英国留学中心
+https://feed.hamibot.com/api/feeds/6478914800debd44956a0931/atom 加拿大留学生报
