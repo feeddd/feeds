@@ -45242,3 +45242,10 @@ https://feed.hamibot.com/api/feeds/647728a300debd449567e276/json 海豚投研
 https://feed.hamibot.com/api/feeds/647728a400debd449567e27e/json MY聊审计
 https://feed.hamibot.com/api/feeds/647739af00debd449567e819/json 候鸟房评
 https://feed.hamibot.com/api/feeds/647739af00debd449567e825/json 一起去SUV
+https://feed.hamibot.com/api/feeds/6478886300debd449569ff63/json 百利天下留学
+https://feed.hamibot.com/api/feeds/6478886300debd449569ff69/json 老高智慧人生说
+https://feed.hamibot.com/api/feeds/6478886300debd449569ff6f/json 启德留学
+https://feed.hamibot.com/api/feeds/6478886300debd449569ff75/json 鸭圈留学考试
+https://feed.hamibot.com/api/feeds/6478886300debd449569ff7b/json 英国留学申请
+https://feed.hamibot.com/api/feeds/6478886400debd449569ff81/json 英国留学中心
+https://feed.hamibot.com/api/feeds/6478914800debd44956a0931/json 加拿大留学生报
