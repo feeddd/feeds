@@ -45539,3 +45539,24 @@ https://feed.hamibot.com/api/feeds/6479f9ec00debd44956c0374 夜游锦江
 https://feed.hamibot.com/api/feeds/647a035d00debd44956c0d7d 成都潮生活
 https://feed.hamibot.com/api/feeds/647a035e00debd44956c0d8f 成都商报
 https://feed.hamibot.com/api/feeds/647a036100debd44956c0dc8 微成都
+https://feed.hamibot.com/api/feeds/647bd2d700debd4495708957 新能源汽车行业研究
+https://feed.hamibot.com/api/feeds/647c07cc00debd449570c9e3 东南大学研究生
+https://feed.hamibot.com/api/feeds/647c07cc00debd449570c9eb 东南大学就业指导中心
+https://feed.hamibot.com/api/feeds/647c359500debd449571197a AEMS澳洲移民留学服务
+https://feed.hamibot.com/api/feeds/647c359500debd4495711980 澳洲留学
+https://feed.hamibot.com/api/feeds/647c359500debd4495711986 澳洲新东方前途出国
+https://feed.hamibot.com/api/feeds/647c359500debd449571198c 棒呆留学精选
+https://feed.hamibot.com/api/feeds/647c359600debd4495711995 Edvoy 英国留学
+https://feed.hamibot.com/api/feeds/647c359600debd449571199e EIC启德澳洲
+https://feed.hamibot.com/api/feeds/647c359600debd44957119a4 海德Hyde英国留学
+https://feed.hamibot.com/api/feeds/647c359600debd44957119aa MonkeyKing学生中心
+https://feed.hamibot.com/api/feeds/647c359600debd44957119b0 新东方澳洲新西兰留学
+https://feed.hamibot.com/api/feeds/647c359600debd44957119b6 英国留学与爱尔兰留学
+https://feed.hamibot.com/api/feeds/647c359700debd44957119bc 指南针移民留学
+https://feed.hamibot.com/api/feeds/647cbe9b00debd4495724e19 北京12345市民热线
+https://feed.hamibot.com/api/feeds/647cbe9c00debd4495724e1f 北京大兴国际机场
+https://feed.hamibot.com/api/feeds/647cbe9c00debd4495724e25 北京海关发布
+https://feed.hamibot.com/api/feeds/647cbe9c00debd4495724e2b 北京交警
+https://feed.hamibot.com/api/feeds/647cbe9c00debd4495724e32 北京人事考试
+https://feed.hamibot.com/api/feeds/647cbe9d00debd4495724e38 首都之窗
+https://feed.hamibot.com/api/feeds/647cbe9d00debd4495724e3e 文旅北京
