@@ -45560,3 +45560,4 @@ https://feed.hamibot.com/api/feeds/647cbe9c00debd4495724e2b/atom 北京交警
 https://feed.hamibot.com/api/feeds/647cbe9c00debd4495724e32/atom 北京人事考试
 https://feed.hamibot.com/api/feeds/647cbe9d00debd4495724e38/atom 首都之窗
 https://feed.hamibot.com/api/feeds/647cbe9d00debd4495724e3e/atom 文旅北京
+https://feed.hamibot.com/api/feeds/647ded6500debd44957522e1/atom 慧眼优选
