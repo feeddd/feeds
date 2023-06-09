@@ -45734,3 +45734,65 @@ https://feed.hamibot.com/api/feeds/6481a75c00debd44957baa62 中国国际展览�
 https://feed.hamibot.com/api/feeds/6481a75c00debd44957baa68 中国航天博物馆
 https://feed.hamibot.com/api/feeds/6481a75d00debd44957baa6e 中国铁道博物馆
 https://feed.hamibot.com/api/feeds/6481f43a00debd44957c1a0f 起点锂电
+https://feed.hamibot.com/api/feeds/6482769ee889b5448f9dba4d 锂电那些事
+https://feed.hamibot.com/api/feeds/648277d4e889b5448f9dbad0 锂电新能源
+https://feed.hamibot.com/api/feeds/648277d4e889b5448f9dbaf6 汽车行业洞察
+https://feed.hamibot.com/api/feeds/648277d4e889b5448f9dbb06 说东道西
+https://feed.hamibot.com/api/feeds/648277d4e889b5448f9dbb1a 新能源BMS
+https://feed.hamibot.com/api/feeds/648277d5e889b5448f9dbb22 智一堂
+https://feed.hamibot.com/api/feeds/64828cf400debd44957d04e2 潦草学者
+https://feed.hamibot.com/api/feeds/6482b31300debd44957d4258 锂电池资料库
+https://feed.hamibot.com/api/feeds/6482b55fe889b5448f9dc1ad 88锂电
+https://feed.hamibot.com/api/feeds/6482b76000debd44957d4a52 哈尔滨公交行
+https://feed.hamibot.com/api/feeds/6482b76000debd44957d4a5d 哈尔滨国际会展体育中心
+https://feed.hamibot.com/api/feeds/6482b76000debd44957d4a6e 哈尔滨话剧院
+https://feed.hamibot.com/api/feeds/6482b76000debd44957d4a74 哈尔滨交通广播
+https://feed.hamibot.com/api/feeds/6482b76100debd44957d4a7e 哈尔滨气象
+https://feed.hamibot.com/api/feeds/6482b76100debd44957d4a86 哈尔滨日报
+https://feed.hamibot.com/api/feeds/6482b76100debd44957d4a8c 哈尔滨杉杉奥特莱斯广场
+https://feed.hamibot.com/api/feeds/6482b76100debd44957d4a92 哈尔滨市冰球协会
+https://feed.hamibot.com/api/feeds/6482b76100debd44957d4a98 哈尔滨市工人文化宫
+https://feed.hamibot.com/api/feeds/6482b76200debd44957d4a9e 哈尔滨市招聘信息
+https://feed.hamibot.com/api/feeds/6482b76200debd44957d4aa7 哈尔滨王府井购物中心
+https://feed.hamibot.com/api/feeds/6482b76200debd44957d4aaf 哈尔滨新闻网
+https://feed.hamibot.com/api/feeds/6482b76200debd44957d4abc 哈尔滨音乐厅
+https://feed.hamibot.com/api/feeds/6482b76200debd44957d4ac2 哈尔滨指南
+https://feed.hamibot.com/api/feeds/6482b76300debd44957d4ac8 黑龙江德云社
+https://feed.hamibot.com/api/feeds/6482b76300debd44957d4ace 黑龙江省歌舞剧院
+https://feed.hamibot.com/api/feeds/6482b76300debd44957d4ad6 黑龙江新闻网
+https://feed.hamibot.com/api/feeds/6482b76300debd44957d4ade 红博广场
+https://feed.hamibot.com/api/feeds/6482b76300debd44957d4ae5 红博会展商业
+https://feed.hamibot.com/api/feeds/6482b76400debd44957d4af0 龙视新闻在线
+https://feed.hamibot.com/api/feeds/6482b76400debd44957d4af8 新晚报
+https://feed.hamibot.com/api/feeds/6482b76400debd44957d4b02 远大购物中心南岗店
+https://feed.hamibot.com/api/feeds/6482bdc900debd44957d538d SMM锂电回收
+https://feed.hamibot.com/api/feeds/6482f293e889b5448f9dc4a4 东莞市锂电行业协会
+https://feed.hamibot.com/api/feeds/6482f293e889b5448f9dc4a9 锂电材料观察
+https://feed.hamibot.com/api/feeds/6482f3b7e889b5448f9dc502 鑫椤锂电
+https://feed.hamibot.com/api/feeds/64830070e889b5448f9dc536 安天AVL威胁情报中心
+https://feed.hamibot.com/api/feeds/648302e500debd44957d96cf 锂电产业通
+https://feed.hamibot.com/api/feeds/6483200d00debd44957dccce 吃喝玩乐在杭州
+https://feed.hamibot.com/api/feeds/6483200d00debd44957dccd4 大麦浙江
+https://feed.hamibot.com/api/feeds/6483200e00debd44957dccdd 浮力音乐节
+https://feed.hamibot.com/api/feeds/6483201000debd44957dcd04 杭州吃喝玩乐
+https://feed.hamibot.com/api/feeds/6483201000debd44957dcd0a 杭州高速交警
+https://feed.hamibot.com/api/feeds/6483201100debd44957dcd10 杭州国际交流之窗
+https://feed.hamibot.com/api/feeds/6483201100debd44957dcd1f 杭州韩美林艺术馆
+https://feed.hamibot.com/api/feeds/6483201100debd44957dcd25 杭州文广旅游发布
+https://feed.hamibot.com/api/feeds/6483201100debd44957dcd2b 杭州文旅指南
+https://feed.hamibot.com/api/feeds/6483201100debd44957dcd35 杭州文艺界
+https://feed.hamibot.com/api/feeds/6483201100debd44957dcd3b 杭州杂技总团
+https://feed.hamibot.com/api/feeds/6483201200debd44957dcd4d 文艺杭州
+https://feed.hamibot.com/api/feeds/6483201300debd44957dcd53 西湖音乐节
+https://feed.hamibot.com/api/feeds/6483201300debd44957dcd59 西泠印社美术馆
+https://feed.hamibot.com/api/feeds/6483201300debd44957dcd65 乐活杭州
+https://feed.hamibot.com/api/feeds/6483201400debd44957dcd6c 浙江地质
+https://feed.hamibot.com/api/feeds/6483201400debd44957dcd72 浙江歌舞剧院
+https://feed.hamibot.com/api/feeds/6483201400debd44957dcd78 浙江美术馆
+https://feed.hamibot.com/api/feeds/6483201400debd44957dcd7e 浙江美术馆之友
+https://feed.hamibot.com/api/feeds/6483201400debd44957dcd84 浙江省地质矿产研究所
+https://feed.hamibot.com/api/feeds/6483201500debd44957dcd8b 浙江省珠宝玉石首饰鉴定中心
+https://feed.hamibot.com/api/feeds/6483201500debd44957dcd91 浙江文艺
+https://feed.hamibot.com/api/feeds/64835639e889b5448f9dcf3a 锂电池储能技术
+https://feed.hamibot.com/api/feeds/64835639e889b5448f9dcf51 锂电在线
+https://feed.hamibot.com/api/feeds/6483578200debd44957e2173 SMM锂电
