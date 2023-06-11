@@ -45812,3 +45812,11 @@ https://feed.hamibot.com/api/feeds/6484123a00debd44957f51d8/json YONEX
 https://feed.hamibot.com/api/feeds/6484123a00debd44957f51de/json 有道AI情报局
 https://feed.hamibot.com/api/feeds/6484123a00debd44957f51e4/json 政采云技术
 https://feed.hamibot.com/api/feeds/64843cd900debd44957f6a49/json 迪fans
+https://feed.hamibot.com/api/feeds/6485137c00debd4495817ec5/json 成都地铁服务
+https://feed.hamibot.com/api/feeds/6485137c00debd4495817ecb/json 成都教育发布
+https://feed.hamibot.com/api/feeds/6485137d00debd4495817ed1/json 成都亲子俱乐部
+https://feed.hamibot.com/api/feeds/6485137d00debd4495817ed7/json 成都亲子周末
+https://feed.hamibot.com/api/feeds/6485137d00debd4495817ee0/json 成都育儿
+https://feed.hamibot.com/api/feeds/6485c6fa00debd4495829d35/json 成都少年志愿者
+https://feed.hamibot.com/api/feeds/6485c6fb00debd4495829d3d/json 成都志愿者
+https://feed.hamibot.com/api/feeds/6485c6fb00debd4495829d43/json 四川青少年志愿者
