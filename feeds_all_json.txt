@@ -45820,3 +45820,6 @@ https://feed.hamibot.com/api/feeds/6485137d00debd4495817ee0/json 成都育儿
 https://feed.hamibot.com/api/feeds/6485c6fa00debd4495829d35/json 成都少年志愿者
 https://feed.hamibot.com/api/feeds/6485c6fb00debd4495829d3d/json 成都志愿者
 https://feed.hamibot.com/api/feeds/6485c6fb00debd4495829d43/json 四川青少年志愿者
+https://feed.hamibot.com/api/feeds/6486440d00debd4495835cb3/json ATP便利店
+https://feed.hamibot.com/api/feeds/648718d500debd449584ca66/json 火烧风的个人空间
+https://feed.hamibot.com/api/feeds/648718d600debd449584ca6c/json 精练GymSquare
