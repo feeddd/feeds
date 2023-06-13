@@ -45823,3 +45823,15 @@ https://feed.hamibot.com/api/feeds/6485c6fb00debd4495829d43 四川青少年志�
 https://feed.hamibot.com/api/feeds/6486440d00debd4495835cb3 ATP便利店
 https://feed.hamibot.com/api/feeds/648718d500debd449584ca66 火烧风的个人空间
 https://feed.hamibot.com/api/feeds/648718d600debd449584ca6c 精练GymSquare
+https://feed.hamibot.com/api/feeds/6487bc7900debd449586272f 我不是芙蓉弟弟
+https://feed.hamibot.com/api/feeds/6487c02700debd4495862a58 馊面包
+https://feed.hamibot.com/api/feeds/6487d7db00debd449586493b 安徽交通广播
+https://feed.hamibot.com/api/feeds/6487d7db00debd4495864941 KVB昆仑国际
+https://feed.hamibot.com/api/feeds/6487d7db00debd4495864947 零壹财经
+https://feed.hamibot.com/api/feeds/6487d7db00debd449586494d MYNOVO麦诺禾
+https://feed.hamibot.com/api/feeds/6487d7db00debd4495864953 思想猫资本
+https://feed.hamibot.com/api/feeds/6487d7dc00debd4495864959 天津广播
+https://feed.hamibot.com/api/feeds/6487e8ec00debd449586dd26 星恒锂电池
+https://feed.hamibot.com/api/feeds/64881c4ce889b5448f9fa98d 陈大力
+https://feed.hamibot.com/api/feeds/64888f57e889b5448f9fb560 DAMA数据管理
+https://feed.hamibot.com/api/feeds/64888f58e889b5448f9fb56d 数据学堂
