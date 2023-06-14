@@ -45835,3 +45835,6 @@ https://feed.hamibot.com/api/feeds/6487e8ec00debd449586dd26/json 星恒锂电池
 https://feed.hamibot.com/api/feeds/64881c4ce889b5448f9fa98d/json 陈大力
 https://feed.hamibot.com/api/feeds/64888f57e889b5448f9fb560/json DAMA数据管理
 https://feed.hamibot.com/api/feeds/64888f58e889b5448f9fb56d/json 数据学堂
+https://feed.hamibot.com/api/feeds/6489278f00debd449589192f/json 固收荷语
+https://feed.hamibot.com/api/feeds/64892b34e889b5448f9fbe47/json 商品智贸
+https://feed.hamibot.com/api/feeds/64894267e889b5448f9fc16c/json 中国银行微银行深圳市分行
