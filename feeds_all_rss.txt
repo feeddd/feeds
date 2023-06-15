@@ -45838,3 +45838,7 @@ https://feed.hamibot.com/api/feeds/64888f58e889b5448f9fb56d 数据学堂
 https://feed.hamibot.com/api/feeds/6489278f00debd449589192f 固收荷语
 https://feed.hamibot.com/api/feeds/64892b34e889b5448f9fbe47 商品智贸
 https://feed.hamibot.com/api/feeds/64894267e889b5448f9fc16c 中国银行微银行深圳市分行
+https://feed.hamibot.com/api/feeds/648a9d5fe889b5448f9fd663 钜大锂电
+https://feed.hamibot.com/api/feeds/648a9fd9e889b5448f9fd6a4 锂电人
+https://feed.hamibot.com/api/feeds/648b2ec3e889b5448f9fe69c 大数据技术标准推进委员会
+https://feed.hamibot.com/api/feeds/648b2ff2e889b5448f9fe6d7 普元信息
