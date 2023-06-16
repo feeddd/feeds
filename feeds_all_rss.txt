@@ -45842,3 +45842,13 @@ https://feed.hamibot.com/api/feeds/648a9d5fe889b5448f9fd663 钜大锂电
 https://feed.hamibot.com/api/feeds/648a9fd9e889b5448f9fd6a4 锂电人
 https://feed.hamibot.com/api/feeds/648b2ec3e889b5448f9fe69c 大数据技术标准推进委员会
 https://feed.hamibot.com/api/feeds/648b2ff2e889b5448f9fe6d7 普元信息
+https://feed.hamibot.com/api/feeds/648bd70d00debd44958dd852 本地宝天津升学
+https://feed.hamibot.com/api/feeds/648bd70d00debd44958dd858 国家海洋博物馆
+https://feed.hamibot.com/api/feeds/648bd70d00debd44958dd85e 天津博物馆
+https://feed.hamibot.com/api/feeds/648bd70d00debd44958dd864 天津发布
+https://feed.hamibot.com/api/feeds/648bd70d00debd44958dd86a 天津人社
+https://feed.hamibot.com/api/feeds/648bd70e00debd44958dd870 天津市文化和旅游局
+https://feed.hamibot.com/api/feeds/648bd70e00debd44958dd876 天津自然博物馆
+https://feed.hamibot.com/api/feeds/648bd70e00debd44958dd87c 微天津APP
+https://feed.hamibot.com/api/feeds/648c725100debd44958ea119 数澜
+https://feed.hamibot.com/api/feeds/648c733800debd44958ea345 亿信华辰Pro
