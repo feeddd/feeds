@@ -45852,3 +45852,6 @@ https://feed.hamibot.com/api/feeds/648bd70e00debd44958dd876/json 天津自然博
 https://feed.hamibot.com/api/feeds/648bd70e00debd44958dd87c/json 微天津APP
 https://feed.hamibot.com/api/feeds/648c725100debd44958ea119/json 数澜
 https://feed.hamibot.com/api/feeds/648c733800debd44958ea345/json 亿信华辰Pro
+https://feed.hamibot.com/api/feeds/648cfa1ae889b5448fa19d41/json 杭州市大数据管理服务中心
+https://feed.hamibot.com/api/feeds/648d78a000debd449590202e/json 中科星图
+https://feed.hamibot.com/api/feeds/648da8f1e889b5448fa1aa2a/json 开源地理信息
