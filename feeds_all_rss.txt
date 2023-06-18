@@ -45855,3 +45855,4 @@ https://feed.hamibot.com/api/feeds/648c733800debd44958ea345 亿信华辰Pro
 https://feed.hamibot.com/api/feeds/648cfa1ae889b5448fa19d41 杭州市大数据管理服务中心
 https://feed.hamibot.com/api/feeds/648d78a000debd449590202e 中科星图
 https://feed.hamibot.com/api/feeds/648da8f1e889b5448fa1aa2a 开源地理信息
+https://feed.hamibot.com/api/feeds/648ec82e00debd449592dcae 某科君
