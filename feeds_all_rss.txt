@@ -45856,3 +45856,31 @@ https://feed.hamibot.com/api/feeds/648cfa1ae889b5448fa19d41 杭州市大数据�
 https://feed.hamibot.com/api/feeds/648d78a000debd449590202e 中科星图
 https://feed.hamibot.com/api/feeds/648da8f1e889b5448fa1aa2a 开源地理信息
 https://feed.hamibot.com/api/feeds/648ec82e00debd449592dcae 某科君
+https://feed.hamibot.com/api/feeds/6490182700debd449595beb0 Allen没有Alpha
+https://feed.hamibot.com/api/feeds/6490182700debd449595beb6 苍山日暮
+https://feed.hamibot.com/api/feeds/6490182700debd449595bebc 大v专访
+https://feed.hamibot.com/api/feeds/6490182700debd449595bec2 杜牛牛
+https://feed.hamibot.com/api/feeds/6490182800debd449595bec8 Excel量化ETF
+https://feed.hamibot.com/api/feeds/6490182800debd449595bece 古北路烧烤哥
+https://feed.hamibot.com/api/feeds/6490182800debd449595bed4 沽空
+https://feed.hamibot.com/api/feeds/6490182800debd449595beda 宏宽观
+https://feed.hamibot.com/api/feeds/6490182800debd449595bee0 交易哲学
+https://feed.hamibot.com/api/feeds/6490182800debd449595bee6 列夫的笔
+https://feed.hamibot.com/api/feeds/6490182900debd449595beec 漫漫游资路
+https://feed.hamibot.com/api/feeds/6490182900debd449595bef5 墨锋宏观
+https://feed.hamibot.com/api/feeds/6490182900debd449595befb 木羊交易
+https://feed.hamibot.com/api/feeds/6490182900debd449595bf01 强势交易
+https://feed.hamibot.com/api/feeds/6490182900debd449595bf07 青泽谈投资之道
+https://feed.hamibot.com/api/feeds/6490182900debd449595bf0d Seven的投研笔记
+https://feed.hamibot.com/api/feeds/6490182900debd449595bf13 淘股吧热点专题
+https://feed.hamibot.com/api/feeds/6490182a00debd449595bf19 天道论期
+https://feed.hamibot.com/api/feeds/6490182a00debd449595bf1f 投研情报局
+https://feed.hamibot.com/api/feeds/6490182a00debd449595bf25 晓策佬
+https://feed.hamibot.com/api/feeds/6490182a00debd449595bf2b 西瓜XKK
+https://feed.hamibot.com/api/feeds/6490182a00debd449595bf31 行业比较与缠论研究分析
+https://feed.hamibot.com/api/feeds/6490182a00debd449595bf37 ymj0418
+https://feed.hamibot.com/api/feeds/6490182b00debd449595bf3d 云飞量化
+https://feed.hamibot.com/api/feeds/6490182b00debd449595bf43 愚者的世界
+https://feed.hamibot.com/api/feeds/6490182b00debd449595bf49 在下杜牛牛
+https://feed.hamibot.com/api/feeds/6490182b00debd449595bf4f 资讯宝plus
+https://feed.hamibot.com/api/feeds/6490182b00debd449595bf55 总龙头战法
