@@ -46016,3 +46016,5 @@ https://feed.hamibot.com/api/feeds/64910df800debd4495984e57 张展晖跑步教�
 https://feed.hamibot.com/api/feeds/64910df800debd4495984e5d 政务公开看山东
 https://feed.hamibot.com/api/feeds/64910df800debd4495984e63 中国建设银行山东省分行
 https://feed.hamibot.com/api/feeds/64910df800debd4495984e69 中国威海环翠
+https://feed.hamibot.com/api/feeds/64928673e889b5448fa2c69b 锂电设备精讲
+https://feed.hamibot.com/api/feeds/6492b0cd00debd44959a947c 小山爸爸老虎健康
