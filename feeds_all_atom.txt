@@ -46016,3 +46016,5 @@ https://feed.hamibot.com/api/feeds/64910df800debd4495984e57/atom 张展晖跑步
 https://feed.hamibot.com/api/feeds/64910df800debd4495984e5d/atom 政务公开看山东
 https://feed.hamibot.com/api/feeds/64910df800debd4495984e63/atom 中国建设银行山东省分行
 https://feed.hamibot.com/api/feeds/64910df800debd4495984e69/atom 中国威海环翠
+https://feed.hamibot.com/api/feeds/64928673e889b5448fa2c69b/atom 锂电设备精讲
+https://feed.hamibot.com/api/feeds/6492b0cd00debd44959a947c/atom 小山爸爸老虎健康
