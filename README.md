@@ -1,4 +1,4 @@
-<h1 align="center">Feeddd</h1>
+<h1 align="center">Hamibot Feed</h1>
 
 <p align="center">
 <a href="https://github.com/feeddd/feeds" ><img src="https://img.shields.io/github/stars/feeddd/feeds" /></a>
@@ -15,8 +15,6 @@
 <a href="https://github.com/feeddd/feeds" ><img src="https://reporoster.com/stars/feeddd/feeds" /></a>
 </p>
 
-<a href="https://feeddd.org" ><img src="https://feeddd.org/social.jpg" alt="feeddd" /></a>
-
 ## 📰 订阅源列表
 
 列表会定期更新。
@@ -31,19 +29,15 @@
 
 任何方式的贡献都对项目大有裨益。
 
-> 项目运作离不开大家的支持，如果项目对你有所帮助，欢迎[打赏](https://hamibot.com/marketplace/vLSBc)，帮助项目继续运作下去。
-
-1. 提交订阅更新，详细参见 [如何参与](https://feeddd.org/how-to-contribute)
+1. 提交订阅更新，详细参见 [如何参与](https://feed.hamibot.com/how-to-contribute)
 2. 分享给更多人
-3. 报告遇到的错误，[反馈问题](https://hamibot.com/dashboard/issues/create?slug=vLSBc&subject=反馈问题)
-4. 分享你的想法或建议，[分享想法](https://github.com/feeddd/feeds/issues)
-5. 给个星星 ⭐
+3. 给个星星 ⭐
 
 ## 🔗 链接
 
-- [Feeddd 官网](https://feeddd.org/)
-- [订阅源](https://feeddd.org/feeds)
-- [如何贡献](https://feeddd.org/how-to-contribute)
+- [Hamibot Feed 官网](https://feed.hamibot.com/)
+- [订阅源](https://feed.hamibot.com/feeds)
+- [如何贡献](https://feed.hamibot.com/how-to-contribute)
 
 ## 📱 脚本
 
@@ -56,4 +50,3 @@
 - [Hamibot 脚本市场](https://hamibot.com/marketplace)
 - [Hamibot 开发文档](https://docs.hamibot.com/)
 - [Hamibot 源码](https://github.com/hamibot/hamibot)
-
