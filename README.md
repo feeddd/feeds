@@ -1,3 +1,7 @@
+> 项目已关闭，感谢各位的支持。-- 2023-07-05
+
+> 如果想提交到自己服务器或本地，可使用 [公众号文章更新-专用版](https://hamibot.com/marketplace/Bh55i)
+
 <h1 align="center">Hamibot Feed</h1>
 
 <p align="center">
